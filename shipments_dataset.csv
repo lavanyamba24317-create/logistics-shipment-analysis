@@ -1,0 +1,1501 @@
+shipment_id,customer_name,origin_city,destination_city,service_type,weight_kg,shipment_date,delivery_date,cost_inr,status
+SHP00001,CryoViva India,Chandigarh,Gurugram,HC GOLD,6.5,2026-02-05,2026-02-12,718.95,Delayed
+SHP00002,CryoViva India,Kolkata,Delhi,NFO,6.2,2026-06-04,2026-06-08,568.64,Delayed
+SHP00003,Suraksha Diagnostics,Lucknow,Pune,NFO,14.94,2026-01-02,2026-01-09,1250.93,Delayed
+SHP00004,Healthians,Noida,Bengaluru,NFO,9.81,2026-04-02,2026-04-09,918.72,Delayed
+SHP00005,Pathkind Labs,Lucknow,Hyderabad,NFO,23.1,2026-01-21,2026-01-26,2070.77,Delivered
+SHP00006,Redcliffe Labs,Chennai,Chandigarh,HC GOLD,1.62,2026-02-28,2026-03-03,217.07,Delivered
+SHP00007,Oncquest Labs,Kolkata,Bengaluru,HC GOLD,9.44,2026-04-05,2026-04-08,1218.28,Delivered
+SHP00008,Tata 1mg,Chandigarh,Lucknow,HC GOLD,4.69,2026-03-04,2026-03-06,645.75,Delivered
+SHP00009,Redcliffe Labs,Chandigarh,Pune,HC GOLD,21.15,2026-01-15,,2304.57,In Transit
+SHP00010,Metropolis Healthcare,Chennai,Hyderabad,NFO,22.87,2026-05-26,2026-05-29,1941.83,Delivered
+SHP00011,CORE Diagnostics,Chandigarh,Hyderabad,NFO,6.54,2026-05-24,2026-05-29,559.85,Delivered
+SHP00012,Healthians,Ahmedabad,Kolkata,NFO,24.94,2026-05-11,2026-05-15,2364.27,Delivered
+SHP00013,CORE Diagnostics,Noida,Lucknow,HC GOLD,10.84,2026-01-17,2026-01-21,1322.93,Delivered
+SHP00014,CryoViva India,Bengaluru,Ahmedabad,HC GOLD,3.31,2026-05-18,,421.13,In Transit
+SHP00015,Suraksha Diagnostics,Gurugram,Chennai,NFO,0.58,2026-03-09,,46.57,In Transit
+SHP00016,Metropolis Healthcare,Gurugram,Lucknow,HC SILVER,12.94,2026-02-20,2026-02-22,1272.13,Delivered
+SHP00017,Dr Lal PathLabs,Pune,Delhi,NFO,0.98,2026-04-03,2026-04-09,94.69,Delivered
+SHP00018,Tata 1mg,Gurugram,Pune,HC SILVER,13.55,2026-02-02,2026-02-09,1463.23,Delayed
+SHP00019,Pathkind Labs,Noida,Chennai,HC SILVER,10.87,2026-02-24,,1117.83,In Transit
+SHP00020,Suraksha Diagnostics,Mumbai,Chennai,HC SILVER,16.42,2026-04-23,2026-04-29,1428.88,Delivered
+SHP00021,Pathkind Labs,Delhi,Chandigarh,NFO,5.9,2026-01-19,2026-01-21,559.13,Delivered
+SHP00022,Redcliffe Labs,Gurugram,Ahmedabad,NFO,12.39,2026-05-19,2026-05-27,1099.54,Delayed
+SHP00023,Suraksha Diagnostics,Mumbai,Pune,NFO,2.87,2026-04-21,2026-04-24,272.24,Delivered
+SHP00024,Tata 1mg,Delhi,Lucknow,NFO,18.34,2026-01-28,2026-02-01,1457.64,Delivered
+SHP00025,Oncquest Labs,Noida,Chennai,NFO,23.12,2026-04-24,2026-05-02,2179.42,Delivered
+SHP00026,CORE Diagnostics,Gurugram,Bengaluru,NFO,12.29,2026-04-13,2026-04-14,1197.51,Delivered
+SHP00027,Metropolis Healthcare,Bengaluru,Pune,NFO,23.95,2026-05-23,2026-05-28,2325.19,Delivered
+SHP00028,CryoViva India,Ahmedabad,Pune,HC GOLD,1.9,2026-05-30,2026-06-09,214.17,Delayed
+SHP00029,CORE Diagnostics,Pune,Gurugram,NFO,2.17,2026-03-02,2026-03-06,192.27,Delivered
+SHP00030,CryoViva India,Ahmedabad,Chandigarh,HC GOLD,10.77,2026-05-30,2026-06-08,1465.16,Delayed
+SHP00031,Healthians,Mumbai,Lucknow,NFO,10.2,2026-06-21,2026-06-24,943.27,Delivered
+SHP00032,Oncquest Labs,Gurugram,Delhi,HC GOLD,14.29,2026-01-26,2026-01-30,1760.19,Delayed
+SHP00033,Tata 1mg,Noida,Kolkata,HC SILVER,9.55,2026-02-10,,939.73,In Transit
+SHP00034,Pathkind Labs,Bengaluru,Chandigarh,NFO,20.52,2026-03-18,2026-03-19,1957.74,Delivered
+SHP00035,CORE Diagnostics,Lucknow,Pune,NFO,15.32,2026-03-29,2026-04-04,1336.52,Delayed
+SHP00036,Tata 1mg,Bengaluru,Delhi,HC GOLD,20.82,2026-01-12,2026-01-13,2646.5,Delivered
+SHP00037,Oncquest Labs,Bengaluru,Noida,HC GOLD,10.98,2026-01-03,2026-01-04,1413.46,Delivered
+SHP00038,CryoViva India,Noida,Ahmedabad,HC SILVER,14.77,2026-02-07,2026-02-13,1578.19,Delivered
+SHP00039,Redcliffe Labs,Delhi,Kolkata,HC GOLD,16.84,2026-04-01,,2024.02,In Transit
+SHP00040,Redcliffe Labs,Ahmedabad,Noida,HC SILVER,24.42,2026-02-15,2026-02-21,2541.67,Delivered
+SHP00041,Redcliffe Labs,Kolkata,Lucknow,NFO,19.79,2026-01-28,,1530.22,In Transit
+SHP00042,Redcliffe Labs,Hyderabad,Mumbai,HC SILVER,11.78,2026-03-20,2026-03-23,1118.67,Delivered
+SHP00043,Metropolis Healthcare,Bengaluru,Gurugram,NFO,12.98,2026-06-23,2026-06-28,1024.78,Delivered
+SHP00044,Dr Lal PathLabs,Bengaluru,Noida,HC SILVER,7.0,2026-01-28,2026-02-02,729.24,Delivered
+SHP00045,Pathkind Labs,Kolkata,Chandigarh,NFO,22.54,2026-02-18,2026-02-21,1725.12,Delivered
+SHP00046,Redcliffe Labs,Pune,Lucknow,NFO,2.21,2026-06-20,2026-06-27,200.22,Delayed
+SHP00047,Pathkind Labs,Gurugram,Chennai,NFO,10.51,2026-04-14,2026-04-20,846.86,Delayed
+SHP00048,CORE Diagnostics,Chandigarh,Kolkata,HC GOLD,7.87,2026-05-21,2026-05-22,951.46,Delivered
+SHP00049,Healthians,Ahmedabad,Chandigarh,NFO,11.33,2026-02-24,2026-03-01,1097.84,Delivered
+SHP00050,Tata 1mg,Lucknow,Noida,NFO,16.76,2026-06-08,2026-06-11,1549.66,Delivered
+SHP00051,Redcliffe Labs,Chandigarh,Bengaluru,HC SILVER,4.11,2026-01-12,2026-01-14,426.42,Delivered
+SHP00052,Dr Lal PathLabs,Hyderabad,Kolkata,NFO,17.56,2026-05-07,2026-05-14,1345.41,Delivered
+SHP00053,Redcliffe Labs,Gurugram,Hyderabad,NFO,23.97,2026-05-13,2026-05-17,2301.03,Delivered
+SHP00054,CORE Diagnostics,Gurugram,Pune,HC SILVER,16.86,2026-05-24,2026-05-29,1798.48,Delivered
+SHP00055,Suraksha Diagnostics,Ahmedabad,Pune,HC SILVER,13.92,2026-02-10,2026-02-14,1271.9,Delivered
+SHP00056,Pathkind Labs,Chandigarh,Bengaluru,NFO,6.36,2026-04-23,2026-04-28,518.23,Delayed
+SHP00057,Pathkind Labs,Chennai,Kolkata,NFO,4.2,2026-04-09,2026-04-14,327.03,Delayed
+SHP00058,Pathkind Labs,Kolkata,Chennai,NFO,2.03,2026-04-18,,180.49,In Transit
+SHP00059,Dr Lal PathLabs,Lucknow,Delhi,NFO,0.64,2026-04-01,,54.26,In Transit
+SHP00060,Pathkind Labs,Kolkata,Ahmedabad,HC GOLD,22.5,2026-05-05,2026-05-07,2449.59,Delivered
+SHP00061,Suraksha Diagnostics,Chennai,Lucknow,HC GOLD,21.09,2026-02-02,2026-02-09,2851.53,Delayed
+SHP00062,CryoViva India,Ahmedabad,Chandigarh,NFO,11.0,2026-04-29,2026-05-01,918.02,Delivered
+SHP00063,Healthians,Hyderabad,Chennai,HC GOLD,9.79,2026-04-18,,1081.38,In Transit
+SHP00064,CryoViva India,Delhi,Ahmedabad,HC SILVER,9.07,2026-06-16,,981.7,In Transit
+SHP00065,Redcliffe Labs,Delhi,Gurugram,NFO,1.0,2026-02-09,2026-02-11,78.93,Delivered
+SHP00066,Metropolis Healthcare,Mumbai,Pune,HC GOLD,4.61,2026-06-05,,611.19,In Transit
+SHP00067,Dr Lal PathLabs,Bengaluru,Gurugram,NFO,8.14,2026-06-23,2026-06-27,657.02,Delivered
+SHP00068,Redcliffe Labs,Ahmedabad,Lucknow,NFO,19.43,2026-06-25,,1536.38,In Transit
+SHP00069,Healthians,Ahmedabad,Delhi,HC GOLD,16.71,2026-01-18,2026-01-27,1811.02,Delayed
+SHP00070,Tata 1mg,Kolkata,Pune,NFO,9.37,2026-04-28,2026-05-03,909.04,Delivered
+SHP00071,Pathkind Labs,Bengaluru,Chandigarh,HC GOLD,11.89,2026-06-01,2026-06-04,1580.44,Delivered
+SHP00072,Oncquest Labs,Gurugram,Chennai,NFO,11.89,2026-06-06,2026-06-12,955.53,Delivered
+SHP00073,Metropolis Healthcare,Mumbai,Kolkata,NFO,22.07,2026-06-29,2026-07-04,1930.65,Delayed
+SHP00074,Redcliffe Labs,Mumbai,Gurugram,HC GOLD,12.47,2026-03-03,2026-03-12,1514.42,Delayed
+SHP00075,Metropolis Healthcare,Delhi,Noida,NFO,17.45,2026-03-20,2026-03-25,1531.8,Delivered
+SHP00076,Healthians,Kolkata,Ahmedabad,NFO,11.62,2026-03-20,2026-03-24,966.85,Delivered
+SHP00077,CORE Diagnostics,Lucknow,Pune,NFO,18.6,2026-03-12,,1630.26,In Transit
+SHP00078,Redcliffe Labs,Bengaluru,Gurugram,NFO,9.34,2026-03-19,2026-03-26,739.63,Delayed
+SHP00079,Pathkind Labs,Delhi,Gurugram,NFO,23.63,2026-06-13,2026-06-17,2095.95,Delivered
+SHP00080,Oncquest Labs,Hyderabad,Pune,NFO,24.15,2026-03-06,2026-03-10,2053.11,Delivered
+SHP00081,CryoViva India,Gurugram,Chandigarh,NFO,20.37,2026-03-19,2026-03-22,1820.76,Delivered
+SHP00082,Pathkind Labs,Ahmedabad,Mumbai,NFO,22.76,2026-03-18,2026-03-23,2041.5,Delivered
+SHP00083,Redcliffe Labs,Ahmedabad,Gurugram,HC GOLD,6.98,2026-01-21,2026-01-24,786.62,Delivered
+SHP00084,Dr Lal PathLabs,Kolkata,Pune,NFO,1.3,2026-03-15,2026-03-23,101.42,Delayed
+SHP00085,Dr Lal PathLabs,Mumbai,Chennai,HC GOLD,23.37,2026-04-19,2026-04-23,2978.02,Delayed
+SHP00086,Tata 1mg,Bengaluru,Noida,NFO,19.92,2026-06-02,2026-06-07,1722.28,Delivered
+SHP00087,Metropolis Healthcare,Bengaluru,Hyderabad,HC GOLD,12.6,2026-01-21,2026-01-26,1638.45,Delivered
+SHP00088,CryoViva India,Ahmedabad,Bengaluru,NFO,24.07,2026-05-28,2026-06-02,2185.22,Delivered
+SHP00089,CryoViva India,Bengaluru,Chandigarh,HC GOLD,4.79,2026-05-13,2026-05-20,579.96,Delivered
+SHP00090,Oncquest Labs,Hyderabad,Gurugram,NFO,8.67,2026-06-21,,692.88,In Transit
+SHP00091,Metropolis Healthcare,Kolkata,Pune,HC GOLD,10.31,2026-05-21,2026-05-24,1213.47,Delivered
+SHP00092,CryoViva India,Kolkata,Ahmedabad,HC GOLD,13.79,2026-04-16,2026-04-17,1746.9,Delivered
+SHP00093,Oncquest Labs,Hyderabad,Lucknow,HC GOLD,5.49,2026-05-21,2026-05-23,707.92,Delivered
+SHP00094,Dr Lal PathLabs,Gurugram,Delhi,HC GOLD,17.89,2026-03-21,2026-03-26,1982.15,Delivered
+SHP00095,Tata 1mg,Gurugram,Pune,HC GOLD,4.27,2026-03-16,2026-03-25,514.38,Delayed
+SHP00096,Redcliffe Labs,Hyderabad,Pune,NFO,4.04,2026-02-18,2026-02-26,383.24,Delayed
+SHP00097,Healthians,Bengaluru,Hyderabad,HC SILVER,12.94,2026-01-01,2026-01-08,1363.75,Delayed
+SHP00098,Oncquest Labs,Ahmedabad,Lucknow,HC SILVER,11.44,2026-05-04,2026-05-07,1125.77,Delivered
+SHP00099,Redcliffe Labs,Hyderabad,Chennai,HC SILVER,6.35,2026-04-09,,659.89,In Transit
+SHP00100,Oncquest Labs,Delhi,Kolkata,HC GOLD,20.38,2026-04-09,2026-04-11,2278.23,Delivered
+SHP00101,Tata 1mg,Ahmedabad,Chennai,HC SILVER,11.29,2026-05-15,2026-05-19,1075.23,Delivered
+SHP00102,Tata 1mg,Chandigarh,Noida,NFO,24.25,2026-03-28,2026-04-07,2189.99,Delayed
+SHP00103,Pathkind Labs,Chennai,Lucknow,NFO,8.26,2026-05-05,2026-05-10,673.1,Delivered
+SHP00104,Redcliffe Labs,Chandigarh,Bengaluru,HC GOLD,11.13,2026-01-26,2026-01-29,1503.69,Delivered
+SHP00105,CryoViva India,Delhi,Kolkata,NFO,9.68,2026-02-07,2026-02-14,856.93,Delayed
+SHP00106,CORE Diagnostics,Noida,Mumbai,NFO,21.84,2026-06-08,2026-06-10,1737.18,Delivered
+SHP00107,Metropolis Healthcare,Hyderabad,Lucknow,NFO,16.84,2026-04-30,2026-05-09,1344.79,Delayed
+SHP00108,Dr Lal PathLabs,Hyderabad,Chennai,NFO,24.07,2026-06-26,2026-06-29,1943.25,Delivered
+SHP00109,Tata 1mg,Kolkata,Pune,NFO,14.51,2026-05-28,2026-06-04,1116.78,Delayed
+SHP00110,Metropolis Healthcare,Chandigarh,Kolkata,NFO,21.69,2026-01-13,2026-01-23,2043.15,Delayed
+SHP00111,Dr Lal PathLabs,Bengaluru,Mumbai,HC SILVER,5.87,2026-02-18,2026-02-23,602.39,Delivered
+SHP00112,CORE Diagnostics,Chandigarh,Lucknow,HC GOLD,22.63,2026-06-15,2026-06-16,2466.69,Delivered
+SHP00113,Tata 1mg,Chennai,Noida,HC SILVER,8.5,2026-04-17,2026-04-22,903.69,Delivered
+SHP00114,Pathkind Labs,Chennai,Ahmedabad,HC SILVER,20.85,2026-03-07,,1928.83,In Transit
+SHP00115,Oncquest Labs,Chennai,Gurugram,HC SILVER,3.95,2026-02-27,,413.21,In Transit
+SHP00116,Suraksha Diagnostics,Chennai,Gurugram,NFO,13.65,2026-04-27,2026-05-04,1213.78,Delayed
+SHP00117,Tata 1mg,Chandigarh,Chennai,HC GOLD,12.05,2026-06-08,2026-06-13,1381.42,Delivered
+SHP00118,Oncquest Labs,Gurugram,Lucknow,HC SILVER,7.9,2026-04-15,2026-04-17,732.56,Delivered
+SHP00119,Tata 1mg,Hyderabad,Gurugram,NFO,13.67,2026-04-10,2026-04-14,1261.63,Delivered
+SHP00120,Dr Lal PathLabs,Pune,Kolkata,HC GOLD,4.29,2026-04-17,,526.3,In Transit
+SHP00121,CryoViva India,Kolkata,Bengaluru,HC GOLD,5.82,2026-04-24,,691.88,In Transit
+SHP00122,Pathkind Labs,Chandigarh,Chennai,HC SILVER,16.3,2026-01-16,2026-01-21,1761.04,Delivered
+SHP00123,Redcliffe Labs,Hyderabad,Gurugram,HC GOLD,15.13,2026-01-06,,1785.42,In Transit
+SHP00124,Redcliffe Labs,Noida,Chandigarh,NFO,19.25,2026-02-23,2026-02-28,1567.94,Delivered
+SHP00125,CryoViva India,Noida,Chandigarh,NFO,24.61,2026-02-03,2026-02-08,1940.15,Delivered
+SHP00126,CryoViva India,Delhi,Mumbai,NFO,19.82,2026-05-31,2026-06-04,1569.62,Delivered
+SHP00127,Tata 1mg,Kolkata,Ahmedabad,HC GOLD,12.17,2026-04-03,2026-04-10,1479.39,Delayed
+SHP00128,CryoViva India,Mumbai,Chandigarh,HC GOLD,22.76,2026-06-18,2026-06-23,3116.32,Delivered
+SHP00129,Suraksha Diagnostics,Delhi,Pune,NFO,3.15,2026-04-24,2026-04-25,250.9,Delivered
+SHP00130,Dr Lal PathLabs,Noida,Chennai,HC GOLD,13.93,2026-03-25,2026-04-04,1627.68,Delayed
+SHP00131,Suraksha Diagnostics,Pune,Chandigarh,NFO,17.69,2026-06-17,2026-06-25,1514.95,Delayed
+SHP00132,Healthians,Mumbai,Hyderabad,HC SILVER,10.27,2026-01-25,2026-01-28,940.26,Delivered
+SHP00133,Oncquest Labs,Noida,Lucknow,NFO,20.88,2026-01-24,2026-01-28,1762.66,Delivered
+SHP00134,CryoViva India,Noida,Ahmedabad,HC GOLD,14.26,2026-03-26,2026-03-27,1824.71,Delivered
+SHP00135,Metropolis Healthcare,Kolkata,Delhi,HC GOLD,9.12,2026-05-28,2026-06-04,1046.31,Delivered
+SHP00136,Pathkind Labs,Gurugram,Kolkata,NFO,19.18,2026-05-27,,1642.17,In Transit
+SHP00137,Dr Lal PathLabs,Pune,Chandigarh,HC GOLD,14.14,2026-06-05,2026-06-11,1850.53,Delivered
+SHP00138,CryoViva India,Chennai,Kolkata,NFO,4.01,2026-06-18,2026-06-25,389.58,Delivered
+SHP00139,Redcliffe Labs,Gurugram,Ahmedabad,NFO,11.61,2026-02-10,2026-02-13,1079.82,Delivered
+SHP00140,Tata 1mg,Ahmedabad,Chandigarh,HC SILVER,4.31,2026-06-08,2026-06-11,396.36,Delayed
+SHP00141,Oncquest Labs,Chandigarh,Kolkata,HC GOLD,10.65,2026-02-25,2026-03-02,1185.63,Delivered
+SHP00142,Dr Lal PathLabs,Chandigarh,Lucknow,NFO,16.84,2026-01-12,2026-01-14,1307.86,Delivered
+SHP00143,Redcliffe Labs,Mumbai,Chennai,HC GOLD,19.22,2026-03-16,2026-03-22,2324.08,Delivered
+SHP00144,Pathkind Labs,Noida,Hyderabad,HC GOLD,12.76,2026-06-21,2026-06-24,1662.13,Delivered
+SHP00145,Oncquest Labs,Kolkata,Delhi,HC SILVER,21.62,2026-05-28,2026-06-06,2212.82,Delayed
+SHP00146,Tata 1mg,Kolkata,Bengaluru,NFO,24.17,2026-02-13,2026-02-18,2321.41,Delivered
+SHP00147,Tata 1mg,Gurugram,Hyderabad,NFO,14.93,2026-05-15,2026-05-16,1378.76,Delivered
+SHP00148,CORE Diagnostics,Mumbai,Kolkata,NFO,16.01,2026-05-16,2026-05-21,1343.63,Delivered
+SHP00149,CORE Diagnostics,Lucknow,Chandigarh,NFO,4.09,2026-02-20,2026-02-25,378.96,Delayed
+SHP00150,CORE Diagnostics,Chandigarh,Gurugram,HC SILVER,15.88,2026-04-29,,1576.29,In Transit
+SHP00151,Dr Lal PathLabs,Chandigarh,Ahmedabad,NFO,24.29,2026-03-22,2026-03-26,2184.08,Delivered
+SHP00152,CryoViva India,Bengaluru,Chandigarh,NFO,2.32,2026-04-29,2026-05-05,181.26,Delivered
+SHP00153,Dr Lal PathLabs,Gurugram,Chandigarh,HC GOLD,11.84,2026-05-22,2026-05-23,1481.77,Delivered
+SHP00154,Dr Lal PathLabs,Mumbai,Kolkata,NFO,4.2,2026-01-16,2026-01-20,396.04,Delivered
+SHP00155,Pathkind Labs,Lucknow,Gurugram,HC GOLD,1.46,2026-04-23,2026-05-03,184.39,Delayed
+SHP00156,Metropolis Healthcare,Chennai,Kolkata,NFO,19.47,2026-06-23,2026-06-28,1757.27,Delivered
+SHP00157,Tata 1mg,Gurugram,Kolkata,HC GOLD,9.97,2026-03-06,,1121.74,In Transit
+SHP00158,CORE Diagnostics,Gurugram,Chandigarh,HC SILVER,8.1,2026-06-17,2026-06-21,873.0,Delivered
+SHP00159,Suraksha Diagnostics,Bengaluru,Ahmedabad,HC GOLD,8.55,2026-02-02,2026-02-07,1032.0,Delivered
+SHP00160,Healthians,Chennai,Delhi,NFO,23.8,2026-03-29,2026-04-03,1899.06,Delivered
+SHP00161,Pathkind Labs,Bengaluru,Gurugram,HC GOLD,20.96,2026-05-15,2026-05-20,2814.76,Delayed
+SHP00162,Dr Lal PathLabs,Ahmedabad,Noida,NFO,4.48,2026-06-27,,428.65,In Transit
+SHP00163,CryoViva India,Lucknow,Hyderabad,NFO,17.07,2026-03-02,2026-03-10,1578.78,Delayed
+SHP00164,Pathkind Labs,Hyderabad,Mumbai,NFO,24.16,2026-05-01,2026-05-03,2141.09,Delivered
+SHP00165,Metropolis Healthcare,Hyderabad,Pune,HC GOLD,12.82,2026-04-18,,1461.36,In Transit
+SHP00166,Metropolis Healthcare,Ahmedabad,Noida,NFO,12.27,2026-04-06,2026-04-11,1073.17,Delivered
+SHP00167,Tata 1mg,Gurugram,Chennai,HC GOLD,7.18,2026-05-12,,869.67,In Transit
+SHP00168,Healthians,Mumbai,Pune,HC SILVER,10.66,2026-04-12,2026-04-18,1006.35,Delivered
+SHP00169,Tata 1mg,Delhi,Kolkata,HC SILVER,16.42,2026-02-07,2026-02-09,1727.5,Delivered
+SHP00170,Oncquest Labs,Lucknow,Noida,NFO,0.63,2026-01-21,2026-01-23,55.54,Delivered
+SHP00171,Pathkind Labs,Lucknow,Ahmedabad,NFO,19.52,2026-03-02,2026-03-07,1758.32,Delivered
+SHP00172,Tata 1mg,Ahmedabad,Hyderabad,NFO,22.68,2026-06-02,2026-06-07,2012.16,Delivered
+SHP00173,Metropolis Healthcare,Lucknow,Noida,NFO,15.56,2026-03-03,2026-03-11,1218.65,Delivered
+SHP00174,Pathkind Labs,Chennai,Gurugram,HC GOLD,19.77,2026-05-10,2026-05-15,2414.0,Delivered
+SHP00175,Healthians,Chandigarh,Kolkata,NFO,0.9,2026-01-18,2026-01-21,80.87,Delivered
+SHP00176,CORE Diagnostics,Ahmedabad,Chennai,NFO,13.88,2026-06-14,,1291.63,In Transit
+SHP00177,CORE Diagnostics,Hyderabad,Pune,HC SILVER,2.05,2026-04-28,2026-04-30,218.4,Delivered
+SHP00178,Pathkind Labs,Chennai,Bengaluru,NFO,20.48,2026-05-02,2026-05-05,1649.89,Delivered
+SHP00179,Healthians,Chennai,Delhi,NFO,20.08,2026-04-22,2026-05-01,1917.86,Delayed
+SHP00180,CORE Diagnostics,Kolkata,Chennai,NFO,12.69,2026-05-13,,993.06,In Transit
+SHP00181,Suraksha Diagnostics,Kolkata,Gurugram,HC GOLD,20.65,2026-05-20,2026-05-25,2639.64,Delivered
+SHP00182,Dr Lal PathLabs,Bengaluru,Pune,HC GOLD,4.58,2026-04-24,2026-04-29,579.12,Delivered
+SHP00183,CryoViva India,Kolkata,Bengaluru,NFO,16.12,2026-04-04,,1490.06,In Transit
+SHP00184,CORE Diagnostics,Noida,Delhi,HC SILVER,17.11,2026-04-23,2026-04-27,1611.77,Delivered
+SHP00185,CryoViva India,Kolkata,Chandigarh,HC GOLD,17.14,2026-04-05,2026-04-08,2146.23,Delivered
+SHP00186,Suraksha Diagnostics,Pune,Chennai,NFO,7.33,2026-01-30,2026-02-03,638.48,Delayed
+SHP00187,Tata 1mg,Kolkata,Ahmedabad,NFO,6.88,2026-04-25,2026-05-01,627.78,Delayed
+SHP00188,Tata 1mg,Hyderabad,Mumbai,NFO,2.31,2026-02-14,2026-02-18,224.21,Delivered
+SHP00189,Healthians,Chennai,Lucknow,HC GOLD,13.97,2026-03-16,,1574.77,In Transit
+SHP00190,CORE Diagnostics,Lucknow,Chandigarh,HC GOLD,12.96,2026-02-01,,1453.68,In Transit
+SHP00191,Healthians,Hyderabad,Delhi,HC GOLD,9.54,2026-05-22,2026-05-26,1049.14,Delayed
+SHP00192,Pathkind Labs,Kolkata,Pune,NFO,10.53,2026-05-28,2026-05-29,949.28,Delivered
+SHP00193,Pathkind Labs,Hyderabad,Pune,NFO,22.01,2026-05-22,2026-05-27,1744.12,Delivered
+SHP00194,Tata 1mg,Pune,Delhi,HC GOLD,7.95,2026-02-11,2026-02-17,941.13,Delayed
+SHP00195,Tata 1mg,Pune,Bengaluru,NFO,16.06,2026-05-22,2026-05-25,1438.28,Delivered
+SHP00196,CORE Diagnostics,Gurugram,Ahmedabad,HC GOLD,14.73,2026-02-13,2026-02-24,1740.03,Delayed
+SHP00197,CryoViva India,Ahmedabad,Delhi,NFO,23.74,2026-05-28,2026-06-03,2203.02,Delayed
+SHP00198,CryoViva India,Kolkata,Chandigarh,NFO,15.87,2026-03-16,2026-03-22,1351.0,Delivered
+SHP00199,CryoViva India,Hyderabad,Gurugram,NFO,10.68,2026-04-29,2026-05-01,887.96,Delivered
+SHP00200,Healthians,Lucknow,Chennai,HC SILVER,3.7,2026-04-05,2026-04-12,344.39,Delayed
+SHP00201,Metropolis Healthcare,Hyderabad,Gurugram,NFO,3.95,2026-01-13,2026-01-16,337.27,Delivered
+SHP00202,Dr Lal PathLabs,Noida,Kolkata,HC GOLD,5.15,2026-02-10,2026-02-19,633.26,Delayed
+SHP00203,CryoViva India,Bengaluru,Pune,NFO,10.13,2026-04-28,2026-04-30,785.42,Delivered
+SHP00204,Dr Lal PathLabs,Bengaluru,Pune,HC SILVER,16.53,2026-05-01,2026-05-06,1745.9,Delayed
+SHP00205,Metropolis Healthcare,Kolkata,Noida,HC GOLD,19.21,2026-04-04,2026-04-08,2186.86,Delivered
+SHP00206,Tata 1mg,Pune,Bengaluru,NFO,11.53,2026-05-21,,1124.38,In Transit
+SHP00207,Tata 1mg,Chandigarh,Ahmedabad,NFO,2.87,2026-04-06,2026-04-13,265.6,Delayed
+SHP00208,Pathkind Labs,Mumbai,Chandigarh,NFO,1.49,2026-01-10,2026-01-16,139.44,Delayed
+SHP00209,CORE Diagnostics,Pune,Hyderabad,HC GOLD,13.13,2026-03-25,2026-04-02,1709.26,Delivered
+SHP00210,Healthians,Bengaluru,Chandigarh,HC GOLD,12.99,2026-05-06,2026-05-11,1409.4,Delivered
+SHP00211,Tata 1mg,Chennai,Lucknow,HC SILVER,14.8,2026-06-26,2026-07-02,1358.73,Delayed
+SHP00212,Dr Lal PathLabs,Chandigarh,Ahmedabad,NFO,1.76,2026-05-03,2026-05-11,163.61,Delayed
+SHP00213,Redcliffe Labs,Kolkata,Noida,NFO,23.73,2026-01-29,2026-01-31,2026.52,Delivered
+SHP00214,Suraksha Diagnostics,Kolkata,Mumbai,HC GOLD,15.48,2026-05-01,2026-05-05,1912.72,Delayed
+SHP00215,Oncquest Labs,Pune,Chennai,HC GOLD,8.19,2026-02-14,2026-02-22,1018.74,Delayed
+SHP00216,Metropolis Healthcare,Chandigarh,Lucknow,HC GOLD,5.21,2026-03-05,2026-03-12,597.83,Delayed
+SHP00217,Redcliffe Labs,Bengaluru,Chennai,HC GOLD,12.48,2026-05-03,2026-05-10,1455.59,Delayed
+SHP00218,Pathkind Labs,Ahmedabad,Lucknow,NFO,24.51,2026-03-30,2026-04-04,1916.18,Delivered
+SHP00219,Metropolis Healthcare,Hyderabad,Lucknow,HC GOLD,5.74,2026-05-18,2026-05-25,643.56,Delayed
+SHP00220,Redcliffe Labs,Ahmedabad,Chandigarh,NFO,16.91,2026-05-16,2026-05-21,1312.48,Delayed
+SHP00221,Oncquest Labs,Kolkata,Chennai,NFO,19.38,2026-01-02,2026-01-07,1867.64,Delivered
+SHP00222,Redcliffe Labs,Hyderabad,Pune,HC GOLD,7.54,2026-03-15,,834.56,In Transit
+SHP00223,Pathkind Labs,Ahmedabad,Mumbai,HC GOLD,21.33,2026-01-10,2026-01-12,2416.13,Delivered
+SHP00224,Oncquest Labs,Delhi,Hyderabad,NFO,18.85,2026-03-16,2026-03-17,1683.48,Delivered
+SHP00225,Oncquest Labs,Chennai,Bengaluru,HC SILVER,13.81,2026-05-07,,1346.13,In Transit
+SHP00226,Tata 1mg,Bengaluru,Mumbai,NFO,18.41,2026-06-15,2026-06-21,1413.87,Delayed
+SHP00227,Dr Lal PathLabs,Chennai,Bengaluru,HC GOLD,5.23,2026-06-06,,631.95,In Transit
+SHP00228,Suraksha Diagnostics,Chennai,Gurugram,HC GOLD,5.03,2026-02-05,2026-02-09,544.27,Delivered
+SHP00229,Oncquest Labs,Kolkata,Mumbai,HC GOLD,23.87,2026-03-19,2026-03-30,2586.15,Delayed
+SHP00230,Redcliffe Labs,Chandigarh,Chennai,NFO,3.4,2026-03-20,2026-03-22,326.79,Delivered
+SHP00231,Tata 1mg,Lucknow,Bengaluru,HC GOLD,23.55,2026-04-05,2026-04-11,2881.24,Delivered
+SHP00232,Healthians,Hyderabad,Chandigarh,NFO,13.96,2026-05-01,,1264.94,In Transit
+SHP00233,Dr Lal PathLabs,Mumbai,Bengaluru,HC SILVER,2.51,2026-04-25,2026-05-04,219.26,Delayed
+SHP00234,CryoViva India,Ahmedabad,Gurugram,HC SILVER,22.62,2026-02-21,2026-03-01,2022.4,Delayed
+SHP00235,Tata 1mg,Pune,Hyderabad,HC GOLD,18.06,2026-05-06,2026-05-12,2388.63,Delayed
+SHP00236,Pathkind Labs,Hyderabad,Noida,NFO,14.32,2026-05-24,2026-06-01,1315.57,Delayed
+SHP00237,CryoViva India,Kolkata,Bengaluru,HC GOLD,14.67,2026-01-12,2026-01-16,1822.53,Delivered
+SHP00238,Oncquest Labs,Delhi,Noida,NFO,10.52,2026-02-04,2026-02-08,890.28,Delivered
+SHP00239,Tata 1mg,Kolkata,Hyderabad,HC GOLD,16.71,2026-05-19,2026-05-25,1864.15,Delayed
+SHP00240,Pathkind Labs,Pune,Kolkata,NFO,24.48,2026-01-01,2026-01-02,2246.79,Delivered
+SHP00241,Suraksha Diagnostics,Kolkata,Ahmedabad,HC SILVER,6.56,2026-03-30,2026-04-04,680.14,Delivered
+SHP00242,Suraksha Diagnostics,Delhi,Lucknow,HC GOLD,23.44,2026-01-05,2026-01-10,2555.13,Delivered
+SHP00243,CryoViva India,Ahmedabad,Lucknow,NFO,1.58,2026-04-23,2026-04-28,146.2,Delayed
+SHP00244,Pathkind Labs,Delhi,Mumbai,HC SILVER,6.24,2026-05-28,2026-06-06,648.01,Delayed
+SHP00245,Metropolis Healthcare,Chennai,Mumbai,HC SILVER,24.65,2026-05-14,2026-05-16,2143.26,Delivered
+SHP00246,Suraksha Diagnostics,Ahmedabad,Noida,HC GOLD,1.65,2026-03-30,,204.16,In Transit
+SHP00247,Suraksha Diagnostics,Lucknow,Kolkata,NFO,9.72,2026-05-18,2026-05-22,805.7,Delivered
+SHP00248,Oncquest Labs,Lucknow,Noida,HC SILVER,14.28,2026-04-17,2026-04-25,1352.67,Delayed
+SHP00249,Healthians,Bengaluru,Mumbai,HC GOLD,23.09,2026-04-05,2026-04-09,2529.42,Delayed
+SHP00250,Dr Lal PathLabs,Kolkata,Lucknow,HC GOLD,21.9,2026-02-18,2026-03-01,2507.78,Delayed
+SHP00251,Metropolis Healthcare,Mumbai,Kolkata,HC SILVER,0.88,2026-02-18,2026-02-24,94.35,Delayed
+SHP00252,Redcliffe Labs,Lucknow,Ahmedabad,NFO,6.36,2026-03-24,2026-03-27,574.21,Delivered
+SHP00253,Healthians,Bengaluru,Chennai,HC GOLD,12.68,2026-01-26,,1688.87,In Transit
+SHP00254,Healthians,Mumbai,Kolkata,NFO,14.28,2026-02-26,2026-02-28,1376.07,Delivered
+SHP00255,Metropolis Healthcare,Ahmedabad,Kolkata,NFO,8.58,2026-04-08,,701.17,In Transit
+SHP00256,Healthians,Pune,Lucknow,NFO,20.63,2026-06-14,2026-06-20,1652.4,Delivered
+SHP00257,Oncquest Labs,Lucknow,Pune,NFO,22.29,2026-06-14,2026-06-17,2102.62,Delayed
+SHP00258,CryoViva India,Gurugram,Lucknow,HC GOLD,10.6,2026-06-11,2026-06-13,1147.71,Delivered
+SHP00259,Healthians,Pune,Hyderabad,NFO,16.12,2026-06-07,2026-06-16,1238.57,Delayed
+SHP00260,Suraksha Diagnostics,Pune,Ahmedabad,NFO,13.47,2026-03-12,2026-03-20,1223.39,Delivered
+SHP00261,Tata 1mg,Noida,Gurugram,HC GOLD,6.4,2026-06-08,2026-06-13,742.53,Delivered
+SHP00262,Healthians,Kolkata,Gurugram,HC SILVER,11.75,2026-03-04,2026-03-06,1241.23,Delivered
+SHP00263,CryoViva India,Chandigarh,Lucknow,NFO,9.79,2026-05-22,2026-05-26,895.15,Delivered
+SHP00264,Suraksha Diagnostics,Gurugram,Pune,HC GOLD,8.62,2026-01-25,2026-02-02,1160.48,Delivered
+SHP00265,CryoViva India,Hyderabad,Bengaluru,HC SILVER,17.27,2026-03-13,2026-03-20,1550.15,Delayed
+SHP00266,Redcliffe Labs,Chennai,Delhi,HC GOLD,18.93,2026-04-12,2026-04-14,2366.27,Delivered
+SHP00267,Pathkind Labs,Kolkata,Lucknow,NFO,19.01,2026-02-05,2026-02-10,1475.96,Delayed
+SHP00268,Tata 1mg,Kolkata,Mumbai,NFO,19.34,2026-06-02,,1613.64,In Transit
+SHP00269,Oncquest Labs,Chandigarh,Bengaluru,NFO,9.22,2026-04-07,2026-04-11,834.77,Delivered
+SHP00270,Metropolis Healthcare,Gurugram,Chandigarh,HC GOLD,17.97,2026-01-22,2026-01-25,2363.36,Delivered
+SHP00271,Healthians,Noida,Hyderabad,NFO,2.74,2026-03-20,2026-03-24,215.56,Delivered
+SHP00272,Suraksha Diagnostics,Gurugram,Mumbai,NFO,14.09,2026-04-15,2026-04-19,1105.75,Delivered
+SHP00273,Suraksha Diagnostics,Ahmedabad,Chennai,NFO,10.64,2026-01-22,2026-01-27,852.3,Delivered
+SHP00274,CORE Diagnostics,Kolkata,Noida,NFO,7.08,2026-02-07,2026-02-08,604.97,Delivered
+SHP00275,Healthians,Hyderabad,Gurugram,NFO,6.54,2026-06-10,2026-06-20,527.49,Delayed
+SHP00276,Metropolis Healthcare,Gurugram,Mumbai,NFO,10.19,2026-06-08,,966.23,In Transit
+SHP00277,Suraksha Diagnostics,Hyderabad,Chennai,HC SILVER,21.56,2026-06-02,2026-06-04,2328.43,Delivered
+SHP00278,Healthians,Mumbai,Pune,NFO,10.26,2026-03-23,2026-03-31,995.89,Delayed
+SHP00279,Suraksha Diagnostics,Mumbai,Kolkata,NFO,19.75,2026-04-04,2026-04-08,1759.43,Delayed
+SHP00280,Pathkind Labs,Pune,Noida,NFO,18.32,2026-02-23,,1514.9,In Transit
+SHP00281,Suraksha Diagnostics,Lucknow,Gurugram,HC GOLD,3.91,2026-03-19,2026-03-21,506.18,Delivered
+SHP00282,Oncquest Labs,Kolkata,Gurugram,HC SILVER,12.24,2026-04-13,2026-04-23,1204.56,Delayed
+SHP00283,Dr Lal PathLabs,Chennai,Ahmedabad,HC GOLD,2.58,2026-03-05,2026-03-08,282.07,Delivered
+SHP00284,Suraksha Diagnostics,Chandigarh,Lucknow,HC SILVER,8.62,2026-04-21,2026-04-23,841.56,Delivered
+SHP00285,Dr Lal PathLabs,Pune,Ahmedabad,HC GOLD,5.92,2026-04-06,2026-04-10,743.89,Delivered
+SHP00286,Healthians,Pune,Noida,HC SILVER,12.33,2026-03-17,2026-03-24,1095.7,Delivered
+SHP00287,Oncquest Labs,Bengaluru,Kolkata,HC GOLD,13.27,2026-03-31,2026-04-04,1710.54,Delivered
+SHP00288,Metropolis Healthcare,Chennai,Gurugram,NFO,17.91,2026-01-06,2026-01-11,1627.83,Delayed
+SHP00289,Pathkind Labs,Noida,Bengaluru,NFO,4.42,2026-05-24,2026-05-30,397.28,Delivered
+SHP00290,Suraksha Diagnostics,Noida,Lucknow,NFO,18.57,2026-02-20,2026-03-01,1574.04,Delayed
+SHP00291,Redcliffe Labs,Lucknow,Mumbai,NFO,17.74,2026-01-17,2026-01-22,1559.5,Delivered
+SHP00292,Redcliffe Labs,Chennai,Kolkata,NFO,6.93,2026-05-06,2026-05-15,618.06,Delayed
+SHP00293,Dr Lal PathLabs,Ahmedabad,Kolkata,NFO,9.12,2026-04-28,2026-05-03,834.5,Delivered
+SHP00294,Dr Lal PathLabs,Bengaluru,Chandigarh,NFO,3.78,2026-01-31,2026-02-04,344.87,Delivered
+SHP00295,Suraksha Diagnostics,Pune,Kolkata,HC GOLD,14.58,2026-04-19,2026-04-21,1877.95,Delivered
+SHP00296,Pathkind Labs,Chandigarh,Noida,NFO,7.58,2026-02-17,,652.51,In Transit
+SHP00297,CryoViva India,Delhi,Kolkata,NFO,5.28,2026-04-09,2026-04-19,449.82,Delayed
+SHP00298,Oncquest Labs,Hyderabad,Kolkata,NFO,2.53,2026-01-08,2026-01-11,222.45,Delivered
+SHP00299,Dr Lal PathLabs,Noida,Pune,HC GOLD,19.27,2026-05-21,2026-05-26,2236.03,Delivered
+SHP00300,Pathkind Labs,Pune,Chennai,HC SILVER,1.52,2026-04-23,2026-04-28,133.66,Delivered
+SHP00301,Metropolis Healthcare,Chandigarh,Mumbai,HC SILVER,1.29,2026-03-09,,135.32,In Transit
+SHP00302,Redcliffe Labs,Hyderabad,Gurugram,NFO,18.57,2026-06-26,,1701.08,In Transit
+SHP00303,CORE Diagnostics,Chandigarh,Kolkata,HC GOLD,19.73,2026-02-22,2026-02-27,2445.9,Delayed
+SHP00304,CORE Diagnostics,Ahmedabad,Pune,NFO,17.75,2026-03-16,2026-03-21,1551.91,Delivered
+SHP00305,CORE Diagnostics,Chandigarh,Gurugram,HC SILVER,19.75,2026-01-16,,1996.28,In Transit
+SHP00306,Redcliffe Labs,Lucknow,Noida,NFO,8.39,2026-03-05,2026-03-12,689.74,Delivered
+SHP00307,Oncquest Labs,Kolkata,Hyderabad,NFO,19.97,2026-01-24,2026-02-01,1822.51,Delayed
+SHP00308,Oncquest Labs,Chennai,Pune,NFO,0.56,2026-01-24,2026-02-01,52.96,Delayed
+SHP00309,Redcliffe Labs,Pune,Kolkata,HC SILVER,20.71,2026-05-07,2026-05-10,1936.83,Delivered
+SHP00310,Dr Lal PathLabs,Ahmedabad,Noida,HC SILVER,19.81,2026-06-24,2026-06-27,1701.42,Delivered
+SHP00311,Oncquest Labs,Noida,Pune,NFO,23.97,2026-02-21,2026-02-27,1914.68,Delayed
+SHP00312,Healthians,Bengaluru,Gurugram,NFO,9.61,2026-06-16,2026-06-18,797.55,Delivered
+SHP00313,Suraksha Diagnostics,Lucknow,Mumbai,HC GOLD,17.74,2026-01-01,2026-01-06,2036.3,Delivered
+SHP00314,CryoViva India,Chandigarh,Hyderabad,NFO,8.92,2026-01-31,2026-02-07,772.93,Delayed
+SHP00315,Tata 1mg,Mumbai,Hyderabad,HC GOLD,3.01,2026-03-22,2026-03-26,383.01,Delivered
+SHP00316,Tata 1mg,Chandigarh,Noida,HC GOLD,0.71,2026-06-16,2026-06-18,81.22,Delivered
+SHP00317,Suraksha Diagnostics,Lucknow,Noida,HC GOLD,11.34,2026-02-25,2026-02-27,1425.29,Delivered
+SHP00318,Suraksha Diagnostics,Kolkata,Chennai,NFO,3.93,2026-03-12,2026-03-13,350.75,Delivered
+SHP00319,CryoViva India,Ahmedabad,Bengaluru,HC SILVER,16.63,2026-03-19,2026-03-27,1623.11,Delayed
+SHP00320,Metropolis Healthcare,Lucknow,Kolkata,HC GOLD,19.7,2026-03-03,2026-03-09,2504.71,Delivered
+SHP00321,CryoViva India,Gurugram,Ahmedabad,HC SILVER,23.38,2026-02-03,,2464.85,In Transit
+SHP00322,Pathkind Labs,Kolkata,Chennai,HC GOLD,19.19,2026-01-19,2026-01-22,2080.46,Delayed
+SHP00323,CryoViva India,Mumbai,Delhi,HC SILVER,10.25,2026-03-15,,977.51,In Transit
+SHP00324,Tata 1mg,Lucknow,Kolkata,HC GOLD,13.67,2026-02-09,2026-02-12,1686.05,Delivered
+SHP00325,Pathkind Labs,Mumbai,Noida,NFO,14.87,2026-06-16,2026-06-17,1368.21,Delivered
+SHP00326,Redcliffe Labs,Mumbai,Delhi,NFO,11.14,2026-04-27,2026-05-04,925.43,Delayed
+SHP00327,CORE Diagnostics,Lucknow,Chandigarh,NFO,17.84,2026-06-29,2026-06-30,1496.2,Delivered
+SHP00328,CORE Diagnostics,Pune,Bengaluru,NFO,18.87,2026-03-10,,1804.4,In Transit
+SHP00329,Metropolis Healthcare,Chennai,Hyderabad,HC GOLD,6.94,2026-05-28,2026-05-29,824.5,Delivered
+SHP00330,CORE Diagnostics,Hyderabad,Chandigarh,NFO,6.75,2026-01-27,2026-02-03,549.14,Delayed
+SHP00331,CryoViva India,Pune,Delhi,HC SILVER,0.8,2026-01-12,2026-01-16,71.25,Delivered
+SHP00332,Suraksha Diagnostics,Delhi,Ahmedabad,NFO,6.58,2026-03-23,,514.26,In Transit
+SHP00333,Pathkind Labs,Chennai,Gurugram,HC GOLD,1.79,2026-02-27,2026-03-04,197.02,Delivered
+SHP00334,Metropolis Healthcare,Hyderabad,Bengaluru,NFO,14.05,2026-01-03,2026-01-06,1309.05,Delivered
+SHP00335,Redcliffe Labs,Lucknow,Ahmedabad,NFO,15.0,2026-05-07,2026-05-15,1389.9,Delayed
+SHP00336,CryoViva India,Mumbai,Noida,HC SILVER,1.09,2026-05-19,2026-05-24,117.81,Delayed
+SHP00337,Suraksha Diagnostics,Delhi,Lucknow,HC SILVER,18.32,2026-01-27,2026-02-01,1749.02,Delayed
+SHP00338,Metropolis Healthcare,Delhi,Mumbai,NFO,23.07,2026-05-14,2026-05-22,1989.61,Delayed
+SHP00339,Dr Lal PathLabs,Lucknow,Gurugram,NFO,3.77,2026-04-11,2026-04-18,293.39,Delayed
+SHP00340,Redcliffe Labs,Chandigarh,Noida,NFO,21.35,2026-04-11,2026-04-14,1739.26,Delivered
+SHP00341,Dr Lal PathLabs,Mumbai,Noida,NFO,3.09,2026-04-26,2026-04-30,271.58,Delivered
+SHP00342,Metropolis Healthcare,Mumbai,Pune,NFO,21.39,2026-01-24,,1948.17,In Transit
+SHP00343,CryoViva India,Lucknow,Ahmedabad,NFO,21.49,2026-02-07,2026-02-11,2086.22,Delayed
+SHP00344,CryoViva India,Kolkata,Ahmedabad,HC GOLD,6.87,2026-02-14,2026-02-15,856.54,Delivered
+SHP00345,Tata 1mg,Pune,Mumbai,NFO,20.2,2026-02-05,2026-02-07,1601.41,Delivered
+SHP00346,Tata 1mg,Kolkata,Chennai,HC GOLD,6.84,2026-01-20,2026-01-24,829.71,Delivered
+SHP00347,Healthians,Noida,Gurugram,NFO,23.59,2026-01-13,2026-01-20,2216.54,Delayed
+SHP00348,CryoViva India,Kolkata,Pune,NFO,10.95,2026-04-01,2026-04-03,941.46,Delivered
+SHP00349,Dr Lal PathLabs,Noida,Delhi,HC GOLD,6.52,2026-03-17,2026-03-21,797.86,Delivered
+SHP00350,Suraksha Diagnostics,Gurugram,Chennai,NFO,5.39,2026-05-15,2026-05-23,503.37,Delayed
+SHP00351,Oncquest Labs,Kolkata,Chennai,HC GOLD,12.37,2026-05-25,2026-05-30,1402.69,Delivered
+SHP00352,Redcliffe Labs,Chennai,Chandigarh,NFO,20.36,2026-03-13,,1986.53,In Transit
+SHP00353,Dr Lal PathLabs,Pune,Chennai,HC SILVER,24.36,2026-01-26,2026-01-31,2236.98,Delayed
+SHP00354,Redcliffe Labs,Lucknow,Delhi,HC GOLD,24.58,2026-04-10,,3385.8,In Transit
+SHP00355,Redcliffe Labs,Noida,Mumbai,HC GOLD,20.25,2026-06-28,2026-07-03,2614.35,Delayed
+SHP00356,Dr Lal PathLabs,Chennai,Chandigarh,NFO,23.74,2026-05-07,2026-05-13,1861.64,Delivered
+SHP00357,Redcliffe Labs,Mumbai,Chandigarh,NFO,12.21,2026-03-26,2026-03-31,1022.48,Delivered
+SHP00358,CryoViva India,Noida,Kolkata,NFO,14.87,2026-02-06,,1303.86,In Transit
+SHP00359,Healthians,Chennai,Gurugram,HC GOLD,16.72,2026-05-31,2026-06-01,1874.2,Delivered
+SHP00360,Oncquest Labs,Noida,Hyderabad,HC GOLD,4.77,2026-05-24,,566.22,In Transit
+SHP00361,CORE Diagnostics,Chandigarh,Ahmedabad,NFO,18.48,2026-03-17,2026-03-19,1786.31,Delivered
+SHP00362,Dr Lal PathLabs,Ahmedabad,Kolkata,NFO,15.26,2026-06-06,2026-06-14,1201.15,Delayed
+SHP00363,Healthians,Hyderabad,Noida,HC GOLD,6.33,2026-03-23,2026-03-27,839.67,Delayed
+SHP00364,Healthians,Chandigarh,Lucknow,NFO,7.0,2026-03-05,2026-03-06,551.57,Delivered
+SHP00365,Suraksha Diagnostics,Delhi,Gurugram,NFO,10.78,2026-02-12,2026-02-16,905.13,Delivered
+SHP00366,Oncquest Labs,Kolkata,Gurugram,HC GOLD,14.66,2026-06-25,2026-06-27,1934.77,Delivered
+SHP00367,CryoViva India,Delhi,Chennai,NFO,23.82,2026-01-19,2026-01-22,1903.68,Delivered
+SHP00368,Tata 1mg,Gurugram,Ahmedabad,NFO,24.64,2026-05-04,2026-05-05,1971.35,Delivered
+SHP00369,CryoViva India,Kolkata,Noida,NFO,5.54,2026-02-18,2026-02-28,508.81,Delayed
+SHP00370,Metropolis Healthcare,Lucknow,Pune,HC GOLD,7.79,2026-01-25,2026-01-26,1037.59,Delivered
+SHP00371,Healthians,Noida,Delhi,NFO,2.65,2026-06-19,2026-06-25,214.38,Delivered
+SHP00372,Tata 1mg,Chandigarh,Bengaluru,NFO,3.33,2026-04-12,2026-04-16,273.5,Delivered
+SHP00373,Suraksha Diagnostics,Chandigarh,Pune,NFO,22.19,2026-04-05,2026-04-09,1916.83,Delivered
+SHP00374,Dr Lal PathLabs,Mumbai,Chennai,NFO,18.93,2026-06-20,2026-06-21,1773.25,Delivered
+SHP00375,Redcliffe Labs,Kolkata,Chandigarh,HC GOLD,21.1,2026-05-14,2026-05-23,2641.33,Delayed
+SHP00376,Metropolis Healthcare,Mumbai,Pune,NFO,22.62,2026-01-09,2026-01-20,2115.19,Delayed
+SHP00377,CORE Diagnostics,Chandigarh,Ahmedabad,NFO,19.05,2026-02-14,2026-02-16,1508.41,Delivered
+SHP00378,Suraksha Diagnostics,Kolkata,Gurugram,NFO,20.65,2026-02-07,2026-02-12,1898.79,Delivered
+SHP00379,Suraksha Diagnostics,Gurugram,Noida,HC GOLD,14.03,2026-03-12,2026-03-17,1520.44,Delivered
+SHP00380,Dr Lal PathLabs,Lucknow,Ahmedabad,HC GOLD,10.78,2026-04-17,2026-04-19,1352.68,Delivered
+SHP00381,Dr Lal PathLabs,Gurugram,Noida,HC GOLD,19.75,2026-05-18,2026-05-21,2520.96,Delivered
+SHP00382,Oncquest Labs,Ahmedabad,Chandigarh,NFO,7.25,2026-02-06,2026-02-16,560.6,Delayed
+SHP00383,CryoViva India,Chennai,Mumbai,HC GOLD,23.06,2026-04-06,2026-04-07,2700.13,Delivered
+SHP00384,Tata 1mg,Bengaluru,Pune,HC SILVER,6.08,2026-03-18,,639.09,In Transit
+SHP00385,Dr Lal PathLabs,Bengaluru,Hyderabad,HC GOLD,5.1,2026-02-24,2026-03-05,667.0,Delayed
+SHP00386,Pathkind Labs,Chennai,Delhi,HC GOLD,2.11,2026-05-10,2026-05-14,261.07,Delivered
+SHP00387,CORE Diagnostics,Ahmedabad,Delhi,NFO,20.91,2026-01-15,2026-01-17,2007.53,Delivered
+SHP00388,Metropolis Healthcare,Lucknow,Mumbai,NFO,11.87,2026-04-12,2026-04-15,969.08,Delayed
+SHP00389,Oncquest Labs,Hyderabad,Chandigarh,NFO,21.83,2026-05-31,2026-06-05,2058.57,Delivered
+SHP00390,Metropolis Healthcare,Bengaluru,Gurugram,NFO,1.72,2026-05-27,,139.67,In Transit
+SHP00391,Redcliffe Labs,Mumbai,Lucknow,NFO,10.53,2026-01-06,2026-01-07,950.4,Delivered
+SHP00392,Redcliffe Labs,Ahmedabad,Delhi,NFO,20.22,2026-03-20,2026-03-23,1912.74,Delivered
+SHP00393,Redcliffe Labs,Hyderabad,Bengaluru,NFO,17.09,2026-06-09,2026-06-15,1310.05,Delayed
+SHP00394,Pathkind Labs,Chandigarh,Chennai,HC GOLD,15.42,2026-03-18,2026-03-21,1961.7,Delivered
+SHP00395,Metropolis Healthcare,Bengaluru,Chennai,NFO,13.17,2026-03-03,,1247.44,In Transit
+SHP00396,Healthians,Ahmedabad,Kolkata,HC GOLD,18.17,2026-06-17,2026-06-21,2190.52,Delivered
+SHP00397,Dr Lal PathLabs,Kolkata,Delhi,HC GOLD,14.52,2026-02-18,2026-02-24,1867.12,Delayed
+SHP00398,Healthians,Chandigarh,Hyderabad,HC GOLD,21.21,2026-06-18,2026-06-23,2590.24,Delivered
+SHP00399,Pathkind Labs,Lucknow,Bengaluru,HC GOLD,4.99,2026-06-24,2026-06-29,572.19,Delayed
+SHP00400,Suraksha Diagnostics,Mumbai,Chennai,HC GOLD,8.62,2026-03-08,2026-03-13,961.42,Delivered
+SHP00401,Dr Lal PathLabs,Delhi,Lucknow,HC GOLD,15.71,2026-05-01,2026-05-05,2105.53,Delayed
+SHP00402,Metropolis Healthcare,Kolkata,Ahmedabad,NFO,21.84,2026-02-08,2026-02-10,2128.92,Delivered
+SHP00403,Healthians,Hyderabad,Noida,HC SILVER,4.92,2026-01-21,2026-01-25,441.32,Delivered
+SHP00404,CryoViva India,Chandigarh,Delhi,NFO,5.63,2026-02-13,,449.65,In Transit
+SHP00405,Dr Lal PathLabs,Gurugram,Mumbai,NFO,11.02,2026-04-20,2026-04-27,889.73,Delivered
+SHP00406,Healthians,Chennai,Delhi,HC GOLD,13.51,2026-01-05,2026-01-09,1550.79,Delayed
+SHP00407,CORE Diagnostics,Chennai,Bengaluru,NFO,12.83,2026-03-20,2026-03-22,1062.8,Delivered
+SHP00408,Pathkind Labs,Bengaluru,Pune,HC GOLD,8.78,2026-06-25,2026-06-27,1077.35,Delivered
+SHP00409,Suraksha Diagnostics,Mumbai,Noida,NFO,6.0,2026-02-03,2026-02-07,534.19,Delayed
+SHP00410,Healthians,Noida,Gurugram,HC GOLD,19.91,2026-04-07,,2469.68,In Transit
+SHP00411,CryoViva India,Delhi,Chandigarh,HC GOLD,16.51,2026-01-06,2026-01-09,1989.51,Delayed
+SHP00412,Pathkind Labs,Kolkata,Gurugram,NFO,17.7,2026-02-22,2026-02-23,1392.03,Delivered
+SHP00413,Dr Lal PathLabs,Pune,Bengaluru,HC GOLD,3.86,2026-01-27,2026-02-07,430.51,Delayed
+SHP00414,Oncquest Labs,Gurugram,Noida,NFO,5.39,2026-03-09,2026-03-14,459.27,Delivered
+SHP00415,Pathkind Labs,Noida,Delhi,NFO,5.59,2026-05-04,2026-05-10,438.21,Delivered
+SHP00416,Oncquest Labs,Gurugram,Chandigarh,NFO,2.71,2026-05-11,2026-05-14,259.42,Delayed
+SHP00417,Oncquest Labs,Chandigarh,Mumbai,HC SILVER,7.75,2026-04-29,2026-04-30,823.52,Delivered
+SHP00418,Healthians,Bengaluru,Kolkata,NFO,3.34,2026-01-12,,265.33,In Transit
+SHP00419,Healthians,Chandigarh,Noida,NFO,11.22,2026-06-09,2026-06-14,947.17,Delayed
+SHP00420,Tata 1mg,Chennai,Noida,NFO,24.08,2026-03-11,2026-03-20,2251.43,Delayed
+SHP00421,Tata 1mg,Chandigarh,Noida,NFO,18.3,2026-02-10,2026-02-11,1587.65,Delivered
+SHP00422,Oncquest Labs,Ahmedabad,Lucknow,NFO,9.8,2026-04-02,2026-04-07,932.95,Delivered
+SHP00423,Oncquest Labs,Lucknow,Noida,HC SILVER,3.27,2026-04-16,2026-04-23,303.99,Delivered
+SHP00424,Pathkind Labs,Lucknow,Chandigarh,HC GOLD,14.63,2026-05-25,2026-05-31,1807.87,Delayed
+SHP00425,Tata 1mg,Lucknow,Ahmedabad,NFO,18.3,2026-05-04,2026-05-12,1457.76,Delayed
+SHP00426,CryoViva India,Pune,Chandigarh,NFO,23.39,2026-05-10,,2035.78,In Transit
+SHP00427,Oncquest Labs,Noida,Gurugram,NFO,8.61,2026-03-13,2026-03-17,759.39,Delayed
+SHP00428,Redcliffe Labs,Kolkata,Hyderabad,NFO,11.38,2026-05-27,2026-05-31,978.68,Delivered
+SHP00429,CryoViva India,Gurugram,Pune,NFO,10.6,2026-05-23,2026-05-28,989.25,Delivered
+SHP00430,Metropolis Healthcare,Ahmedabad,Lucknow,HC SILVER,14.28,2026-06-17,2026-06-21,1239.35,Delivered
+SHP00431,Healthians,Mumbai,Pune,HC GOLD,15.68,2026-05-02,2026-05-10,1747.08,Delayed
+SHP00432,CryoViva India,Chandigarh,Mumbai,NFO,20.83,2026-03-16,2026-03-25,1904.27,Delayed
+SHP00433,Oncquest Labs,Delhi,Mumbai,NFO,18.06,2026-04-15,2026-04-16,1453.56,Delivered
+SHP00434,Oncquest Labs,Kolkata,Mumbai,HC SILVER,5.17,2026-03-28,,492.93,In Transit
+SHP00435,Dr Lal PathLabs,Chandigarh,Lucknow,NFO,22.35,2026-04-28,2026-05-06,2167.55,Delayed
+SHP00436,CryoViva India,Delhi,Ahmedabad,HC GOLD,11.1,2026-05-30,2026-06-06,1429.18,Delayed
+SHP00437,Tata 1mg,Noida,Mumbai,NFO,15.21,2026-03-24,2026-03-29,1360.4,Delivered
+SHP00438,Metropolis Healthcare,Lucknow,Mumbai,NFO,8.9,2026-03-17,,706.07,In Transit
+SHP00439,Pathkind Labs,Kolkata,Chandigarh,NFO,17.69,2026-03-22,2026-03-30,1428.8,Delayed
+SHP00440,Healthians,Ahmedabad,Bengaluru,HC SILVER,3.75,2026-06-16,2026-06-24,382.46,Delayed
+SHP00441,Healthians,Chennai,Gurugram,HC GOLD,14.78,2026-06-20,2026-06-30,1723.02,Delayed
+SHP00442,Pathkind Labs,Kolkata,Delhi,NFO,9.83,2026-01-14,2026-01-15,916.08,Delivered
+SHP00443,Metropolis Healthcare,Bengaluru,Lucknow,NFO,2.02,2026-03-17,,177.76,In Transit
+SHP00444,Tata 1mg,Chennai,Pune,HC GOLD,17.05,2026-05-24,2026-06-01,2040.32,Delayed
+SHP00445,CryoViva India,Pune,Bengaluru,HC SILVER,10.0,2026-06-25,2026-06-30,858.08,Delayed
+SHP00446,Dr Lal PathLabs,Bengaluru,Mumbai,HC SILVER,21.58,2026-04-24,2026-04-30,2232.1,Delayed
+SHP00447,Redcliffe Labs,Pune,Chandigarh,HC GOLD,24.13,2026-03-17,2026-03-21,2659.95,Delivered
+SHP00448,Tata 1mg,Noida,Ahmedabad,NFO,11.0,2026-05-23,2026-05-28,842.82,Delivered
+SHP00449,CryoViva India,Hyderabad,Noida,NFO,8.4,2026-01-14,,760.75,In Transit
+SHP00450,Pathkind Labs,Hyderabad,Chandigarh,NFO,19.71,2026-03-23,2026-03-28,1725.86,Delivered
+SHP00451,Suraksha Diagnostics,Pune,Noida,HC GOLD,10.38,2026-03-31,2026-04-02,1224.13,Delivered
+SHP00452,Dr Lal PathLabs,Bengaluru,Mumbai,HC GOLD,24.92,2026-06-16,2026-06-17,3024.54,Delivered
+SHP00453,Dr Lal PathLabs,Chandigarh,Ahmedabad,NFO,1.48,2026-03-24,,142.94,In Transit
+SHP00454,Pathkind Labs,Kolkata,Bengaluru,HC GOLD,1.11,2026-05-13,2026-05-22,134.72,Delayed
+SHP00455,Redcliffe Labs,Delhi,Chennai,NFO,2.52,2026-01-25,,221.59,In Transit
+SHP00456,Tata 1mg,Delhi,Lucknow,NFO,15.92,2026-02-24,,1253.04,In Transit
+SHP00457,Tata 1mg,Pune,Kolkata,HC GOLD,4.27,2026-04-28,2026-05-02,483.96,Delivered
+SHP00458,Tata 1mg,Bengaluru,Ahmedabad,HC GOLD,6.08,2026-03-08,2026-03-12,730.41,Delivered
+SHP00459,Suraksha Diagnostics,Chennai,Delhi,HC GOLD,13.6,2026-06-14,2026-06-19,1707.73,Delivered
+SHP00460,Healthians,Lucknow,Gurugram,HC SILVER,3.1,2026-06-25,2026-06-30,285.78,Delayed
+SHP00461,Suraksha Diagnostics,Hyderabad,Kolkata,HC SILVER,1.26,2026-02-10,2026-02-17,131.57,Delivered
+SHP00462,CORE Diagnostics,Pune,Bengaluru,NFO,22.23,2026-06-15,2026-06-18,1962.8,Delivered
+SHP00463,CryoViva India,Gurugram,Delhi,HC GOLD,10.16,2026-05-21,2026-05-25,1372.68,Delivered
+SHP00464,Suraksha Diagnostics,Chennai,Mumbai,HC SILVER,21.36,2026-02-06,2026-02-10,1924.86,Delivered
+SHP00465,Dr Lal PathLabs,Noida,Lucknow,HC SILVER,21.36,2026-05-21,2026-05-31,1863.39,Delayed
+SHP00466,Metropolis Healthcare,Chandigarh,Gurugram,NFO,18.28,2026-05-05,2026-05-11,1489.52,Delivered
+SHP00467,Tata 1mg,Bengaluru,Chandigarh,HC SILVER,8.29,2026-04-26,2026-05-03,845.33,Delayed
+SHP00468,Dr Lal PathLabs,Noida,Chandigarh,NFO,8.25,2026-04-20,2026-04-22,768.86,Delivered
+SHP00469,Suraksha Diagnostics,Lucknow,Chandigarh,NFO,9.31,2026-06-23,2026-06-26,783.19,Delivered
+SHP00470,Pathkind Labs,Bengaluru,Pune,NFO,16.32,2026-01-21,,1535.09,In Transit
+SHP00471,Metropolis Healthcare,Pune,Mumbai,HC GOLD,15.85,2026-01-20,,1952.96,In Transit
+SHP00472,Dr Lal PathLabs,Delhi,Chandigarh,NFO,14.96,2026-01-10,2026-01-15,1461.94,Delivered
+SHP00473,CORE Diagnostics,Hyderabad,Lucknow,NFO,5.97,2026-05-31,2026-06-03,521.46,Delivered
+SHP00474,Pathkind Labs,Kolkata,Chennai,NFO,6.35,2026-06-07,,555.15,In Transit
+SHP00475,CORE Diagnostics,Hyderabad,Noida,HC GOLD,14.36,2026-02-07,2026-02-13,1650.72,Delivered
+SHP00476,Redcliffe Labs,Bengaluru,Kolkata,NFO,5.57,2026-04-03,2026-04-07,530.45,Delivered
+SHP00477,Healthians,Delhi,Lucknow,NFO,24.23,2026-06-12,,2235.6,In Transit
+SHP00478,Dr Lal PathLabs,Ahmedabad,Pune,NFO,16.52,2026-04-04,2026-04-11,1445.15,Delayed
+SHP00479,Pathkind Labs,Kolkata,Mumbai,NFO,20.52,2026-03-30,,1780.0,In Transit
+SHP00480,Pathkind Labs,Ahmedabad,Delhi,HC SILVER,11.28,2026-02-28,2026-03-05,1021.11,Delayed
+SHP00481,Healthians,Noida,Mumbai,HC GOLD,20.52,2026-06-19,2026-06-21,2659.55,Delivered
+SHP00482,Oncquest Labs,Hyderabad,Lucknow,NFO,14.97,2026-06-15,2026-06-20,1327.64,Delivered
+SHP00483,Pathkind Labs,Noida,Mumbai,NFO,14.52,2026-01-15,2026-01-17,1270.19,Delivered
+SHP00484,Dr Lal PathLabs,Kolkata,Chandigarh,HC GOLD,22.02,2026-06-19,2026-06-25,3033.99,Delivered
+SHP00485,Redcliffe Labs,Hyderabad,Noida,HC SILVER,15.22,2026-05-30,2026-06-07,1396.93,Delayed
+SHP00486,Healthians,Lucknow,Chandigarh,HC SILVER,15.12,2026-01-18,2026-01-20,1331.75,Delivered
+SHP00487,Pathkind Labs,Mumbai,Ahmedabad,HC GOLD,20.75,2026-06-05,2026-06-06,2623.68,Delivered
+SHP00488,Pathkind Labs,Delhi,Ahmedabad,HC GOLD,2.78,2026-06-18,2026-06-26,369.26,Delayed
+SHP00489,Suraksha Diagnostics,Chandigarh,Lucknow,HC GOLD,9.57,2026-01-12,2026-01-19,1260.24,Delivered
+SHP00490,Dr Lal PathLabs,Kolkata,Chennai,HC SILVER,22.74,2026-06-28,2026-07-03,2081.73,Delivered
+SHP00491,Metropolis Healthcare,Mumbai,Gurugram,HC GOLD,13.82,2026-03-07,2026-03-09,1819.85,Delivered
+SHP00492,Tata 1mg,Ahmedabad,Pune,HC GOLD,9.69,2026-02-22,2026-02-25,1091.51,Delivered
+SHP00493,Metropolis Healthcare,Chandigarh,Ahmedabad,NFO,13.63,2026-05-25,2026-06-01,1329.96,Delayed
+SHP00494,Suraksha Diagnostics,Kolkata,Mumbai,HC GOLD,14.16,2026-02-15,2026-02-24,1734.78,Delayed
+SHP00495,Healthians,Bengaluru,Chandigarh,HC GOLD,10.25,2026-02-05,2026-02-09,1244.33,Delayed
+SHP00496,Tata 1mg,Lucknow,Noida,NFO,10.31,2026-03-28,2026-04-04,823.93,Delayed
+SHP00497,Tata 1mg,Chandigarh,Delhi,HC SILVER,12.06,2026-06-03,2026-06-08,1137.35,Delivered
+SHP00498,Suraksha Diagnostics,Ahmedabad,Delhi,HC SILVER,10.32,2026-06-17,2026-06-22,1028.8,Delivered
+SHP00499,Oncquest Labs,Noida,Lucknow,NFO,5.44,2026-06-18,2026-06-26,475.18,Delivered
+SHP00500,Dr Lal PathLabs,Lucknow,Mumbai,NFO,1.38,2026-03-03,2026-03-06,128.43,Delivered
+SHP00501,Suraksha Diagnostics,Chennai,Lucknow,NFO,5.41,2026-01-04,2026-01-05,497.34,Delivered
+SHP00502,Healthians,Pune,Chandigarh,NFO,20.48,2026-02-27,2026-03-04,1742.52,Delivered
+SHP00503,CORE Diagnostics,Delhi,Chennai,NFO,3.11,2026-01-19,2026-01-24,245.65,Delivered
+SHP00504,Pathkind Labs,Pune,Bengaluru,HC SILVER,14.58,2026-06-27,2026-07-01,1513.21,Delivered
+SHP00505,Oncquest Labs,Chennai,Pune,HC SILVER,21.62,2026-05-04,2026-05-08,2253.47,Delivered
+SHP00506,Redcliffe Labs,Mumbai,Lucknow,HC SILVER,10.6,2026-04-01,2026-04-08,1082.73,Delayed
+SHP00507,Metropolis Healthcare,Bengaluru,Mumbai,NFO,17.01,2026-03-29,2026-04-02,1473.52,Delayed
+SHP00508,Dr Lal PathLabs,Chennai,Mumbai,NFO,23.7,2026-06-24,2026-06-26,1931.33,Delivered
+SHP00509,Redcliffe Labs,Mumbai,Chennai,NFO,20.96,2026-06-08,2026-06-11,1656.83,Delivered
+SHP00510,Oncquest Labs,Gurugram,Lucknow,HC GOLD,19.22,2026-05-19,,2353.85,In Transit
+SHP00511,Oncquest Labs,Ahmedabad,Chennai,HC SILVER,22.08,2026-05-28,2026-06-03,2034.81,Delivered
+SHP00512,CORE Diagnostics,Mumbai,Chandigarh,NFO,20.08,2026-05-03,2026-05-08,1704.12,Delivered
+SHP00513,Oncquest Labs,Chandigarh,Noida,HC SILVER,17.61,2026-04-28,2026-05-03,1510.6,Delayed
+SHP00514,Dr Lal PathLabs,Mumbai,Hyderabad,NFO,9.36,2026-03-08,2026-03-14,763.21,Delayed
+SHP00515,Healthians,Hyderabad,Chandigarh,NFO,12.72,2026-02-23,2026-03-03,1071.76,Delayed
+SHP00516,Oncquest Labs,Kolkata,Bengaluru,NFO,3.71,2026-05-28,,291.69,In Transit
+SHP00517,Pathkind Labs,Bengaluru,Mumbai,NFO,9.83,2026-02-07,2026-02-09,788.89,Delivered
+SHP00518,Pathkind Labs,Hyderabad,Noida,HC GOLD,8.24,2026-05-05,2026-05-08,1030.29,Delivered
+SHP00519,CORE Diagnostics,Kolkata,Gurugram,NFO,20.44,2026-05-02,2026-05-03,1676.49,Delivered
+SHP00520,Pathkind Labs,Chennai,Ahmedabad,HC SILVER,6.81,2026-01-06,2026-01-10,692.17,Delivered
+SHP00521,Dr Lal PathLabs,Ahmedabad,Mumbai,HC GOLD,16.4,2026-02-14,2026-02-17,2022.34,Delivered
+SHP00522,Tata 1mg,Lucknow,Hyderabad,NFO,7.52,2026-06-11,,602.06,In Transit
+SHP00523,Dr Lal PathLabs,Chennai,Hyderabad,HC GOLD,21.3,2026-01-19,2026-01-20,2500.72,Delivered
+SHP00524,Metropolis Healthcare,Chandigarh,Bengaluru,HC GOLD,10.19,2026-04-24,2026-05-03,1259.77,Delayed
+SHP00525,CORE Diagnostics,Hyderabad,Kolkata,NFO,1.07,2026-03-02,2026-03-07,86.64,Delayed
+SHP00526,Tata 1mg,Kolkata,Gurugram,NFO,22.03,2026-05-21,2026-05-22,1930.59,Delivered
+SHP00527,Metropolis Healthcare,Gurugram,Noida,HC GOLD,2.57,2026-04-10,2026-04-15,311.73,Delivered
+SHP00528,Pathkind Labs,Noida,Mumbai,HC SILVER,1.2,2026-06-19,,128.69,In Transit
+SHP00529,Pathkind Labs,Hyderabad,Pune,HC SILVER,13.94,2026-02-04,2026-02-09,1343.02,Delivered
+SHP00530,Dr Lal PathLabs,Lucknow,Chandigarh,NFO,16.17,2026-05-17,2026-05-20,1315.05,Delivered
+SHP00531,Metropolis Healthcare,Gurugram,Pune,NFO,6.87,2026-03-19,2026-03-20,636.26,Delivered
+SHP00532,Metropolis Healthcare,Noida,Kolkata,NFO,0.7,2026-05-06,2026-05-12,65.42,Delivered
+SHP00533,CryoViva India,Ahmedabad,Mumbai,HC GOLD,5.12,2026-05-24,2026-05-31,666.18,Delivered
+SHP00534,Redcliffe Labs,Kolkata,Hyderabad,NFO,10.84,2026-03-03,,1013.53,In Transit
+SHP00535,Metropolis Healthcare,Ahmedabad,Lucknow,NFO,18.7,2026-03-10,2026-03-14,1503.03,Delivered
+SHP00536,Oncquest Labs,Bengaluru,Gurugram,HC GOLD,7.17,2026-06-09,2026-06-13,807.09,Delivered
+SHP00537,CORE Diagnostics,Pune,Delhi,HC SILVER,7.41,2026-02-02,2026-02-08,674.53,Delayed
+SHP00538,Oncquest Labs,Noida,Delhi,NFO,10.8,2026-05-08,2026-05-11,833.48,Delivered
+SHP00539,CryoViva India,Gurugram,Mumbai,NFO,10.11,2026-05-20,2026-05-26,948.99,Delivered
+SHP00540,Redcliffe Labs,Delhi,Noida,NFO,24.39,2026-03-05,2026-03-06,2265.43,Delivered
+SHP00541,Redcliffe Labs,Pune,Lucknow,NFO,17.2,2026-03-21,2026-03-24,1331.22,Delivered
+SHP00542,Tata 1mg,Pune,Ahmedabad,NFO,16.14,2026-02-20,2026-02-23,1309.41,Delivered
+SHP00543,Suraksha Diagnostics,Gurugram,Bengaluru,NFO,4.6,2026-03-12,2026-03-17,375.66,Delivered
+SHP00544,Oncquest Labs,Delhi,Chandigarh,HC GOLD,4.3,2026-01-23,2026-01-25,552.89,Delivered
+SHP00545,CryoViva India,Chennai,Lucknow,NFO,16.29,2026-06-29,,1283.36,In Transit
+SHP00546,Healthians,Hyderabad,Mumbai,HC SILVER,19.82,2026-03-30,2026-04-06,1704.66,Delayed
+SHP00547,CORE Diagnostics,Kolkata,Chennai,NFO,1.47,2026-06-30,2026-07-08,129.41,Delayed
+SHP00548,Dr Lal PathLabs,Hyderabad,Mumbai,NFO,9.02,2026-04-30,,849.38,In Transit
+SHP00549,Tata 1mg,Pune,Noida,HC GOLD,11.51,2026-03-09,2026-03-14,1511.0,Delivered
+SHP00550,CORE Diagnostics,Pune,Kolkata,HC SILVER,15.68,2026-04-04,2026-04-09,1364.23,Delivered
+SHP00551,Redcliffe Labs,Pune,Kolkata,HC GOLD,12.69,2026-05-22,2026-05-28,1493.33,Delayed
+SHP00552,Tata 1mg,Chandigarh,Chennai,NFO,16.64,2026-01-12,2026-01-14,1344.42,Delivered
+SHP00553,Tata 1mg,Hyderabad,Mumbai,NFO,16.22,2026-04-10,2026-04-20,1482.56,Delayed
+SHP00554,Healthians,Bengaluru,Delhi,NFO,18.09,2026-01-04,2026-01-11,1740.77,Delayed
+SHP00555,CryoViva India,Gurugram,Pune,NFO,18.72,2026-04-17,,1713.89,In Transit
+SHP00556,Pathkind Labs,Ahmedabad,Bengaluru,NFO,2.22,2026-03-19,2026-03-20,174.41,Delivered
+SHP00557,Pathkind Labs,Lucknow,Mumbai,NFO,5.23,2026-06-18,2026-06-23,462.16,Delayed
+SHP00558,Tata 1mg,Pune,Kolkata,HC GOLD,14.63,2026-06-22,2026-07-01,1967.51,Delayed
+SHP00559,Pathkind Labs,Noida,Mumbai,NFO,8.77,2026-02-10,2026-02-20,844.88,Delayed
+SHP00560,Healthians,Chennai,Ahmedabad,HC SILVER,10.6,2026-06-12,,1089.04,In Transit
+SHP00561,Dr Lal PathLabs,Ahmedabad,Mumbai,HC GOLD,9.69,2026-05-21,2026-05-24,1176.61,Delivered
+SHP00562,CryoViva India,Kolkata,Delhi,HC SILVER,15.1,2026-05-13,2026-05-16,1368.09,Delivered
+SHP00563,Metropolis Healthcare,Chennai,Delhi,HC SILVER,13.03,2026-05-27,2026-06-03,1224.13,Delivered
+SHP00564,Healthians,Noida,Chennai,HC SILVER,6.62,2026-03-07,2026-03-10,655.48,Delivered
+SHP00565,Healthians,Mumbai,Gurugram,HC GOLD,4.74,2026-06-26,,640.99,In Transit
+SHP00566,Metropolis Healthcare,Ahmedabad,Lucknow,NFO,20.3,2026-04-08,,1577.07,In Transit
+SHP00567,Suraksha Diagnostics,Chennai,Kolkata,NFO,21.76,2026-02-28,2026-03-05,1956.97,Delivered
+SHP00568,Pathkind Labs,Delhi,Chennai,NFO,13.73,2026-02-08,2026-02-14,1095.04,Delayed
+SHP00569,Oncquest Labs,Chandigarh,Kolkata,HC GOLD,14.59,2026-01-24,2026-01-26,1748.31,Delivered
+SHP00570,Tata 1mg,Noida,Kolkata,NFO,18.76,2026-05-21,2026-05-28,1608.35,Delivered
+SHP00571,CORE Diagnostics,Lucknow,Noida,NFO,5.35,2026-04-12,2026-04-17,522.63,Delivered
+SHP00572,Redcliffe Labs,Pune,Mumbai,NFO,19.53,2026-03-24,2026-03-31,1669.82,Delivered
+SHP00573,Healthians,Chennai,Mumbai,NFO,16.56,2026-03-20,2026-03-22,1615.28,Delivered
+SHP00574,CORE Diagnostics,Hyderabad,Chandigarh,NFO,23.14,2026-03-01,2026-03-07,1846.91,Delayed
+SHP00575,Tata 1mg,Lucknow,Gurugram,HC GOLD,6.45,2026-06-08,,857.68,In Transit
+SHP00576,Healthians,Bengaluru,Delhi,HC GOLD,3.23,2026-04-26,2026-04-30,420.55,Delivered
+SHP00577,Pathkind Labs,Mumbai,Bengaluru,HC GOLD,6.84,2026-05-04,2026-05-12,881.35,Delayed
+SHP00578,Suraksha Diagnostics,Chandigarh,Delhi,HC GOLD,16.76,2026-01-12,2026-01-16,2206.88,Delivered
+SHP00579,CryoViva India,Ahmedabad,Bengaluru,NFO,23.66,2026-01-18,2026-01-26,2143.32,Delayed
+SHP00580,Tata 1mg,Chandigarh,Chennai,NFO,21.75,2026-06-16,2026-06-20,1898.92,Delivered
+SHP00581,Healthians,Lucknow,Gurugram,NFO,15.13,2026-01-23,2026-01-25,1304.69,Delivered
+SHP00582,CryoViva India,Lucknow,Delhi,NFO,13.47,2026-03-27,2026-03-31,1035.71,Delivered
+SHP00583,Healthians,Chandigarh,Chennai,HC GOLD,6.29,2026-05-09,,691.02,In Transit
+SHP00584,CryoViva India,Bengaluru,Hyderabad,HC SILVER,23.75,2026-02-27,2026-03-01,2401.18,Delivered
+SHP00585,Pathkind Labs,Gurugram,Hyderabad,HC SILVER,15.5,2026-06-10,2026-06-13,1482.24,Delivered
+SHP00586,Healthians,Bengaluru,Chandigarh,NFO,3.73,2026-06-17,2026-06-25,339.56,Delayed
+SHP00587,Metropolis Healthcare,Mumbai,Noida,HC GOLD,22.52,2026-02-04,,2530.22,In Transit
+SHP00588,Healthians,Ahmedabad,Noida,NFO,13.56,2026-01-31,2026-02-02,1079.27,Delivered
+SHP00589,Suraksha Diagnostics,Delhi,Kolkata,HC SILVER,7.93,2026-06-13,2026-06-16,698.12,Delivered
+SHP00590,Dr Lal PathLabs,Noida,Delhi,HC GOLD,15.34,2026-06-06,2026-06-11,1762.99,Delayed
+SHP00591,Tata 1mg,Delhi,Kolkata,HC GOLD,12.18,2026-05-09,2026-05-14,1452.08,Delivered
+SHP00592,Oncquest Labs,Kolkata,Pune,NFO,5.23,2026-01-09,,507.77,In Transit
+SHP00593,Redcliffe Labs,Bengaluru,Hyderabad,HC GOLD,24.71,2026-02-22,2026-02-23,3399.33,Delivered
+SHP00594,Healthians,Ahmedabad,Hyderabad,HC SILVER,22.25,2026-04-20,,1924.48,In Transit
+SHP00595,Healthians,Lucknow,Kolkata,NFO,23.51,2026-05-27,2026-06-07,2118.95,Delayed
+SHP00596,Pathkind Labs,Lucknow,Delhi,NFO,11.69,2026-01-11,2026-01-19,992.56,Delayed
+SHP00597,Pathkind Labs,Lucknow,Delhi,NFO,19.25,2026-01-13,2026-01-15,1834.4,Delivered
+SHP00598,CORE Diagnostics,Bengaluru,Pune,NFO,15.52,2026-01-14,2026-01-19,1400.36,Delivered
+SHP00599,Tata 1mg,Gurugram,Ahmedabad,NFO,14.84,2026-06-28,2026-07-03,1237.26,Delivered
+SHP00600,Oncquest Labs,Delhi,Mumbai,HC GOLD,17.96,2026-02-21,2026-02-25,2312.38,Delivered
+SHP00601,Tata 1mg,Lucknow,Noida,NFO,17.8,2026-06-12,2026-06-15,1506.98,Delivered
+SHP00602,CORE Diagnostics,Pune,Chandigarh,NFO,9.82,2026-02-13,2026-02-19,785.06,Delayed
+SHP00603,CryoViva India,Noida,Mumbai,NFO,8.08,2026-04-25,2026-05-01,638.3,Delayed
+SHP00604,CryoViva India,Noida,Bengaluru,HC GOLD,6.7,2026-04-28,,823.83,In Transit
+SHP00605,Oncquest Labs,Delhi,Chandigarh,NFO,14.93,2026-05-02,2026-05-06,1332.89,Delivered
+SHP00606,Pathkind Labs,Delhi,Bengaluru,NFO,15.9,2026-02-23,2026-02-27,1334.28,Delivered
+SHP00607,Dr Lal PathLabs,Noida,Delhi,HC SILVER,7.81,2026-01-23,2026-01-24,700.82,Delivered
+SHP00608,Dr Lal PathLabs,Chandigarh,Bengaluru,HC GOLD,17.65,2026-05-27,2026-06-01,2302.97,Delivered
+SHP00609,Tata 1mg,Chennai,Delhi,HC GOLD,8.41,2026-04-08,,1016.09,In Transit
+SHP00610,Metropolis Healthcare,Pune,Gurugram,NFO,3.49,2026-03-12,2026-03-20,305.89,Delayed
+SHP00611,Dr Lal PathLabs,Lucknow,Mumbai,NFO,14.5,2026-06-11,2026-06-16,1321.44,Delivered
+SHP00612,Suraksha Diagnostics,Lucknow,Bengaluru,HC GOLD,8.25,2026-05-15,2026-05-24,1120.46,Delayed
+SHP00613,Oncquest Labs,Ahmedabad,Chandigarh,HC GOLD,15.98,2026-05-07,2026-05-12,2065.54,Delayed
+SHP00614,Tata 1mg,Mumbai,Delhi,NFO,15.82,2026-01-31,,1417.08,In Transit
+SHP00615,CryoViva India,Kolkata,Hyderabad,NFO,14.23,2026-06-13,2026-06-15,1297.25,Delivered
+SHP00616,Metropolis Healthcare,Bengaluru,Gurugram,NFO,13.97,2026-01-02,2026-01-07,1170.04,Delayed
+SHP00617,Dr Lal PathLabs,Lucknow,Ahmedabad,HC SILVER,20.89,2026-02-19,,1953.76,In Transit
+SHP00618,Oncquest Labs,Chandigarh,Hyderabad,HC GOLD,16.32,2026-05-04,2026-05-11,2199.31,Delayed
+SHP00619,Oncquest Labs,Pune,Chennai,HC GOLD,10.64,2026-01-15,2026-01-20,1365.6,Delivered
+SHP00620,CryoViva India,Pune,Ahmedabad,NFO,17.29,2026-04-01,2026-04-02,1334.14,Delivered
+SHP00621,Pathkind Labs,Kolkata,Lucknow,HC SILVER,14.49,2026-04-10,2026-04-14,1536.43,Delayed
+SHP00622,CryoViva India,Bengaluru,Kolkata,NFO,2.63,2026-03-02,2026-03-05,218.11,Delivered
+SHP00623,CORE Diagnostics,Pune,Bengaluru,NFO,19.73,2026-02-21,2026-02-22,1844.35,Delivered
+SHP00624,Redcliffe Labs,Pune,Noida,NFO,12.35,2026-05-15,,1030.68,In Transit
+SHP00625,CORE Diagnostics,Gurugram,Ahmedabad,NFO,1.4,2026-04-10,2026-04-16,127.54,Delivered
+SHP00626,Healthians,Ahmedabad,Gurugram,NFO,1.63,2026-05-14,2026-05-17,135.51,Delivered
+SHP00627,Redcliffe Labs,Mumbai,Kolkata,NFO,7.28,2026-03-23,2026-03-29,599.1,Delayed
+SHP00628,Tata 1mg,Noida,Chennai,NFO,15.76,2026-05-12,2026-05-13,1389.62,Delivered
+SHP00629,Metropolis Healthcare,Bengaluru,Noida,HC GOLD,4.7,2026-03-21,2026-03-26,514.75,Delivered
+SHP00630,CryoViva India,Delhi,Pune,NFO,1.82,2026-04-20,2026-04-24,173.7,Delivered
+SHP00631,Dr Lal PathLabs,Chandigarh,Hyderabad,NFO,8.64,2026-02-20,2026-02-25,799.71,Delivered
+SHP00632,CORE Diagnostics,Hyderabad,Chandigarh,NFO,20.16,2026-06-28,2026-07-02,1835.47,Delivered
+SHP00633,Oncquest Labs,Lucknow,Hyderabad,NFO,5.98,2026-06-07,2026-06-10,546.37,Delivered
+SHP00634,Healthians,Chandigarh,Chennai,NFO,1.24,2026-05-02,2026-05-03,117.15,Delivered
+SHP00635,Dr Lal PathLabs,Bengaluru,Kolkata,HC GOLD,12.94,2026-04-14,2026-04-15,1425.05,Delivered
+SHP00636,Oncquest Labs,Bengaluru,Ahmedabad,NFO,10.63,2026-06-08,2026-06-13,1033.18,Delayed
+SHP00637,Healthians,Kolkata,Gurugram,NFO,17.5,2026-04-21,2026-04-29,1541.25,Delayed
+SHP00638,Tata 1mg,Mumbai,Noida,HC GOLD,17.94,2026-05-05,2026-05-12,2186.66,Delayed
+SHP00639,Oncquest Labs,Pune,Gurugram,NFO,23.92,2026-01-18,2026-01-23,2133.03,Delivered
+SHP00640,Oncquest Labs,Kolkata,Chennai,HC GOLD,2.01,2026-02-25,2026-03-01,262.73,Delayed
+SHP00641,Oncquest Labs,Chandigarh,Noida,HC GOLD,10.05,2026-05-28,2026-06-03,1175.77,Delivered
+SHP00642,Suraksha Diagnostics,Chandigarh,Bengaluru,HC GOLD,22.92,2026-01-23,2026-01-28,2826.33,Delivered
+SHP00643,CryoViva India,Noida,Chennai,NFO,13.95,2026-01-14,2026-01-21,1310.48,Delayed
+SHP00644,Metropolis Healthcare,Chennai,Gurugram,HC SILVER,6.26,2026-06-29,2026-07-04,641.05,Delivered
+SHP00645,Suraksha Diagnostics,Kolkata,Hyderabad,HC GOLD,16.73,2026-05-02,2026-05-04,2230.11,Delivered
+SHP00646,CORE Diagnostics,Chennai,Hyderabad,NFO,21.88,2026-02-02,2026-02-05,1740.77,Delivered
+SHP00647,Suraksha Diagnostics,Hyderabad,Lucknow,HC SILVER,3.83,2026-02-05,,368.95,In Transit
+SHP00648,Suraksha Diagnostics,Lucknow,Ahmedabad,HC GOLD,11.63,2026-04-19,,1413.06,In Transit
+SHP00649,CORE Diagnostics,Chennai,Mumbai,NFO,0.68,2026-05-08,2026-05-16,55.91,Delayed
+SHP00650,Healthians,Pune,Chandigarh,NFO,1.43,2026-05-04,2026-05-07,138.62,Delivered
+SHP00651,Pathkind Labs,Gurugram,Mumbai,HC SILVER,24.6,2026-03-13,2026-03-19,2409.07,Delayed
+SHP00652,Redcliffe Labs,Ahmedabad,Gurugram,NFO,18.67,2026-06-21,2026-06-28,1744.89,Delayed
+SHP00653,CryoViva India,Bengaluru,Chandigarh,HC SILVER,13.61,2026-01-03,2026-01-07,1315.33,Delivered
+SHP00654,Suraksha Diagnostics,Lucknow,Chennai,NFO,24.46,2026-03-17,2026-03-23,2260.72,Delivered
+SHP00655,Metropolis Healthcare,Lucknow,Ahmedabad,NFO,12.09,2026-02-13,2026-02-18,999.84,Delivered
+SHP00656,CryoViva India,Lucknow,Ahmedabad,NFO,2.52,2026-05-10,,234.75,In Transit
+SHP00657,Dr Lal PathLabs,Bengaluru,Noida,NFO,21.52,2026-01-04,2026-01-08,2062.48,Delayed
+SHP00658,Oncquest Labs,Lucknow,Noida,NFO,4.8,2026-06-29,2026-07-04,455.13,Delivered
+SHP00659,CORE Diagnostics,Chennai,Gurugram,HC GOLD,20.63,2026-05-07,,2465.18,In Transit
+SHP00660,CORE Diagnostics,Chandigarh,Hyderabad,NFO,18.49,2026-03-30,2026-04-04,1711.32,Delayed
+SHP00661,CORE Diagnostics,Gurugram,Delhi,NFO,12.17,2026-05-02,2026-05-07,1113.48,Delivered
+SHP00662,CORE Diagnostics,Hyderabad,Bengaluru,HC GOLD,11.15,2026-03-15,2026-03-19,1525.91,Delivered
+SHP00663,Tata 1mg,Chandigarh,Delhi,HC SILVER,16.12,2026-04-21,2026-04-30,1506.5,Delayed
+SHP00664,Metropolis Healthcare,Bengaluru,Gurugram,HC GOLD,10.08,2026-06-22,2026-06-30,1321.64,Delayed
+SHP00665,CORE Diagnostics,Pune,Chennai,NFO,0.76,2026-01-03,2026-01-04,66.62,Delivered
+SHP00666,Healthians,Chandigarh,Hyderabad,NFO,7.44,2026-02-19,2026-02-20,578.15,Delivered
+SHP00667,Redcliffe Labs,Ahmedabad,Lucknow,HC SILVER,16.13,2026-01-31,,1610.76,In Transit
+SHP00668,Dr Lal PathLabs,Kolkata,Lucknow,HC SILVER,5.03,2026-01-29,2026-01-31,508.97,Delivered
+SHP00669,Oncquest Labs,Gurugram,Lucknow,HC SILVER,7.27,2026-04-20,2026-04-24,669.46,Delivered
+SHP00670,Suraksha Diagnostics,Delhi,Hyderabad,NFO,1.97,2026-03-09,2026-03-12,176.25,Delivered
+SHP00671,Oncquest Labs,Noida,Lucknow,NFO,13.75,2026-04-21,2026-04-25,1318.53,Delayed
+SHP00672,Tata 1mg,Lucknow,Bengaluru,NFO,2.23,2026-03-06,2026-03-10,177.65,Delivered
+SHP00673,CryoViva India,Chandigarh,Delhi,HC GOLD,7.03,2026-06-29,2026-07-02,867.93,Delivered
+SHP00674,Suraksha Diagnostics,Hyderabad,Pune,NFO,18.33,2026-01-18,2026-01-26,1720.86,Delivered
+SHP00675,Dr Lal PathLabs,Hyderabad,Gurugram,HC GOLD,24.79,2026-03-27,2026-04-02,2744.75,Delivered
+SHP00676,Tata 1mg,Pune,Chennai,HC SILVER,19.13,2026-03-16,2026-03-18,2075.19,Delivered
+SHP00677,Metropolis Healthcare,Chandigarh,Mumbai,HC GOLD,22.46,2026-06-11,2026-06-17,2720.79,Delivered
+SHP00678,CryoViva India,Mumbai,Noida,NFO,18.13,2026-06-01,2026-06-03,1692.36,Delivered
+SHP00679,Oncquest Labs,Chandigarh,Bengaluru,HC GOLD,20.94,2026-04-26,2026-04-27,2473.67,Delivered
+SHP00680,Suraksha Diagnostics,Lucknow,Delhi,NFO,20.27,2026-06-20,2026-06-25,1925.48,Delivered
+SHP00681,Dr Lal PathLabs,Pune,Noida,NFO,2.26,2026-02-06,2026-02-12,195.52,Delayed
+SHP00682,Redcliffe Labs,Ahmedabad,Delhi,HC GOLD,3.7,2026-02-14,2026-02-15,410.4,Delivered
+SHP00683,Dr Lal PathLabs,Ahmedabad,Noida,NFO,20.53,2026-01-30,2026-02-09,1666.77,Delayed
+SHP00684,Healthians,Mumbai,Hyderabad,HC SILVER,24.56,2026-06-23,2026-06-30,2435.84,Delivered
+SHP00685,Redcliffe Labs,Noida,Kolkata,HC GOLD,15.03,2026-03-27,2026-03-28,1964.82,Delivered
+SHP00686,Pathkind Labs,Noida,Kolkata,NFO,6.47,2026-05-29,2026-06-02,579.16,Delivered
+SHP00687,Oncquest Labs,Noida,Delhi,NFO,0.68,2026-01-23,2026-01-28,63.69,Delivered
+SHP00688,Redcliffe Labs,Hyderabad,Noida,NFO,7.14,2026-04-26,2026-04-30,638.84,Delivered
+SHP00689,CORE Diagnostics,Delhi,Chandigarh,HC GOLD,15.5,2026-01-23,2026-01-26,1933.34,Delivered
+SHP00690,Pathkind Labs,Mumbai,Gurugram,HC SILVER,15.66,2026-05-19,2026-05-24,1571.93,Delivered
+SHP00691,CryoViva India,Mumbai,Chennai,NFO,20.02,2026-06-25,2026-07-02,1924.06,Delivered
+SHP00692,Healthians,Delhi,Lucknow,NFO,11.15,2026-03-27,,1063.87,In Transit
+SHP00693,Tata 1mg,Hyderabad,Delhi,HC GOLD,23.16,2026-02-15,,2521.47,In Transit
+SHP00694,Tata 1mg,Pune,Gurugram,HC SILVER,18.17,2026-06-01,2026-06-06,1875.93,Delivered
+SHP00695,Tata 1mg,Chennai,Mumbai,NFO,2.9,2026-04-16,2026-04-18,226.38,Delivered
+SHP00696,CryoViva India,Ahmedabad,Hyderabad,HC SILVER,4.05,2026-06-06,2026-06-10,359.4,Delivered
+SHP00697,Healthians,Lucknow,Mumbai,HC SILVER,5.45,2026-02-02,2026-02-09,473.7,Delayed
+SHP00698,Oncquest Labs,Noida,Gurugram,NFO,4.69,2026-03-29,2026-03-31,437.47,Delivered
+SHP00699,CORE Diagnostics,Chandigarh,Ahmedabad,HC GOLD,14.04,2026-02-28,2026-03-01,1722.38,Delivered
+SHP00700,Oncquest Labs,Mumbai,Chandigarh,HC SILVER,7.34,2026-04-20,2026-04-22,728.59,Delivered
+SHP00701,Dr Lal PathLabs,Ahmedabad,Noida,HC SILVER,10.74,2026-01-12,2026-01-13,1046.88,Delivered
+SHP00702,Suraksha Diagnostics,Kolkata,Ahmedabad,NFO,20.05,2026-01-26,2026-02-02,1854.68,Delivered
+SHP00703,Redcliffe Labs,Lucknow,Kolkata,NFO,7.75,2026-06-15,2026-06-16,643.08,Delivered
+SHP00704,Dr Lal PathLabs,Lucknow,Hyderabad,HC GOLD,1.1,2026-04-27,,123.37,In Transit
+SHP00705,CORE Diagnostics,Lucknow,Kolkata,HC GOLD,9.58,2026-04-29,,1214.93,In Transit
+SHP00706,Pathkind Labs,Kolkata,Chennai,NFO,10.93,2026-03-11,2026-03-22,1020.67,Delayed
+SHP00707,Dr Lal PathLabs,Chandigarh,Gurugram,HC SILVER,18.53,2026-01-15,2026-01-24,1975.1,Delayed
+SHP00708,Healthians,Gurugram,Hyderabad,NFO,1.5,2026-04-04,2026-04-12,137.22,Delayed
+SHP00709,CORE Diagnostics,Pune,Mumbai,HC SILVER,6.35,2026-01-30,2026-02-09,674.3,Delayed
+SHP00710,Redcliffe Labs,Lucknow,Mumbai,NFO,22.5,2026-05-09,2026-05-15,1886.31,Delivered
+SHP00711,Pathkind Labs,Hyderabad,Ahmedabad,HC SILVER,12.02,2026-05-17,2026-05-22,1132.81,Delivered
+SHP00712,Redcliffe Labs,Chandigarh,Gurugram,HC SILVER,11.72,2026-01-21,2026-01-25,1268.34,Delivered
+SHP00713,Metropolis Healthcare,Gurugram,Mumbai,NFO,4.12,2026-02-08,2026-02-12,340.85,Delayed
+SHP00714,CORE Diagnostics,Chandigarh,Pune,NFO,10.79,2026-06-15,2026-06-17,1025.33,Delivered
+SHP00715,Healthians,Mumbai,Ahmedabad,NFO,8.9,2026-06-15,2026-06-18,812.64,Delivered
+SHP00716,Oncquest Labs,Pune,Hyderabad,NFO,3.73,2026-03-20,,305.95,In Transit
+SHP00717,Metropolis Healthcare,Hyderabad,Chennai,HC GOLD,1.66,2026-04-01,2026-04-04,210.09,Delivered
+SHP00718,Metropolis Healthcare,Noida,Ahmedabad,NFO,4.8,2026-06-27,2026-06-30,468.56,Delivered
+SHP00719,Oncquest Labs,Ahmedabad,Noida,NFO,5.02,2026-05-24,2026-05-29,488.36,Delayed
+SHP00720,Oncquest Labs,Noida,Kolkata,HC GOLD,4.48,2026-03-19,2026-03-20,550.96,Delivered
+SHP00721,Healthians,Noida,Pune,NFO,24.27,2026-05-20,2026-05-25,2009.08,Delivered
+SHP00722,CORE Diagnostics,Bengaluru,Chandigarh,HC GOLD,18.35,2026-04-24,2026-04-29,2384.57,Delayed
+SHP00723,Pathkind Labs,Delhi,Mumbai,NFO,1.11,2026-06-08,2026-06-10,92.61,Delivered
+SHP00724,Redcliffe Labs,Ahmedabad,Lucknow,HC GOLD,5.94,2026-03-13,2026-03-17,762.17,Delivered
+SHP00725,Suraksha Diagnostics,Gurugram,Ahmedabad,NFO,8.29,2026-06-04,2026-06-09,697.79,Delivered
+SHP00726,Healthians,Noida,Hyderabad,NFO,0.8,2026-03-30,2026-04-02,76.06,Delivered
+SHP00727,Oncquest Labs,Gurugram,Bengaluru,HC GOLD,10.68,2026-04-24,2026-04-27,1464.34,Delivered
+SHP00728,CORE Diagnostics,Kolkata,Hyderabad,HC SILVER,15.15,2026-02-06,2026-02-08,1607.47,Delivered
+SHP00729,Dr Lal PathLabs,Chennai,Gurugram,HC GOLD,2.67,2026-04-15,2026-04-20,345.25,Delivered
+SHP00730,CORE Diagnostics,Noida,Bengaluru,HC SILVER,7.59,2026-05-06,,797.89,In Transit
+SHP00731,Oncquest Labs,Ahmedabad,Bengaluru,HC GOLD,11.85,2026-01-07,2026-01-08,1619.67,Delivered
+SHP00732,Tata 1mg,Chandigarh,Hyderabad,HC GOLD,22.37,2026-04-17,2026-04-19,2848.68,Delivered
+SHP00733,Metropolis Healthcare,Delhi,Noida,NFO,24.28,2026-06-03,2026-06-11,2149.23,Delayed
+SHP00734,Oncquest Labs,Bengaluru,Lucknow,HC SILVER,20.55,2026-04-06,2026-04-17,1765.59,Delayed
+SHP00735,Dr Lal PathLabs,Bengaluru,Noida,NFO,8.33,2026-06-27,2026-07-01,701.18,Delivered
+SHP00736,CryoViva India,Chandigarh,Chennai,NFO,13.48,2026-01-20,2026-01-25,1083.71,Delivered
+SHP00737,CORE Diagnostics,Gurugram,Chandigarh,HC GOLD,21.87,2026-06-25,2026-06-28,2813.58,Delivered
+SHP00738,Dr Lal PathLabs,Gurugram,Ahmedabad,NFO,4.02,2026-02-05,2026-02-10,348.95,Delivered
+SHP00739,Tata 1mg,Chennai,Noida,NFO,12.83,2026-02-18,2026-03-01,1212.17,Delayed
+SHP00740,Tata 1mg,Lucknow,Pune,NFO,22.94,2026-01-30,2026-02-01,1906.79,Delivered
+SHP00741,Oncquest Labs,Chennai,Noida,HC SILVER,15.14,2026-03-29,2026-04-04,1304.81,Delayed
+SHP00742,CORE Diagnostics,Gurugram,Bengaluru,HC SILVER,3.99,2026-02-28,2026-03-04,381.4,Delivered
+SHP00743,CryoViva India,Gurugram,Noida,HC GOLD,19.05,2026-01-11,2026-01-16,2350.85,Delivered
+SHP00744,Tata 1mg,Delhi,Pune,HC SILVER,1.56,2026-03-19,,136.96,In Transit
+SHP00745,Redcliffe Labs,Gurugram,Chandigarh,HC GOLD,5.4,2026-06-21,2026-06-27,735.78,Delivered
+SHP00746,Healthians,Ahmedabad,Chennai,NFO,12.77,2026-06-06,2026-06-14,995.45,Delayed
+SHP00747,Pathkind Labs,Ahmedabad,Delhi,NFO,5.19,2026-03-14,,456.27,In Transit
+SHP00748,Redcliffe Labs,Lucknow,Gurugram,HC SILVER,21.36,2026-05-02,2026-05-11,1920.19,Delayed
+SHP00749,CORE Diagnostics,Chandigarh,Gurugram,HC SILVER,24.54,2026-04-19,2026-04-24,2335.72,Delayed
+SHP00750,Oncquest Labs,Chennai,Gurugram,NFO,3.83,2026-04-03,2026-04-08,299.69,Delayed
+SHP00751,Suraksha Diagnostics,Hyderabad,Gurugram,NFO,15.21,2026-03-21,2026-03-25,1257.49,Delivered
+SHP00752,Tata 1mg,Kolkata,Mumbai,HC SILVER,20.16,2026-06-23,2026-06-29,1959.08,Delivered
+SHP00753,Oncquest Labs,Gurugram,Hyderabad,HC GOLD,17.07,2026-01-31,2026-02-02,2145.98,Delivered
+SHP00754,Tata 1mg,Gurugram,Mumbai,NFO,5.38,2026-02-21,,524.83,In Transit
+SHP00755,Suraksha Diagnostics,Gurugram,Bengaluru,HC GOLD,7.32,2026-05-29,2026-06-03,966.46,Delivered
+SHP00756,Oncquest Labs,Kolkata,Chennai,HC GOLD,23.78,2026-05-05,2026-05-12,2645.31,Delivered
+SHP00757,Oncquest Labs,Bengaluru,Pune,NFO,23.59,2026-01-08,2026-01-11,2220.86,Delayed
+SHP00758,CryoViva India,Hyderabad,Lucknow,HC SILVER,9.87,2026-06-23,2026-06-26,989.98,Delivered
+SHP00759,Pathkind Labs,Gurugram,Lucknow,HC GOLD,19.92,2026-02-21,2026-03-01,2444.33,Delayed
+SHP00760,Healthians,Bengaluru,Ahmedabad,HC SILVER,13.74,2026-01-05,2026-01-06,1213.65,Delivered
+SHP00761,Suraksha Diagnostics,Hyderabad,Chennai,NFO,1.38,2026-02-15,2026-02-24,131.51,Delayed
+SHP00762,Suraksha Diagnostics,Noida,Pune,NFO,18.04,2026-05-05,2026-05-11,1633.1,Delayed
+SHP00763,Dr Lal PathLabs,Chandigarh,Pune,NFO,14.28,2026-02-10,2026-02-15,1242.53,Delivered
+SHP00764,Healthians,Kolkata,Chandigarh,HC GOLD,7.47,2026-01-16,2026-01-19,835.49,Delayed
+SHP00765,Dr Lal PathLabs,Chennai,Kolkata,NFO,22.34,2026-03-29,2026-04-02,2179.91,Delivered
+SHP00766,CryoViva India,Kolkata,Chennai,HC GOLD,6.57,2026-06-15,2026-06-20,889.0,Delayed
+SHP00767,Tata 1mg,Gurugram,Chennai,NFO,0.98,2026-03-25,2026-03-26,83.77,Delivered
+SHP00768,Metropolis Healthcare,Pune,Kolkata,NFO,12.01,2026-01-06,2026-01-09,1001.05,Delivered
+SHP00769,Tata 1mg,Gurugram,Pune,HC GOLD,5.54,2026-05-08,,725.45,In Transit
+SHP00770,Dr Lal PathLabs,Chennai,Noida,NFO,24.25,2026-02-21,2026-02-27,2288.18,Delayed
+SHP00771,Metropolis Healthcare,Pune,Mumbai,NFO,7.78,2026-05-27,,632.51,In Transit
+SHP00772,Dr Lal PathLabs,Lucknow,Gurugram,NFO,8.75,2026-01-18,,768.12,In Transit
+SHP00773,Healthians,Kolkata,Mumbai,HC GOLD,16.46,2026-03-19,,1925.78,In Transit
+SHP00774,Healthians,Chandigarh,Pune,NFO,10.36,2026-06-09,2026-06-14,913.09,Delivered
+SHP00775,Pathkind Labs,Delhi,Lucknow,HC SILVER,14.63,2026-02-24,2026-02-28,1435.96,Delivered
+SHP00776,Dr Lal PathLabs,Ahmedabad,Kolkata,HC GOLD,1.97,2026-02-21,2026-02-25,256.87,Delivered
+SHP00777,Suraksha Diagnostics,Bengaluru,Hyderabad,NFO,20.84,2026-01-17,,1776.91,In Transit
+SHP00778,CORE Diagnostics,Bengaluru,Lucknow,NFO,15.23,2026-04-14,2026-04-17,1244.58,Delivered
+SHP00779,Oncquest Labs,Bengaluru,Pune,HC GOLD,11.19,2026-06-15,2026-06-17,1218.3,Delivered
+SHP00780,Pathkind Labs,Bengaluru,Lucknow,NFO,21.39,2026-05-05,2026-05-06,1674.48,Delivered
+SHP00781,Tata 1mg,Ahmedabad,Bengaluru,HC SILVER,10.47,2026-04-04,2026-04-05,1075.27,Delivered
+SHP00782,Tata 1mg,Noida,Bengaluru,HC GOLD,12.76,2026-01-31,2026-02-11,1741.62,Delayed
+SHP00783,Oncquest Labs,Pune,Bengaluru,HC SILVER,6.33,2026-02-01,2026-02-04,652.05,Delivered
+SHP00784,Suraksha Diagnostics,Lucknow,Mumbai,NFO,3.12,2026-02-24,2026-02-27,295.89,Delivered
+SHP00785,Pathkind Labs,Delhi,Pune,NFO,23.74,2026-03-23,2026-03-28,1940.39,Delivered
+SHP00786,Healthians,Bengaluru,Noida,NFO,9.51,2026-03-20,2026-03-27,734.55,Delayed
+SHP00787,CryoViva India,Lucknow,Chandigarh,HC GOLD,19.83,2026-03-03,2026-03-11,2325.62,Delayed
+SHP00788,Tata 1mg,Lucknow,Chennai,HC GOLD,6.29,2026-04-24,2026-04-28,753.47,Delivered
+SHP00789,Tata 1mg,Bengaluru,Chennai,HC SILVER,19.04,2026-03-18,,2030.49,In Transit
+SHP00790,Healthians,Hyderabad,Lucknow,HC SILVER,19.29,2026-04-15,2026-04-16,2026.43,Delivered
+SHP00791,Suraksha Diagnostics,Hyderabad,Pune,HC SILVER,8.65,2026-04-19,,772.52,In Transit
+SHP00792,Tata 1mg,Bengaluru,Ahmedabad,NFO,15.25,2026-05-21,2026-05-24,1413.55,Delivered
+SHP00793,CORE Diagnostics,Chandigarh,Lucknow,HC GOLD,19.88,2026-02-04,2026-02-07,2334.14,Delivered
+SHP00794,CORE Diagnostics,Gurugram,Noida,NFO,17.98,2026-06-16,,1602.43,In Transit
+SHP00795,Oncquest Labs,Kolkata,Chennai,NFO,18.51,2026-03-08,2026-03-16,1741.21,Delayed
+SHP00796,Tata 1mg,Bengaluru,Mumbai,NFO,4.96,2026-04-07,2026-04-13,476.74,Delivered
+SHP00797,Redcliffe Labs,Chandigarh,Ahmedabad,HC SILVER,24.37,2026-02-20,2026-02-26,2112.45,Delayed
+SHP00798,Dr Lal PathLabs,Ahmedabad,Kolkata,NFO,2.68,2026-04-05,2026-04-09,205.82,Delayed
+SHP00799,Oncquest Labs,Pune,Kolkata,HC SILVER,12.61,2026-02-27,2026-03-01,1321.76,Delivered
+SHP00800,Oncquest Labs,Bengaluru,Chennai,NFO,11.07,2026-02-22,2026-02-27,913.42,Delivered
+SHP00801,Suraksha Diagnostics,Chandigarh,Mumbai,NFO,19.92,2026-01-08,2026-01-13,1907.95,Delivered
+SHP00802,Oncquest Labs,Chennai,Chandigarh,NFO,11.99,2026-03-24,2026-03-31,1098.98,Delayed
+SHP00803,Dr Lal PathLabs,Lucknow,Kolkata,NFO,2.83,2026-01-16,2026-01-17,244.82,Delivered
+SHP00804,Dr Lal PathLabs,Chennai,Chandigarh,HC GOLD,20.34,2026-01-02,2026-01-11,2429.17,Delayed
+SHP00805,Healthians,Kolkata,Lucknow,NFO,22.36,2026-01-11,2026-01-16,1949.9,Delivered
+SHP00806,CORE Diagnostics,Chennai,Pune,NFO,17.9,2026-04-21,2026-04-24,1741.55,Delivered
+SHP00807,Healthians,Hyderabad,Bengaluru,HC SILVER,7.43,2026-03-09,,769.65,In Transit
+SHP00808,Healthians,Bengaluru,Ahmedabad,NFO,4.54,2026-05-06,2026-05-13,352.44,Delayed
+SHP00809,Redcliffe Labs,Noida,Delhi,NFO,12.02,2026-02-11,2026-02-17,929.95,Delivered
+SHP00810,Oncquest Labs,Chennai,Ahmedabad,NFO,3.26,2026-02-07,2026-02-10,261.9,Delivered
+SHP00811,Metropolis Healthcare,Noida,Ahmedabad,HC GOLD,16.75,2026-02-24,2026-03-01,2095.82,Delivered
+SHP00812,Redcliffe Labs,Kolkata,Gurugram,HC GOLD,17.08,2026-03-26,2026-03-27,2193.4,Delivered
+SHP00813,Dr Lal PathLabs,Kolkata,Chennai,HC SILVER,3.1,2026-03-24,2026-03-29,313.61,Delivered
+SHP00814,Metropolis Healthcare,Hyderabad,Lucknow,HC GOLD,0.64,2026-01-12,2026-01-17,83.17,Delivered
+SHP00815,CORE Diagnostics,Lucknow,Ahmedabad,NFO,1.69,2026-06-14,2026-06-17,156.0,Delivered
+SHP00816,Suraksha Diagnostics,Pune,Chandigarh,NFO,6.75,2026-03-03,2026-03-08,539.75,Delivered
+SHP00817,CORE Diagnostics,Kolkata,Bengaluru,NFO,12.53,2026-04-21,2026-04-30,993.5,Delayed
+SHP00818,Healthians,Chandigarh,Gurugram,HC GOLD,12.5,2026-04-10,2026-04-14,1508.65,Delivered
+SHP00819,Dr Lal PathLabs,Kolkata,Chennai,NFO,15.95,2026-01-24,2026-01-29,1550.05,Delayed
+SHP00820,CORE Diagnostics,Chandigarh,Mumbai,HC SILVER,13.42,2026-06-15,2026-06-20,1286.81,Delivered
+SHP00821,CORE Diagnostics,Hyderabad,Bengaluru,HC SILVER,17.27,2026-03-18,2026-03-25,1597.78,Delayed
+SHP00822,Tata 1mg,Delhi,Ahmedabad,HC SILVER,13.08,2026-05-11,2026-05-18,1342.1,Delivered
+SHP00823,Metropolis Healthcare,Bengaluru,Kolkata,HC GOLD,19.33,2026-01-05,2026-01-11,2191.76,Delayed
+SHP00824,CryoViva India,Noida,Hyderabad,NFO,21.98,2026-03-18,2026-03-26,2035.21,Delayed
+SHP00825,Metropolis Healthcare,Hyderabad,Chandigarh,NFO,22.99,2026-02-17,2026-02-22,1885.42,Delivered
+SHP00826,Suraksha Diagnostics,Chandigarh,Gurugram,HC GOLD,0.64,2026-01-30,2026-01-31,77.96,Delivered
+SHP00827,Dr Lal PathLabs,Kolkata,Lucknow,HC GOLD,7.92,2026-06-07,2026-06-15,1046.54,Delayed
+SHP00828,CORE Diagnostics,Gurugram,Mumbai,NFO,3.24,2026-01-05,,249.71,In Transit
+SHP00829,CORE Diagnostics,Hyderabad,Lucknow,HC GOLD,11.18,2026-06-10,2026-06-17,1257.13,Delivered
+SHP00830,Tata 1mg,Kolkata,Delhi,NFO,4.23,2026-06-29,2026-07-03,400.88,Delivered
+SHP00831,Redcliffe Labs,Ahmedabad,Mumbai,NFO,20.82,2026-04-11,2026-04-15,1967.74,Delivered
+SHP00832,Oncquest Labs,Kolkata,Hyderabad,HC GOLD,15.1,2026-05-22,2026-05-25,1851.0,Delivered
+SHP00833,Oncquest Labs,Ahmedabad,Chandigarh,NFO,1.99,2026-01-05,2026-01-13,175.63,Delayed
+SHP00834,Suraksha Diagnostics,Bengaluru,Lucknow,HC SILVER,3.37,2026-06-09,2026-06-12,289.8,Delivered
+SHP00835,Oncquest Labs,Bengaluru,Mumbai,NFO,6.19,2026-02-26,2026-03-07,594.78,Delayed
+SHP00836,Oncquest Labs,Lucknow,Chandigarh,NFO,7.69,2026-04-10,,742.09,In Transit
+SHP00837,Oncquest Labs,Chandigarh,Chennai,HC GOLD,21.19,2026-06-09,2026-06-11,2343.31,Delivered
+SHP00838,CORE Diagnostics,Hyderabad,Noida,NFO,15.34,2026-01-26,2026-01-30,1241.78,Delivered
+SHP00839,Healthians,Delhi,Gurugram,HC SILVER,9.25,2026-02-10,,979.69,In Transit
+SHP00840,Tata 1mg,Pune,Delhi,NFO,3.29,2026-02-28,2026-03-04,285.69,Delayed
+SHP00841,CryoViva India,Chennai,Kolkata,HC GOLD,14.15,2026-02-08,2026-02-15,1828.07,Delayed
+SHP00842,Tata 1mg,Hyderabad,Pune,HC SILVER,19.65,2026-06-06,,1942.57,In Transit
+SHP00843,CORE Diagnostics,Pune,Gurugram,HC GOLD,21.84,2026-04-03,2026-04-09,2822.71,Delayed
+SHP00844,Tata 1mg,Pune,Hyderabad,NFO,9.41,2026-02-05,,760.24,In Transit
+SHP00845,Redcliffe Labs,Kolkata,Delhi,HC SILVER,12.1,2026-03-15,2026-03-22,1240.08,Delivered
+SHP00846,Redcliffe Labs,Kolkata,Chennai,NFO,18.96,2026-04-18,2026-04-20,1617.0,Delivered
+SHP00847,Pathkind Labs,Kolkata,Pune,HC GOLD,9.36,2026-01-08,2026-01-12,1212.39,Delivered
+SHP00848,Tata 1mg,Pune,Gurugram,NFO,10.34,2026-02-12,2026-02-16,799.16,Delivered
+SHP00849,Dr Lal PathLabs,Chandigarh,Noida,NFO,15.97,2026-06-19,2026-06-24,1522.31,Delivered
+SHP00850,Metropolis Healthcare,Lucknow,Pune,HC GOLD,8.19,2026-03-30,,953.26,In Transit
+SHP00851,CORE Diagnostics,Pune,Chandigarh,HC GOLD,11.43,2026-02-22,2026-03-05,1458.02,Delayed
+SHP00852,Suraksha Diagnostics,Lucknow,Chennai,HC GOLD,22.08,2026-01-22,2026-01-27,2642.97,Delayed
+SHP00853,Pathkind Labs,Lucknow,Noida,HC SILVER,7.46,2026-01-24,2026-02-02,730.2,Delayed
+SHP00854,CryoViva India,Chandigarh,Noida,NFO,20.02,2026-06-01,2026-06-04,1660.83,Delivered
+SHP00855,Tata 1mg,Kolkata,Ahmedabad,HC GOLD,21.12,2026-03-08,2026-03-16,2877.39,Delivered
+SHP00856,Dr Lal PathLabs,Hyderabad,Bengaluru,HC GOLD,11.6,2026-03-02,2026-03-13,1546.68,Delayed
+SHP00857,Metropolis Healthcare,Mumbai,Kolkata,NFO,19.73,2026-05-27,2026-06-03,1727.22,Delayed
+SHP00858,Healthians,Mumbai,Gurugram,HC GOLD,5.22,2026-04-03,2026-04-09,693.49,Delivered
+SHP00859,CryoViva India,Gurugram,Noida,NFO,3.69,2026-02-24,2026-02-28,323.55,Delivered
+SHP00860,Pathkind Labs,Ahmedabad,Pune,HC GOLD,21.86,2026-05-30,2026-06-08,3014.39,Delayed
+SHP00861,Suraksha Diagnostics,Lucknow,Hyderabad,HC SILVER,4.04,2026-02-02,2026-02-11,357.83,Delayed
+SHP00862,Pathkind Labs,Lucknow,Pune,NFO,5.71,2026-05-02,2026-05-06,551.37,Delayed
+SHP00863,Dr Lal PathLabs,Chennai,Gurugram,HC SILVER,3.2,2026-04-05,2026-04-11,282.55,Delivered
+SHP00864,Metropolis Healthcare,Bengaluru,Kolkata,NFO,1.19,2026-02-06,,105.95,In Transit
+SHP00865,Metropolis Healthcare,Delhi,Chennai,NFO,20.57,2026-05-06,2026-05-07,1603.14,Delivered
+SHP00866,Oncquest Labs,Delhi,Hyderabad,HC GOLD,14.36,2026-03-28,2026-04-01,1910.03,Delivered
+SHP00867,Pathkind Labs,Noida,Mumbai,HC GOLD,19.16,2026-06-20,2026-06-24,2256.21,Delivered
+SHP00868,Dr Lal PathLabs,Ahmedabad,Lucknow,NFO,6.2,2026-04-12,2026-04-17,600.53,Delayed
+SHP00869,Tata 1mg,Hyderabad,Bengaluru,HC SILVER,17.83,2026-05-27,2026-06-01,1797.14,Delayed
+SHP00870,Dr Lal PathLabs,Gurugram,Bengaluru,HC GOLD,19.06,2026-05-26,2026-05-31,2345.89,Delivered
+SHP00871,Pathkind Labs,Delhi,Noida,NFO,0.96,2026-02-22,,87.83,In Transit
+SHP00872,Tata 1mg,Ahmedabad,Hyderabad,HC SILVER,15.37,2026-04-13,2026-04-18,1655.02,Delivered
+SHP00873,CORE Diagnostics,Chennai,Hyderabad,NFO,21.56,2026-03-23,2026-03-28,1897.56,Delivered
+SHP00874,CORE Diagnostics,Bengaluru,Noida,NFO,2.7,2026-03-20,2026-03-27,209.93,Delayed
+SHP00875,CryoViva India,Chennai,Noida,HC GOLD,7.8,2026-01-26,2026-01-29,918.27,Delivered
+SHP00876,CryoViva India,Kolkata,Gurugram,NFO,18.93,2026-05-31,2026-06-02,1651.05,Delivered
+SHP00877,CryoViva India,Gurugram,Chennai,NFO,14.05,2026-01-17,2026-01-21,1144.61,Delivered
+SHP00878,Pathkind Labs,Delhi,Chennai,HC SILVER,17.04,2026-03-05,2026-03-13,1580.2,Delayed
+SHP00879,Tata 1mg,Kolkata,Pune,HC SILVER,12.76,2026-02-06,2026-02-12,1327.97,Delayed
+SHP00880,Pathkind Labs,Pune,Kolkata,NFO,0.52,2026-04-29,2026-05-04,41.63,Delivered
+SHP00881,Metropolis Healthcare,Delhi,Pune,HC GOLD,21.07,2026-04-08,,2675.18,In Transit
+SHP00882,Metropolis Healthcare,Ahmedabad,Pune,NFO,18.61,2026-05-25,2026-05-29,1472.3,Delivered
+SHP00883,Metropolis Healthcare,Noida,Ahmedabad,HC SILVER,5.67,2026-05-10,2026-05-17,570.32,Delayed
+SHP00884,Metropolis Healthcare,Lucknow,Hyderabad,NFO,24.58,2026-03-29,2026-03-31,2051.93,Delivered
+SHP00885,CryoViva India,Lucknow,Noida,HC GOLD,0.6,2026-01-03,2026-01-05,77.34,Delivered
+SHP00886,Pathkind Labs,Hyderabad,Kolkata,NFO,21.98,2026-06-16,2026-06-19,2098.37,Delayed
+SHP00887,Tata 1mg,Chandigarh,Hyderabad,NFO,20.41,2026-06-03,2026-06-09,1988.05,Delivered
+SHP00888,Healthians,Gurugram,Pune,HC SILVER,11.39,2026-02-26,,1049.9,In Transit
+SHP00889,Redcliffe Labs,Lucknow,Chennai,NFO,15.53,2026-03-19,2026-03-21,1507.26,Delivered
+SHP00890,Oncquest Labs,Delhi,Chennai,HC SILVER,17.82,2026-02-23,2026-02-24,1793.81,Delivered
+SHP00891,Dr Lal PathLabs,Gurugram,Chennai,HC GOLD,4.68,2026-02-19,2026-03-02,584.79,Delayed
+SHP00892,CORE Diagnostics,Gurugram,Chandigarh,HC GOLD,3.62,2026-05-26,2026-06-01,411.8,Delayed
+SHP00893,Pathkind Labs,Chandigarh,Delhi,HC GOLD,17.18,2026-04-27,2026-04-28,2341.5,Delivered
+SHP00894,Suraksha Diagnostics,Delhi,Kolkata,HC SILVER,10.47,2026-02-01,2026-02-06,1023.81,Delivered
+SHP00895,CryoViva India,Delhi,Bengaluru,NFO,10.79,2026-04-25,2026-04-28,902.18,Delivered
+SHP00896,Redcliffe Labs,Ahmedabad,Delhi,HC SILVER,10.88,2026-01-20,2026-01-24,946.48,Delivered
+SHP00897,CryoViva India,Chandigarh,Gurugram,NFO,20.3,2026-06-01,,1660.97,In Transit
+SHP00898,Redcliffe Labs,Gurugram,Pune,HC SILVER,20.9,2026-03-27,,1904.46,In Transit
+SHP00899,Dr Lal PathLabs,Gurugram,Chandigarh,NFO,2.84,2026-04-25,2026-05-01,272.58,Delivered
+SHP00900,Tata 1mg,Kolkata,Chennai,HC GOLD,2.02,2026-04-24,2026-04-25,244.33,Delivered
+SHP00901,CryoViva India,Gurugram,Lucknow,HC GOLD,7.73,2026-04-08,2026-04-12,930.18,Delivered
+SHP00902,Dr Lal PathLabs,Ahmedabad,Lucknow,NFO,9.91,2026-04-20,2026-04-27,829.63,Delayed
+SHP00903,Oncquest Labs,Chandigarh,Delhi,HC GOLD,14.9,2026-01-28,2026-01-29,1639.39,Delivered
+SHP00904,CORE Diagnostics,Mumbai,Chandigarh,HC GOLD,6.78,2026-04-18,2026-04-28,822.68,Delayed
+SHP00905,CryoViva India,Mumbai,Noida,NFO,8.14,2026-04-22,2026-05-01,676.54,Delayed
+SHP00906,CORE Diagnostics,Pune,Noida,NFO,15.28,2026-03-16,2026-03-19,1382.47,Delivered
+SHP00907,Redcliffe Labs,Noida,Delhi,HC GOLD,20.96,2026-01-14,2026-01-19,2666.46,Delivered
+SHP00908,Healthians,Mumbai,Gurugram,NFO,12.16,2026-06-27,2026-07-05,1150.4,Delayed
+SHP00909,Dr Lal PathLabs,Ahmedabad,Chennai,NFO,8.55,2026-01-27,,819.51,In Transit
+SHP00910,CryoViva India,Hyderabad,Mumbai,HC GOLD,17.48,2026-04-30,2026-05-08,2290.76,Delivered
+SHP00911,Redcliffe Labs,Chennai,Hyderabad,NFO,20.74,2026-01-02,2026-01-06,1831.08,Delivered
+SHP00912,Oncquest Labs,Noida,Chennai,NFO,14.85,2026-04-03,2026-04-06,1190.98,Delivered
+SHP00913,Healthians,Bengaluru,Noida,HC SILVER,6.53,2026-02-20,2026-02-21,699.55,Delivered
+SHP00914,CORE Diagnostics,Delhi,Lucknow,NFO,19.79,2026-01-29,2026-02-01,1614.93,Delivered
+SHP00915,CORE Diagnostics,Chennai,Lucknow,HC SILVER,24.44,2026-06-09,2026-06-15,2158.4,Delayed
+SHP00916,Redcliffe Labs,Noida,Bengaluru,HC GOLD,17.51,2026-03-23,2026-03-28,2019.54,Delivered
+SHP00917,Dr Lal PathLabs,Delhi,Chandigarh,NFO,13.62,2026-02-08,2026-02-13,1294.56,Delivered
+SHP00918,Oncquest Labs,Pune,Chandigarh,NFO,2.49,2026-05-01,2026-05-08,230.24,Delivered
+SHP00919,Healthians,Chandigarh,Pune,NFO,11.87,2026-03-24,2026-04-01,1088.57,Delayed
+SHP00920,Metropolis Healthcare,Hyderabad,Pune,HC GOLD,16.13,2026-05-30,2026-06-01,1960.8,Delivered
+SHP00921,Redcliffe Labs,Mumbai,Hyderabad,NFO,22.27,2026-05-27,,1880.7,In Transit
+SHP00922,CORE Diagnostics,Pune,Gurugram,HC GOLD,7.73,2026-05-13,2026-05-16,942.73,Delivered
+SHP00923,Suraksha Diagnostics,Ahmedabad,Chennai,NFO,11.1,2026-04-05,2026-04-09,854.98,Delivered
+SHP00924,Metropolis Healthcare,Hyderabad,Mumbai,HC GOLD,9.3,2026-01-22,,1144.39,In Transit
+SHP00925,Tata 1mg,Pune,Lucknow,HC GOLD,23.2,2026-01-26,2026-01-27,2885.63,Delivered
+SHP00926,Healthians,Chennai,Mumbai,NFO,18.76,2026-06-24,2026-06-27,1832.99,Delivered
+SHP00927,Metropolis Healthcare,Lucknow,Pune,NFO,7.84,2026-03-30,2026-04-03,726.01,Delivered
+SHP00928,Pathkind Labs,Delhi,Pune,HC SILVER,23.81,2026-04-12,2026-04-14,2154.44,Delivered
+SHP00929,Dr Lal PathLabs,Mumbai,Ahmedabad,HC GOLD,19.06,2026-04-29,,2107.58,In Transit
+SHP00930,Suraksha Diagnostics,Mumbai,Hyderabad,NFO,11.52,2026-05-23,2026-05-25,956.08,Delivered
+SHP00931,Oncquest Labs,Lucknow,Delhi,HC SILVER,20.94,2026-03-28,2026-03-30,2164.67,Delivered
+SHP00932,Metropolis Healthcare,Lucknow,Pune,NFO,1.07,2026-01-09,2026-01-11,104.46,Delivered
+SHP00933,Dr Lal PathLabs,Ahmedabad,Lucknow,HC SILVER,14.56,2026-04-11,2026-04-15,1266.91,Delivered
+SHP00934,Oncquest Labs,Kolkata,Mumbai,NFO,14.45,2026-04-26,2026-05-02,1275.2,Delivered
+SHP00935,Oncquest Labs,Delhi,Chandigarh,NFO,5.38,2026-04-09,2026-04-15,471.52,Delivered
+SHP00936,Healthians,Hyderabad,Delhi,HC GOLD,4.71,2026-04-16,2026-04-20,526.93,Delivered
+SHP00937,Tata 1mg,Kolkata,Pune,NFO,22.64,2026-02-22,,1830.91,In Transit
+SHP00938,Oncquest Labs,Kolkata,Lucknow,NFO,14.59,2026-03-21,2026-03-26,1328.46,Delivered
+SHP00939,CryoViva India,Bengaluru,Mumbai,HC SILVER,11.42,2026-04-13,,1043.36,In Transit
+SHP00940,Oncquest Labs,Chennai,Chandigarh,NFO,14.62,2026-01-24,2026-02-01,1226.17,Delayed
+SHP00941,Suraksha Diagnostics,Lucknow,Bengaluru,HC GOLD,20.34,2026-02-14,2026-02-21,2644.15,Delivered
+SHP00942,CORE Diagnostics,Hyderabad,Kolkata,HC GOLD,2.84,2026-06-28,2026-06-29,320.18,Delivered
+SHP00943,Metropolis Healthcare,Chandigarh,Pune,HC GOLD,2.14,2026-02-25,2026-03-01,266.61,Delivered
+SHP00944,Tata 1mg,Chennai,Gurugram,HC GOLD,19.6,2026-04-15,2026-04-19,2414.37,Delivered
+SHP00945,Tata 1mg,Hyderabad,Delhi,HC GOLD,17.05,2026-04-29,2026-05-03,2279.13,Delivered
+SHP00946,CryoViva India,Kolkata,Delhi,NFO,17.87,2026-02-04,2026-02-12,1551.14,Delayed
+SHP00947,Pathkind Labs,Gurugram,Noida,HC GOLD,17.98,2026-04-23,2026-04-25,2395.78,Delivered
+SHP00948,Dr Lal PathLabs,Noida,Delhi,NFO,7.71,2026-05-17,2026-05-22,700.8,Delivered
+SHP00949,Healthians,Noida,Pune,NFO,18.0,2026-06-22,2026-06-27,1395.27,Delivered
+SHP00950,Tata 1mg,Chandigarh,Pune,NFO,8.05,2026-01-14,2026-01-21,747.05,Delivered
+SHP00951,Redcliffe Labs,Mumbai,Kolkata,NFO,0.89,2026-01-08,2026-01-09,80.94,Delivered
+SHP00952,Tata 1mg,Gurugram,Bengaluru,HC GOLD,20.85,2026-02-12,2026-02-14,2319.16,Delivered
+SHP00953,Pathkind Labs,Chennai,Kolkata,HC GOLD,15.8,2026-05-19,2026-05-24,1756.59,Delivered
+SHP00954,CryoViva India,Chennai,Noida,NFO,8.25,2026-04-10,2026-04-15,774.02,Delivered
+SHP00955,Healthians,Chandigarh,Ahmedabad,NFO,22.19,2026-04-16,,1979.92,In Transit
+SHP00956,Dr Lal PathLabs,Gurugram,Ahmedabad,NFO,24.0,2026-06-03,2026-06-11,2181.73,Delayed
+SHP00957,Healthians,Lucknow,Noida,NFO,19.16,2026-06-26,,1737.05,In Transit
+SHP00958,CryoViva India,Gurugram,Kolkata,HC GOLD,14.83,2026-04-08,2026-04-16,1825.61,Delayed
+SHP00959,Redcliffe Labs,Lucknow,Delhi,NFO,19.09,2026-02-01,2026-02-04,1767.57,Delivered
+SHP00960,CryoViva India,Ahmedabad,Gurugram,NFO,12.72,2026-02-21,2026-02-24,1037.43,Delivered
+SHP00961,Oncquest Labs,Lucknow,Ahmedabad,HC GOLD,8.55,2026-03-13,2026-03-18,1057.0,Delayed
+SHP00962,Metropolis Healthcare,Kolkata,Lucknow,HC GOLD,6.11,2026-03-26,2026-03-30,826.07,Delivered
+SHP00963,Redcliffe Labs,Chandigarh,Mumbai,HC GOLD,9.85,2026-03-24,2026-03-26,1082.89,Delivered
+SHP00964,Redcliffe Labs,Hyderabad,Gurugram,NFO,24.8,2026-02-22,2026-02-27,2335.25,Delivered
+SHP00965,Pathkind Labs,Mumbai,Bengaluru,NFO,18.26,2026-03-21,2026-03-26,1491.93,Delayed
+SHP00966,Redcliffe Labs,Noida,Chandigarh,NFO,14.62,2026-06-12,2026-06-14,1267.92,Delivered
+SHP00967,Suraksha Diagnostics,Chennai,Hyderabad,NFO,11.31,2026-05-10,2026-05-20,1047.95,Delayed
+SHP00968,Suraksha Diagnostics,Hyderabad,Delhi,NFO,2.54,2026-03-18,2026-03-26,224.15,Delayed
+SHP00969,Suraksha Diagnostics,Noida,Chennai,NFO,11.61,2026-04-07,2026-04-17,905.91,Delayed
+SHP00970,Redcliffe Labs,Noida,Pune,NFO,5.15,2026-01-04,2026-01-13,447.76,Delayed
+SHP00971,Healthians,Kolkata,Hyderabad,NFO,8.04,2026-05-31,2026-06-01,784.62,Delivered
+SHP00972,Dr Lal PathLabs,Gurugram,Hyderabad,NFO,19.19,2026-03-07,2026-03-15,1726.97,Delayed
+SHP00973,Suraksha Diagnostics,Chennai,Delhi,HC SILVER,18.52,2026-03-04,2026-03-08,1742.43,Delivered
+SHP00974,CryoViva India,Lucknow,Chandigarh,HC GOLD,16.31,2026-03-08,2026-03-13,1833.59,Delivered
+SHP00975,Dr Lal PathLabs,Mumbai,Chandigarh,HC SILVER,21.12,2026-01-04,,1852.06,In Transit
+SHP00976,Suraksha Diagnostics,Lucknow,Kolkata,HC GOLD,24.37,2026-01-21,2026-01-26,2753.19,Delivered
+SHP00977,Metropolis Healthcare,Kolkata,Bengaluru,HC GOLD,13.56,2026-04-08,2026-04-13,1770.58,Delivered
+SHP00978,Tata 1mg,Lucknow,Gurugram,HC GOLD,19.53,2026-03-30,2026-04-01,2654.14,Delivered
+SHP00979,CryoViva India,Kolkata,Bengaluru,HC SILVER,20.5,2026-01-01,2026-01-02,1956.19,Delivered
+SHP00980,Metropolis Healthcare,Kolkata,Lucknow,HC GOLD,4.68,2026-04-06,2026-04-11,533.24,Delayed
+SHP00981,Tata 1mg,Noida,Ahmedabad,NFO,20.45,2026-02-17,2026-02-19,1916.06,Delivered
+SHP00982,Suraksha Diagnostics,Mumbai,Chennai,NFO,22.87,2026-01-28,2026-01-30,1933.13,Delivered
+SHP00983,Healthians,Bengaluru,Gurugram,NFO,6.25,2026-05-05,2026-05-07,566.49,Delivered
+SHP00984,Redcliffe Labs,Delhi,Noida,HC GOLD,0.68,2026-06-04,,78.86,In Transit
+SHP00985,Healthians,Hyderabad,Pune,HC GOLD,8.75,2026-06-24,2026-06-27,1192.01,Delivered
+SHP00986,Suraksha Diagnostics,Chandigarh,Kolkata,HC GOLD,24.39,2026-03-26,2026-03-27,3145.07,Delivered
+SHP00987,CryoViva India,Lucknow,Noida,HC GOLD,21.79,2026-03-13,2026-03-15,2801.88,Delivered
+SHP00988,Suraksha Diagnostics,Hyderabad,Ahmedabad,HC GOLD,0.58,2026-06-13,2026-06-16,77.84,Delivered
+SHP00989,Oncquest Labs,Lucknow,Chennai,NFO,12.37,2026-06-06,2026-06-07,1191.16,Delivered
+SHP00990,Tata 1mg,Hyderabad,Lucknow,HC GOLD,7.7,2026-02-19,,951.73,In Transit
+SHP00991,CryoViva India,Ahmedabad,Pune,NFO,20.02,2026-03-19,,1730.12,In Transit
+SHP00992,Oncquest Labs,Hyderabad,Gurugram,HC GOLD,6.4,2026-02-24,,872.49,In Transit
+SHP00993,Tata 1mg,Lucknow,Gurugram,NFO,18.04,2026-02-11,2026-02-14,1464.54,Delivered
+SHP00994,Oncquest Labs,Bengaluru,Lucknow,HC SILVER,16.93,2026-06-20,2026-06-27,1483.88,Delayed
+SHP00995,Redcliffe Labs,Lucknow,Chennai,HC SILVER,19.28,2026-06-03,2026-06-08,1821.07,Delayed
+SHP00996,Pathkind Labs,Lucknow,Kolkata,HC SILVER,11.21,2026-03-01,2026-03-04,988.11,Delivered
+SHP00997,Redcliffe Labs,Chennai,Chandigarh,HC GOLD,3.34,2026-04-05,,392.12,In Transit
+SHP00998,CryoViva India,Kolkata,Chandigarh,NFO,14.96,2026-02-18,2026-02-22,1260.48,Delivered
+SHP00999,Pathkind Labs,Chandigarh,Noida,HC GOLD,14.97,2026-01-28,2026-02-01,1823.62,Delivered
+SHP01000,Redcliffe Labs,Noida,Chennai,NFO,11.67,2026-06-03,2026-06-06,1103.33,Delivered
+SHP01001,Dr Lal PathLabs,Lucknow,Delhi,NFO,12.81,2026-06-26,2026-06-27,1172.29,Delivered
+SHP01002,Redcliffe Labs,Hyderabad,Lucknow,NFO,17.75,2026-04-07,,1483.53,In Transit
+SHP01003,Redcliffe Labs,Lucknow,Mumbai,HC GOLD,1.79,2026-02-15,2026-02-24,209.38,Delayed
+SHP01004,CryoViva India,Chandigarh,Noida,HC GOLD,8.77,2026-06-23,2026-06-27,1050.05,Delivered
+SHP01005,Metropolis Healthcare,Pune,Bengaluru,HC GOLD,5.28,2026-05-21,2026-05-28,707.39,Delivered
+SHP01006,Oncquest Labs,Delhi,Chennai,HC GOLD,14.64,2026-04-24,2026-04-28,1673.25,Delivered
+SHP01007,CryoViva India,Lucknow,Mumbai,NFO,21.48,2026-01-27,2026-01-29,1838.17,Delivered
+SHP01008,Tata 1mg,Noida,Delhi,NFO,12.11,2026-01-14,2026-01-19,1079.12,Delayed
+SHP01009,Suraksha Diagnostics,Noida,Lucknow,NFO,3.41,2026-04-12,2026-04-16,330.03,Delivered
+SHP01010,Tata 1mg,Chandigarh,Kolkata,HC GOLD,21.69,2026-06-16,2026-06-20,2632.16,Delivered
+SHP01011,Tata 1mg,Delhi,Noida,NFO,12.49,2026-06-21,2026-06-29,1217.54,Delivered
+SHP01012,Tata 1mg,Hyderabad,Bengaluru,HC GOLD,4.94,2026-05-04,2026-05-08,548.26,Delivered
+SHP01013,CORE Diagnostics,Gurugram,Ahmedabad,NFO,17.67,2026-04-11,,1553.17,In Transit
+SHP01014,Tata 1mg,Pune,Hyderabad,HC GOLD,14.83,2026-06-16,,1936.64,In Transit
+SHP01015,CORE Diagnostics,Chandigarh,Gurugram,HC SILVER,17.53,2026-01-02,2026-01-07,1550.04,Delivered
+SHP01016,Redcliffe Labs,Noida,Chandigarh,HC GOLD,2.65,2026-03-07,2026-03-08,326.44,Delivered
+SHP01017,CORE Diagnostics,Chennai,Ahmedabad,NFO,23.66,2026-01-01,2026-01-06,2264.81,Delivered
+SHP01018,Pathkind Labs,Bengaluru,Lucknow,NFO,14.64,2026-06-27,2026-07-04,1308.54,Delayed
+SHP01019,Tata 1mg,Pune,Mumbai,HC GOLD,1.6,2026-01-10,2026-01-12,212.77,Delivered
+SHP01020,Pathkind Labs,Noida,Chandigarh,NFO,9.3,2026-02-02,2026-02-09,762.97,Delivered
+SHP01021,Suraksha Diagnostics,Chandigarh,Noida,NFO,23.65,2026-06-23,2026-06-30,2078.55,Delayed
+SHP01022,Metropolis Healthcare,Gurugram,Lucknow,HC SILVER,17.57,2026-02-19,2026-02-28,1754.67,Delayed
+SHP01023,Healthians,Kolkata,Noida,HC SILVER,11.12,2026-01-07,2026-01-13,1091.12,Delivered
+SHP01024,Suraksha Diagnostics,Chandigarh,Pune,NFO,16.18,2026-04-03,,1331.72,In Transit
+SHP01025,CryoViva India,Mumbai,Chennai,NFO,24.5,2026-02-26,2026-03-02,1938.55,Delivered
+SHP01026,Dr Lal PathLabs,Pune,Bengaluru,HC SILVER,12.5,2026-05-16,2026-05-25,1325.67,Delayed
+SHP01027,Dr Lal PathLabs,Pune,Bengaluru,NFO,1.68,2026-03-23,2026-03-27,154.98,Delivered
+SHP01028,Dr Lal PathLabs,Pune,Ahmedabad,HC SILVER,10.36,2026-06-01,2026-06-06,1061.27,Delivered
+SHP01029,CORE Diagnostics,Chandigarh,Noida,NFO,18.52,2026-01-14,2026-01-20,1683.69,Delayed
+SHP01030,CORE Diagnostics,Kolkata,Pune,NFO,9.17,2026-04-30,2026-05-05,784.86,Delivered
+SHP01031,Metropolis Healthcare,Lucknow,Mumbai,HC GOLD,2.63,2026-03-20,,308.71,In Transit
+SHP01032,Tata 1mg,Gurugram,Lucknow,NFO,6.38,2026-01-24,2026-01-28,499.54,Delayed
+SHP01033,Oncquest Labs,Bengaluru,Ahmedabad,HC SILVER,0.76,2026-04-19,2026-04-27,73.64,Delayed
+SHP01034,Pathkind Labs,Pune,Lucknow,HC GOLD,10.43,2026-06-07,,1359.84,In Transit
+SHP01035,Pathkind Labs,Lucknow,Kolkata,HC GOLD,6.48,2026-06-19,2026-06-30,708.07,Delayed
+SHP01036,Pathkind Labs,Hyderabad,Noida,HC SILVER,4.78,2026-04-04,2026-04-10,516.82,Delayed
+SHP01037,Suraksha Diagnostics,Kolkata,Pune,NFO,24.26,2026-03-28,,2133.82,In Transit
+SHP01038,Metropolis Healthcare,Gurugram,Chennai,NFO,6.99,2026-01-01,2026-01-08,672.74,Delivered
+SHP01039,CryoViva India,Chandigarh,Pune,HC SILVER,22.37,2026-05-05,2026-05-08,2087.19,Delivered
+SHP01040,CryoViva India,Chennai,Gurugram,NFO,18.2,2026-04-13,2026-04-18,1468.7,Delivered
+SHP01041,CORE Diagnostics,Pune,Ahmedabad,NFO,22.87,2026-01-02,,2068.67,In Transit
+SHP01042,Suraksha Diagnostics,Mumbai,Pune,NFO,9.43,2026-02-16,,775.4,In Transit
+SHP01043,Oncquest Labs,Hyderabad,Lucknow,NFO,9.17,2026-04-22,2026-04-23,839.71,Delivered
+SHP01044,Metropolis Healthcare,Gurugram,Bengaluru,NFO,10.17,2026-03-26,2026-03-27,982.96,Delivered
+SHP01045,Tata 1mg,Chandigarh,Bengaluru,NFO,13.98,2026-06-24,2026-06-26,1301.29,Delivered
+SHP01046,Suraksha Diagnostics,Kolkata,Ahmedabad,NFO,23.96,2026-01-06,2026-01-08,1839.89,Delivered
+SHP01047,CryoViva India,Chandigarh,Mumbai,HC GOLD,8.88,2026-06-02,2026-06-03,1034.22,Delivered
+SHP01048,Redcliffe Labs,Gurugram,Hyderabad,HC GOLD,18.37,2026-02-17,2026-02-19,2460.2,Delivered
+SHP01049,Suraksha Diagnostics,Lucknow,Mumbai,NFO,17.81,2026-01-27,2026-02-04,1433.87,Delayed
+SHP01050,CORE Diagnostics,Ahmedabad,Lucknow,NFO,3.74,2026-01-10,2026-01-13,319.99,Delivered
+SHP01051,Tata 1mg,Ahmedabad,Mumbai,HC SILVER,9.82,2026-05-15,2026-05-21,891.33,Delayed
+SHP01052,CryoViva India,Kolkata,Pune,HC GOLD,16.27,2026-03-19,2026-03-20,2217.44,Delivered
+SHP01053,Redcliffe Labs,Lucknow,Kolkata,NFO,1.67,2026-01-11,2026-01-12,139.17,Delivered
+SHP01054,Metropolis Healthcare,Bengaluru,Pune,HC SILVER,2.97,2026-02-17,2026-02-20,275.4,Delivered
+SHP01055,CryoViva India,Gurugram,Lucknow,HC GOLD,19.38,2026-02-03,2026-02-06,2303.15,Delivered
+SHP01056,Dr Lal PathLabs,Ahmedabad,Pune,NFO,16.43,2026-02-23,2026-03-01,1302.45,Delivered
+SHP01057,Tata 1mg,Lucknow,Ahmedabad,NFO,24.22,2026-06-17,2026-06-19,2329.16,Delivered
+SHP01058,Dr Lal PathLabs,Gurugram,Ahmedabad,NFO,18.27,2026-02-21,2026-03-01,1414.66,Delayed
+SHP01059,Pathkind Labs,Mumbai,Hyderabad,HC GOLD,22.34,2026-05-24,2026-05-27,2893.47,Delivered
+SHP01060,Oncquest Labs,Kolkata,Gurugram,NFO,23.32,2026-05-09,2026-05-10,2129.23,Delivered
+SHP01061,CryoViva India,Noida,Chennai,HC SILVER,1.99,2026-06-27,2026-07-04,193.54,Delayed
+SHP01062,Tata 1mg,Pune,Ahmedabad,NFO,18.89,2026-04-09,,1601.73,In Transit
+SHP01063,Redcliffe Labs,Ahmedabad,Bengaluru,NFO,4.42,2026-02-25,2026-03-04,420.7,Delayed
+SHP01064,Pathkind Labs,Pune,Hyderabad,HC GOLD,13.36,2026-03-19,2026-03-21,1664.18,Delivered
+SHP01065,CryoViva India,Noida,Bengaluru,HC GOLD,7.65,2026-06-13,2026-06-15,888.26,Delivered
+SHP01066,Redcliffe Labs,Delhi,Lucknow,HC SILVER,5.64,2026-01-30,2026-02-04,566.97,Delayed
+SHP01067,Tata 1mg,Chennai,Kolkata,HC SILVER,22.16,2026-03-09,2026-03-11,2049.88,Delivered
+SHP01068,CryoViva India,Delhi,Lucknow,HC SILVER,5.87,2026-03-13,2026-03-15,576.8,Delivered
+SHP01069,Suraksha Diagnostics,Ahmedabad,Gurugram,HC SILVER,6.8,2026-06-10,2026-06-18,713.32,Delayed
+SHP01070,Metropolis Healthcare,Mumbai,Kolkata,NFO,15.93,2026-04-12,2026-04-17,1365.53,Delivered
+SHP01071,Tata 1mg,Noida,Pune,NFO,11.76,2026-02-15,2026-02-22,1135.38,Delayed
+SHP01072,Metropolis Healthcare,Noida,Lucknow,NFO,4.49,2026-02-15,2026-02-25,361.41,Delayed
+SHP01073,Suraksha Diagnostics,Noida,Gurugram,NFO,22.77,2026-04-14,2026-04-21,1808.34,Delayed
+SHP01074,Tata 1mg,Delhi,Chandigarh,NFO,1.01,2026-01-04,2026-01-06,83.01,Delivered
+SHP01075,CryoViva India,Chandigarh,Ahmedabad,HC GOLD,0.73,2026-01-28,2026-02-06,97.51,Delayed
+SHP01076,CORE Diagnostics,Gurugram,Bengaluru,NFO,14.29,2026-04-24,2026-04-26,1140.1,Delivered
+SHP01077,Metropolis Healthcare,Delhi,Ahmedabad,HC GOLD,3.52,2026-01-12,2026-01-17,390.99,Delayed
+SHP01078,CryoViva India,Kolkata,Noida,HC SILVER,1.09,2026-04-20,2026-04-24,100.62,Delivered
+SHP01079,Tata 1mg,Chandigarh,Kolkata,NFO,24.77,2026-02-27,2026-02-28,2218.98,Delivered
+SHP01080,Tata 1mg,Gurugram,Kolkata,HC SILVER,15.31,2026-02-15,2026-02-23,1527.03,Delayed
+SHP01081,CORE Diagnostics,Chandigarh,Kolkata,HC SILVER,17.34,2026-06-09,2026-06-12,1594.21,Delivered
+SHP01082,Healthians,Hyderabad,Lucknow,HC SILVER,20.36,2026-01-20,,2191.98,In Transit
+SHP01083,CORE Diagnostics,Noida,Lucknow,NFO,10.07,2026-05-03,2026-05-04,975.69,Delivered
+SHP01084,Tata 1mg,Bengaluru,Noida,NFO,3.62,2026-04-09,2026-04-12,313.95,Delivered
+SHP01085,Healthians,Kolkata,Chandigarh,NFO,23.63,2026-03-04,2026-03-08,2078.22,Delivered
+SHP01086,Pathkind Labs,Hyderabad,Ahmedabad,HC SILVER,9.92,2026-05-29,2026-06-08,1031.13,Delayed
+SHP01087,Tata 1mg,Lucknow,Mumbai,NFO,0.57,2026-01-05,2026-01-13,55.2,Delayed
+SHP01088,Healthians,Gurugram,Delhi,NFO,21.31,2026-02-05,2026-02-11,2070.29,Delivered
+SHP01089,Redcliffe Labs,Kolkata,Mumbai,HC SILVER,1.87,2026-02-05,2026-02-09,176.65,Delayed
+SHP01090,Healthians,Delhi,Hyderabad,NFO,3.1,2026-05-29,2026-05-30,294.49,Delivered
+SHP01091,Healthians,Delhi,Mumbai,NFO,6.5,2026-01-04,,609.64,In Transit
+SHP01092,Oncquest Labs,Noida,Mumbai,HC GOLD,18.83,2026-06-28,2026-07-01,2224.2,Delivered
+SHP01093,Metropolis Healthcare,Chandigarh,Delhi,NFO,1.97,2026-06-14,2026-06-18,171.77,Delayed
+SHP01094,Suraksha Diagnostics,Delhi,Hyderabad,HC GOLD,21.96,2026-05-22,2026-05-31,2573.3,Delayed
+SHP01095,CORE Diagnostics,Mumbai,Hyderabad,NFO,2.75,2026-04-07,2026-04-12,233.77,Delayed
+SHP01096,Suraksha Diagnostics,Delhi,Bengaluru,NFO,18.78,2026-05-24,,1467.48,In Transit
+SHP01097,Oncquest Labs,Lucknow,Hyderabad,NFO,16.23,2026-04-08,2026-04-10,1464.62,Delivered
+SHP01098,Tata 1mg,Mumbai,Chennai,NFO,9.39,2026-03-27,2026-03-28,826.4,Delivered
+SHP01099,Dr Lal PathLabs,Gurugram,Bengaluru,NFO,22.79,2026-02-18,2026-02-23,1759.11,Delivered
+SHP01100,Dr Lal PathLabs,Bengaluru,Gurugram,HC GOLD,14.31,2026-05-04,2026-05-05,1950.53,Delivered
+SHP01101,Metropolis Healthcare,Delhi,Kolkata,HC SILVER,12.76,2026-03-22,2026-03-30,1386.11,Delayed
+SHP01102,Tata 1mg,Lucknow,Chandigarh,NFO,22.46,2026-05-09,2026-05-13,1729.49,Delayed
+SHP01103,Dr Lal PathLabs,Kolkata,Pune,HC SILVER,1.42,2026-02-11,2026-02-18,124.07,Delayed
+SHP01104,Redcliffe Labs,Chandigarh,Gurugram,HC SILVER,20.28,2026-06-17,,2080.03,In Transit
+SHP01105,Dr Lal PathLabs,Pune,Ahmedabad,HC GOLD,23.29,2026-03-29,,2606.99,In Transit
+SHP01106,Dr Lal PathLabs,Bengaluru,Kolkata,HC SILVER,11.06,2026-06-24,2026-07-01,1105.04,Delivered
+SHP01107,Oncquest Labs,Noida,Chandigarh,NFO,0.87,2026-03-21,,84.47,In Transit
+SHP01108,Tata 1mg,Gurugram,Pune,NFO,4.66,2026-03-17,2026-03-19,392.47,Delivered
+SHP01109,CORE Diagnostics,Gurugram,Noida,HC GOLD,11.79,2026-05-02,,1583.39,In Transit
+SHP01110,Tata 1mg,Chandigarh,Noida,HC SILVER,12.46,2026-04-04,2026-04-07,1248.71,Delivered
+SHP01111,Oncquest Labs,Chandigarh,Noida,NFO,21.2,2026-03-22,2026-03-25,1849.73,Delivered
+SHP01112,CryoViva India,Bengaluru,Lucknow,HC GOLD,16.27,2026-03-04,2026-03-10,1899.03,Delivered
+SHP01113,Suraksha Diagnostics,Noida,Chandigarh,HC SILVER,5.96,2026-04-29,2026-04-30,600.52,Delivered
+SHP01114,Tata 1mg,Hyderabad,Gurugram,NFO,3.15,2026-04-12,2026-04-16,245.29,Delivered
+SHP01115,Oncquest Labs,Chennai,Chandigarh,NFO,18.66,2026-01-30,2026-02-03,1803.61,Delivered
+SHP01116,Redcliffe Labs,Noida,Lucknow,NFO,1.27,2026-06-03,2026-06-07,106.91,Delivered
+SHP01117,Redcliffe Labs,Kolkata,Pune,NFO,21.77,2026-06-25,2026-06-29,1746.87,Delivered
+SHP01118,Metropolis Healthcare,Noida,Gurugram,NFO,7.81,2026-04-26,2026-05-03,708.6,Delayed
+SHP01119,CryoViva India,Bengaluru,Noida,NFO,22.59,2026-03-29,2026-04-03,1959.33,Delivered
+SHP01120,Suraksha Diagnostics,Pune,Noida,NFO,17.48,2026-04-10,2026-04-17,1410.98,Delayed
+SHP01121,Dr Lal PathLabs,Lucknow,Chandigarh,HC GOLD,8.43,2026-03-23,2026-03-24,1146.6,Delivered
+SHP01122,Tata 1mg,Hyderabad,Chennai,HC GOLD,17.01,2026-03-09,2026-03-16,2341.38,Delayed
+SHP01123,Oncquest Labs,Noida,Lucknow,HC GOLD,14.67,2026-01-10,2026-01-15,1769.28,Delayed
+SHP01124,Dr Lal PathLabs,Pune,Noida,NFO,9.03,2026-02-18,2026-02-23,760.6,Delivered
+SHP01125,Pathkind Labs,Bengaluru,Chennai,HC SILVER,3.56,2026-05-08,2026-05-12,334.16,Delivered
+SHP01126,Pathkind Labs,Pune,Kolkata,HC SILVER,8.73,2026-02-15,2026-02-19,861.02,Delivered
+SHP01127,Suraksha Diagnostics,Noida,Ahmedabad,NFO,21.2,2026-06-26,2026-07-04,1938.09,Delayed
+SHP01128,Tata 1mg,Gurugram,Noida,NFO,0.9,2026-04-16,2026-04-17,80.78,Delivered
+SHP01129,Oncquest Labs,Pune,Gurugram,HC GOLD,20.24,2026-06-20,,2441.33,In Transit
+SHP01130,Pathkind Labs,Mumbai,Pune,NFO,5.29,2026-05-01,2026-05-02,507.43,Delivered
+SHP01131,Suraksha Diagnostics,Kolkata,Lucknow,NFO,9.68,2026-02-27,2026-03-04,876.01,Delivered
+SHP01132,Redcliffe Labs,Bengaluru,Hyderabad,NFO,22.77,2026-01-09,2026-01-12,2148.72,Delivered
+SHP01133,Healthians,Pune,Chandigarh,NFO,24.0,2026-04-21,2026-04-28,1934.26,Delayed
+SHP01134,CryoViva India,Chandigarh,Kolkata,HC SILVER,14.66,2026-02-02,2026-02-09,1393.79,Delayed
+SHP01135,CORE Diagnostics,Chennai,Ahmedabad,NFO,2.94,2026-02-02,2026-02-07,273.91,Delivered
+SHP01136,Pathkind Labs,Chandigarh,Bengaluru,NFO,8.4,2026-01-24,2026-01-25,754.86,Delivered
+SHP01137,CryoViva India,Ahmedabad,Noida,HC GOLD,13.82,2026-01-21,2026-01-29,1546.69,Delivered
+SHP01138,Healthians,Hyderabad,Lucknow,NFO,16.49,2026-02-26,2026-03-01,1347.43,Delivered
+SHP01139,CryoViva India,Kolkata,Bengaluru,NFO,23.41,2026-06-10,2026-06-17,2222.13,Delayed
+SHP01140,Dr Lal PathLabs,Gurugram,Pune,NFO,3.97,2026-03-09,2026-03-13,380.7,Delivered
+SHP01141,Tata 1mg,Mumbai,Hyderabad,NFO,1.04,2026-01-19,2026-01-25,84.21,Delayed
+SHP01142,Healthians,Kolkata,Hyderabad,HC GOLD,11.55,2026-02-11,2026-02-14,1475.97,Delivered
+SHP01143,CryoViva India,Chandigarh,Ahmedabad,NFO,8.9,2026-03-30,2026-04-09,784.2,Delayed
+SHP01144,Metropolis Healthcare,Noida,Ahmedabad,HC SILVER,5.22,2026-01-08,2026-01-13,540.65,Delivered
+SHP01145,Tata 1mg,Mumbai,Kolkata,HC SILVER,1.22,2026-02-05,2026-02-07,131.54,Delivered
+SHP01146,Oncquest Labs,Bengaluru,Chennai,NFO,2.75,2026-05-22,2026-05-25,239.35,Delivered
+SHP01147,Redcliffe Labs,Pune,Kolkata,NFO,5.35,2026-03-13,2026-03-17,496.41,Delivered
+SHP01148,Redcliffe Labs,Bengaluru,Noida,HC SILVER,12.45,2026-04-25,2026-05-03,1305.72,Delayed
+SHP01149,Dr Lal PathLabs,Ahmedabad,Gurugram,NFO,5.39,2026-04-01,2026-04-06,463.81,Delayed
+SHP01150,Metropolis Healthcare,Delhi,Ahmedabad,HC GOLD,7.69,2026-06-15,2026-06-20,856.97,Delivered
+SHP01151,CORE Diagnostics,Chennai,Hyderabad,NFO,2.28,2026-06-18,2026-06-23,180.35,Delivered
+SHP01152,Healthians,Chennai,Delhi,NFO,14.4,2026-03-24,2026-03-28,1219.59,Delayed
+SHP01153,Pathkind Labs,Ahmedabad,Mumbai,NFO,14.24,2026-06-05,2026-06-11,1295.77,Delayed
+SHP01154,Healthians,Kolkata,Chennai,NFO,1.72,2026-05-07,2026-05-11,146.98,Delivered
+SHP01155,CORE Diagnostics,Gurugram,Pune,HC GOLD,14.98,2026-03-02,2026-03-07,1907.1,Delivered
+SHP01156,Oncquest Labs,Ahmedabad,Delhi,NFO,21.12,2026-04-14,2026-04-21,1633.24,Delayed
+SHP01157,Tata 1mg,Chandigarh,Delhi,NFO,20.83,2026-04-17,2026-04-20,1746.57,Delivered
+SHP01158,Healthians,Gurugram,Ahmedabad,NFO,1.65,2026-03-18,2026-03-22,160.14,Delivered
+SHP01159,Dr Lal PathLabs,Gurugram,Kolkata,NFO,5.99,2026-01-03,2026-01-05,567.88,Delivered
+SHP01160,Redcliffe Labs,Lucknow,Kolkata,NFO,5.18,2026-04-05,2026-04-10,491.82,Delivered
+SHP01161,Tata 1mg,Bengaluru,Delhi,NFO,7.96,2026-03-09,2026-03-18,742.84,Delayed
+SHP01162,CORE Diagnostics,Kolkata,Bengaluru,HC SILVER,14.79,2026-01-31,2026-02-02,1529.06,Delivered
+SHP01163,Oncquest Labs,Kolkata,Lucknow,HC GOLD,13.28,2026-03-03,2026-03-08,1823.22,Delivered
+SHP01164,Redcliffe Labs,Chennai,Pune,NFO,19.27,2026-01-22,2026-01-28,1744.2,Delayed
+SHP01165,Tata 1mg,Lucknow,Mumbai,NFO,12.62,2026-02-24,2026-02-28,1090.98,Delayed
+SHP01166,Oncquest Labs,Kolkata,Mumbai,NFO,5.61,2026-06-01,2026-06-10,519.82,Delayed
+SHP01167,CORE Diagnostics,Bengaluru,Pune,HC SILVER,3.09,2026-02-03,2026-02-05,297.4,Delivered
+SHP01168,Redcliffe Labs,Ahmedabad,Pune,HC GOLD,5.1,2026-03-13,2026-03-17,696.38,Delivered
+SHP01169,Tata 1mg,Ahmedabad,Lucknow,NFO,21.97,2026-01-29,2026-01-31,1768.02,Delivered
+SHP01170,Pathkind Labs,Delhi,Pune,NFO,7.01,2026-05-21,2026-05-22,558.7,Delivered
+SHP01171,Pathkind Labs,Pune,Kolkata,NFO,11.31,2026-04-05,2026-04-06,1041.14,Delivered
+SHP01172,Metropolis Healthcare,Kolkata,Mumbai,NFO,4.83,2026-03-12,2026-03-22,422.72,Delayed
+SHP01173,CryoViva India,Gurugram,Lucknow,HC GOLD,23.99,2026-02-26,2026-02-27,3004.91,Delivered
+SHP01174,Pathkind Labs,Mumbai,Gurugram,NFO,6.05,2026-06-08,2026-06-12,491.09,Delivered
+SHP01175,Oncquest Labs,Lucknow,Bengaluru,NFO,19.75,2026-03-30,2026-04-08,1631.74,Delayed
+SHP01176,CORE Diagnostics,Delhi,Noida,HC GOLD,17.66,2026-05-03,,2387.63,In Transit
+SHP01177,Healthians,Mumbai,Noida,HC GOLD,4.58,2026-03-27,2026-03-31,586.15,Delivered
+SHP01178,CryoViva India,Kolkata,Chennai,NFO,6.96,2026-01-20,2026-01-24,620.29,Delayed
+SHP01179,CryoViva India,Hyderabad,Chandigarh,NFO,6.56,2026-01-29,,504.26,In Transit
+SHP01180,Redcliffe Labs,Chandigarh,Bengaluru,HC GOLD,4.6,2026-02-07,2026-02-08,598.39,Delivered
+SHP01181,Healthians,Hyderabad,Pune,HC SILVER,6.8,2026-05-05,2026-05-08,715.08,Delivered
+SHP01182,Pathkind Labs,Bengaluru,Kolkata,HC GOLD,21.5,2026-06-02,2026-06-06,2656.95,Delivered
+SHP01183,CORE Diagnostics,Chandigarh,Delhi,HC SILVER,21.48,2026-06-18,2026-06-20,1961.2,Delivered
+SHP01184,Healthians,Lucknow,Kolkata,NFO,2.69,2026-04-07,2026-04-08,244.59,Delivered
+SHP01185,CORE Diagnostics,Hyderabad,Ahmedabad,NFO,17.14,2026-03-26,2026-04-04,1655.5,Delayed
+SHP01186,Redcliffe Labs,Bengaluru,Chennai,NFO,13.24,2026-03-29,2026-04-03,1140.88,Delivered
+SHP01187,Tata 1mg,Chennai,Bengaluru,HC SILVER,12.72,2026-06-25,2026-06-27,1245.61,Delivered
+SHP01188,Pathkind Labs,Bengaluru,Chandigarh,HC GOLD,7.94,2026-03-15,,927.72,In Transit
+SHP01189,Redcliffe Labs,Hyderabad,Delhi,NFO,15.03,2026-01-14,2026-01-20,1360.67,Delivered
+SHP01190,Metropolis Healthcare,Delhi,Gurugram,NFO,22.03,2026-05-09,2026-05-14,2019.17,Delivered
+SHP01191,Suraksha Diagnostics,Noida,Bengaluru,HC GOLD,2.48,2026-02-26,2026-02-27,286.35,Delivered
+SHP01192,Suraksha Diagnostics,Chandigarh,Lucknow,NFO,24.19,2026-01-26,2026-01-29,1939.62,Delivered
+SHP01193,Healthians,Kolkata,Lucknow,HC SILVER,3.91,2026-02-21,2026-02-24,352.83,Delivered
+SHP01194,Metropolis Healthcare,Bengaluru,Gurugram,HC GOLD,15.89,2026-05-20,2026-05-22,2113.62,Delivered
+SHP01195,Pathkind Labs,Gurugram,Mumbai,NFO,8.17,2026-06-25,2026-06-28,706.0,Delivered
+SHP01196,CryoViva India,Kolkata,Pune,HC SILVER,1.15,2026-04-18,,102.16,In Transit
+SHP01197,Dr Lal PathLabs,Bengaluru,Mumbai,HC GOLD,3.62,2026-05-20,2026-05-27,404.64,Delivered
+SHP01198,Oncquest Labs,Chandigarh,Delhi,HC SILVER,21.94,2026-04-28,2026-05-02,1931.65,Delivered
+SHP01199,Metropolis Healthcare,Ahmedabad,Gurugram,HC GOLD,17.42,2026-01-16,2026-01-23,2233.81,Delayed
+SHP01200,Redcliffe Labs,Lucknow,Delhi,HC GOLD,14.27,2026-05-07,2026-05-09,1815.0,Delivered
+SHP01201,Metropolis Healthcare,Noida,Chennai,HC GOLD,23.45,2026-05-05,2026-05-13,2613.3,Delayed
+SHP01202,Dr Lal PathLabs,Delhi,Mumbai,HC SILVER,13.24,2026-03-05,2026-03-07,1393.87,Delivered
+SHP01203,CryoViva India,Hyderabad,Kolkata,HC SILVER,7.85,2026-05-04,,714.97,In Transit
+SHP01204,Dr Lal PathLabs,Pune,Bengaluru,HC GOLD,21.55,2026-06-07,2026-06-09,2446.88,Delivered
+SHP01205,Redcliffe Labs,Lucknow,Chandigarh,NFO,18.67,2026-05-20,2026-05-22,1543.09,Delivered
+SHP01206,Oncquest Labs,Gurugram,Chandigarh,NFO,7.24,2026-04-09,2026-04-10,619.22,Delivered
+SHP01207,Oncquest Labs,Delhi,Chennai,NFO,10.04,2026-05-29,2026-06-01,958.63,Delivered
+SHP01208,CryoViva India,Ahmedabad,Hyderabad,HC SILVER,9.19,2026-02-05,2026-02-14,846.18,Delayed
+SHP01209,Pathkind Labs,Noida,Kolkata,HC SILVER,12.83,2026-03-31,2026-04-05,1150.14,Delivered
+SHP01210,Dr Lal PathLabs,Noida,Kolkata,NFO,18.02,2026-02-05,,1670.55,In Transit
+SHP01211,Tata 1mg,Bengaluru,Hyderabad,HC SILVER,16.31,2026-04-07,2026-04-14,1617.64,Delayed
+SHP01212,Pathkind Labs,Pune,Lucknow,NFO,17.6,2026-05-31,2026-06-05,1656.78,Delivered
+SHP01213,CryoViva India,Gurugram,Delhi,HC SILVER,4.4,2026-01-25,2026-01-26,425.99,Delivered
+SHP01214,Tata 1mg,Mumbai,Bengaluru,HC SILVER,4.76,2026-04-09,2026-04-15,419.92,Delivered
+SHP01215,Oncquest Labs,Lucknow,Gurugram,HC GOLD,15.36,2026-01-08,2026-01-12,1832.89,Delivered
+SHP01216,Pathkind Labs,Chandigarh,Ahmedabad,NFO,6.69,2026-04-23,2026-04-27,573.49,Delivered
+SHP01217,Tata 1mg,Pune,Mumbai,HC GOLD,15.91,2026-06-21,2026-06-23,2144.65,Delivered
+SHP01218,Dr Lal PathLabs,Chennai,Hyderabad,HC GOLD,2.26,2026-02-17,2026-02-23,282.75,Delivered
+SHP01219,Healthians,Hyderabad,Ahmedabad,NFO,22.54,2026-02-05,2026-02-06,1904.46,Delivered
+SHP01220,Tata 1mg,Gurugram,Chandigarh,NFO,13.17,2026-01-26,2026-01-30,1158.78,Delivered
+SHP01221,Metropolis Healthcare,Delhi,Bengaluru,HC SILVER,6.66,2026-06-30,2026-07-03,594.4,Delivered
+SHP01222,Pathkind Labs,Bengaluru,Gurugram,HC GOLD,21.4,2026-06-06,2026-06-11,2347.57,Delivered
+SHP01223,Dr Lal PathLabs,Lucknow,Gurugram,NFO,22.98,2026-03-09,2026-03-10,1885.36,Delivered
+SHP01224,CORE Diagnostics,Chennai,Delhi,NFO,20.51,2026-03-26,2026-03-27,1920.15,Delivered
+SHP01225,CryoViva India,Ahmedabad,Chandigarh,NFO,2.23,2026-04-17,2026-04-28,214.64,Delayed
+SHP01226,CORE Diagnostics,Pune,Hyderabad,NFO,1.52,2026-01-10,2026-01-17,137.29,Delayed
+SHP01227,Metropolis Healthcare,Kolkata,Pune,HC GOLD,21.97,2026-02-28,2026-03-02,2724.84,Delivered
+SHP01228,CryoViva India,Kolkata,Lucknow,HC GOLD,1.78,2026-04-07,2026-04-09,221.59,Delivered
+SHP01229,Tata 1mg,Gurugram,Pune,HC SILVER,24.57,2026-04-05,2026-04-08,2636.46,Delivered
+SHP01230,Tata 1mg,Mumbai,Bengaluru,HC GOLD,6.06,2026-05-18,2026-05-23,657.19,Delivered
+SHP01231,CryoViva India,Lucknow,Mumbai,NFO,3.6,2026-02-16,2026-02-19,321.48,Delivered
+SHP01232,CORE Diagnostics,Mumbai,Chennai,HC GOLD,12.23,2026-02-01,2026-02-02,1520.3,Delivered
+SHP01233,Redcliffe Labs,Hyderabad,Chennai,NFO,7.92,2026-04-04,2026-04-09,646.98,Delivered
+SHP01234,Pathkind Labs,Bengaluru,Kolkata,HC GOLD,1.82,2026-04-16,2026-04-21,207.67,Delivered
+SHP01235,Redcliffe Labs,Noida,Ahmedabad,NFO,14.05,2026-02-01,2026-02-07,1085.53,Delayed
+SHP01236,Oncquest Labs,Mumbai,Pune,HC SILVER,1.02,2026-01-09,2026-01-12,94.49,Delivered
+SHP01237,Metropolis Healthcare,Gurugram,Delhi,HC SILVER,9.91,2026-01-05,2026-01-09,900.13,Delivered
+SHP01238,Suraksha Diagnostics,Kolkata,Noida,HC GOLD,16.68,2026-01-09,,1975.48,In Transit
+SHP01239,Healthians,Delhi,Chandigarh,HC SILVER,22.73,2026-06-01,,1958.18,In Transit
+SHP01240,Suraksha Diagnostics,Lucknow,Ahmedabad,HC SILVER,19.67,2026-01-15,2026-01-21,2126.74,Delayed
+SHP01241,Pathkind Labs,Chandigarh,Bengaluru,NFO,14.53,2026-05-26,2026-06-02,1255.84,Delivered
+SHP01242,CryoViva India,Mumbai,Noida,NFO,17.22,2026-03-12,2026-03-13,1425.58,Delivered
+SHP01243,CryoViva India,Ahmedabad,Kolkata,HC GOLD,9.36,2026-06-18,,1194.25,In Transit
+SHP01244,Tata 1mg,Ahmedabad,Delhi,NFO,16.69,2026-03-09,2026-03-11,1432.8,Delivered
+SHP01245,Healthians,Hyderabad,Delhi,NFO,21.19,2026-02-25,2026-03-01,1656.85,Delivered
+SHP01246,Healthians,Ahmedabad,Pune,HC SILVER,11.29,2026-03-08,2026-03-11,999.41,Delivered
+SHP01247,CORE Diagnostics,Chandigarh,Noida,HC SILVER,16.57,2026-03-01,2026-03-04,1489.25,Delayed
+SHP01248,Dr Lal PathLabs,Pune,Hyderabad,NFO,14.06,2026-02-28,2026-03-05,1366.98,Delayed
+SHP01249,Healthians,Delhi,Lucknow,HC GOLD,1.6,2026-03-02,2026-03-07,178.23,Delivered
+SHP01250,Redcliffe Labs,Gurugram,Bengaluru,NFO,9.6,2026-06-24,2026-06-28,913.07,Delivered
+SHP01251,Healthians,Noida,Delhi,HC GOLD,9.33,2026-04-15,2026-04-18,1089.95,Delivered
+SHP01252,Healthians,Delhi,Mumbai,NFO,23.29,2026-06-01,2026-06-02,2181.59,Delivered
+SHP01253,Dr Lal PathLabs,Pune,Ahmedabad,HC GOLD,23.53,2026-04-07,2026-04-12,2647.18,Delivered
+SHP01254,Tata 1mg,Chandigarh,Gurugram,HC SILVER,24.81,2026-05-25,2026-06-05,2553.73,Delayed
+SHP01255,Pathkind Labs,Pune,Gurugram,HC GOLD,15.37,2026-06-18,2026-06-28,1806.1,Delayed
+SHP01256,Metropolis Healthcare,Mumbai,Chandigarh,HC SILVER,8.55,2026-04-03,2026-04-05,928.48,Delivered
+SHP01257,Oncquest Labs,Lucknow,Mumbai,HC GOLD,22.07,2026-04-03,2026-04-04,2434.17,Delivered
+SHP01258,Oncquest Labs,Chennai,Lucknow,HC GOLD,11.5,2026-04-18,2026-04-23,1561.37,Delayed
+SHP01259,Dr Lal PathLabs,Mumbai,Hyderabad,HC GOLD,15.34,2026-03-15,2026-03-20,1850.47,Delivered
+SHP01260,Oncquest Labs,Noida,Chandigarh,HC GOLD,19.43,2026-02-16,2026-02-22,2251.96,Delivered
+SHP01261,Tata 1mg,Pune,Hyderabad,NFO,1.33,2026-04-21,2026-04-25,129.72,Delayed
+SHP01262,Pathkind Labs,Noida,Ahmedabad,HC SILVER,22.65,2026-04-01,2026-04-03,2066.45,Delivered
+SHP01263,Healthians,Bengaluru,Gurugram,HC SILVER,22.51,2026-06-01,2026-06-08,2456.08,Delayed
+SHP01264,Healthians,Delhi,Noida,HC SILVER,22.81,2026-06-11,2026-06-20,2106.97,Delayed
+SHP01265,CORE Diagnostics,Hyderabad,Noida,HC GOLD,14.94,2026-05-11,2026-05-12,1879.55,Delivered
+SHP01266,Oncquest Labs,Chennai,Lucknow,NFO,11.25,2026-05-11,2026-05-16,883.79,Delivered
+SHP01267,Healthians,Bengaluru,Pune,NFO,13.18,2026-05-15,2026-05-25,1088.16,Delayed
+SHP01268,CORE Diagnostics,Kolkata,Chennai,HC SILVER,1.53,2026-02-23,2026-03-03,151.71,Delayed
+SHP01269,Tata 1mg,Ahmedabad,Chennai,NFO,4.56,2026-03-15,2026-03-18,434.63,Delivered
+SHP01270,Dr Lal PathLabs,Bengaluru,Chennai,HC GOLD,23.15,2026-06-20,2026-06-26,3082.74,Delivered
+SHP01271,Dr Lal PathLabs,Noida,Delhi,HC SILVER,24.02,2026-05-19,,2165.03,In Transit
+SHP01272,Healthians,Hyderabad,Delhi,NFO,23.57,2026-05-27,2026-06-05,2064.0,Delayed
+SHP01273,Tata 1mg,Hyderabad,Bengaluru,HC GOLD,23.02,2026-01-31,2026-02-04,2546.15,Delivered
+SHP01274,Tata 1mg,Noida,Chennai,HC SILVER,20.19,2026-02-26,2026-03-01,1858.64,Delivered
+SHP01275,Tata 1mg,Chandigarh,Pune,HC GOLD,8.21,2026-01-10,2026-01-14,1082.29,Delivered
+SHP01276,Pathkind Labs,Chennai,Mumbai,HC GOLD,22.0,2026-01-10,2026-01-13,2951.6,Delivered
+SHP01277,Redcliffe Labs,Mumbai,Lucknow,NFO,4.21,2026-02-17,2026-02-24,400.42,Delivered
+SHP01278,CryoViva India,Pune,Mumbai,NFO,12.52,2026-06-06,2026-06-11,968.11,Delayed
+SHP01279,Dr Lal PathLabs,Lucknow,Bengaluru,NFO,14.81,2026-06-13,2026-06-16,1433.31,Delivered
+SHP01280,Metropolis Healthcare,Bengaluru,Mumbai,HC GOLD,12.51,2026-06-11,2026-06-19,1555.02,Delayed
+SHP01281,Redcliffe Labs,Bengaluru,Gurugram,NFO,22.08,2026-03-15,2026-03-19,1999.93,Delivered
+SHP01282,Oncquest Labs,Gurugram,Mumbai,HC SILVER,16.69,2026-03-30,2026-04-06,1733.67,Delayed
+SHP01283,Dr Lal PathLabs,Hyderabad,Pune,NFO,6.25,2026-03-16,2026-03-22,596.3,Delayed
+SHP01284,Pathkind Labs,Kolkata,Delhi,HC GOLD,6.91,2026-03-23,2026-03-27,834.42,Delivered
+SHP01285,Metropolis Healthcare,Bengaluru,Delhi,NFO,5.86,2026-06-12,2026-06-13,475.85,Delivered
+SHP01286,Redcliffe Labs,Noida,Ahmedabad,HC GOLD,3.2,2026-06-07,2026-06-15,347.51,Delivered
+SHP01287,Suraksha Diagnostics,Lucknow,Delhi,NFO,17.77,2026-04-01,2026-04-06,1555.25,Delivered
+SHP01288,Redcliffe Labs,Chennai,Ahmedabad,HC SILVER,21.03,2026-04-12,2026-04-14,2252.9,Delivered
+SHP01289,Redcliffe Labs,Chennai,Hyderabad,HC GOLD,6.59,2026-01-04,,715.68,In Transit
+SHP01290,Pathkind Labs,Pune,Gurugram,NFO,12.38,2026-02-10,2026-02-16,1150.27,Delivered
+SHP01291,Metropolis Healthcare,Mumbai,Delhi,HC GOLD,20.42,2026-04-07,2026-04-11,2742.38,Delivered
+SHP01292,Tata 1mg,Gurugram,Noida,HC GOLD,17.74,2026-04-17,2026-04-18,2204.21,Delivered
+SHP01293,Dr Lal PathLabs,Noida,Gurugram,HC GOLD,5.26,2026-06-05,,619.16,In Transit
+SHP01294,Metropolis Healthcare,Pune,Delhi,NFO,5.47,2026-03-09,2026-03-14,468.38,Delivered
+SHP01295,Pathkind Labs,Mumbai,Hyderabad,NFO,7.47,2026-06-29,2026-07-07,632.16,Delayed
+SHP01296,Healthians,Hyderabad,Kolkata,HC GOLD,18.01,2026-04-26,2026-04-30,2159.77,Delayed
+SHP01297,Healthians,Mumbai,Pune,NFO,3.17,2026-03-21,2026-03-24,308.24,Delivered
+SHP01298,CORE Diagnostics,Gurugram,Ahmedabad,NFO,23.58,2026-06-01,2026-06-06,2223.81,Delivered
+SHP01299,Redcliffe Labs,Pune,Chandigarh,NFO,12.59,2026-04-16,2026-04-23,1186.35,Delayed
+SHP01300,Dr Lal PathLabs,Delhi,Kolkata,HC GOLD,21.85,2026-03-10,,2728.46,In Transit
+SHP01301,Oncquest Labs,Hyderabad,Ahmedabad,NFO,16.47,2026-03-24,2026-04-02,1440.0,Delayed
+SHP01302,Tata 1mg,Lucknow,Gurugram,NFO,2.4,2026-02-02,2026-02-03,189.8,Delivered
+SHP01303,Tata 1mg,Mumbai,Pune,NFO,10.89,2026-02-13,2026-02-21,929.85,Delivered
+SHP01304,Tata 1mg,Delhi,Chennai,NFO,7.71,2026-06-23,2026-06-30,690.59,Delayed
+SHP01305,CORE Diagnostics,Chennai,Chandigarh,NFO,13.32,2026-02-22,2026-03-03,1165.99,Delayed
+SHP01306,Oncquest Labs,Bengaluru,Pune,NFO,8.59,2026-02-04,2026-02-11,658.93,Delayed
+SHP01307,CORE Diagnostics,Kolkata,Noida,NFO,24.84,2026-01-02,2026-01-08,2005.44,Delayed
+SHP01308,Oncquest Labs,Gurugram,Ahmedabad,NFO,2.0,2026-04-30,2026-05-08,176.76,Delivered
+SHP01309,CryoViva India,Mumbai,Kolkata,HC SILVER,7.23,2026-04-20,2026-04-29,681.23,Delayed
+SHP01310,Pathkind Labs,Kolkata,Bengaluru,HC GOLD,16.65,2026-01-20,2026-01-26,1938.05,Delivered
+SHP01311,Tata 1mg,Bengaluru,Chandigarh,NFO,13.3,2026-06-15,2026-06-19,1258.64,Delivered
+SHP01312,Dr Lal PathLabs,Ahmedabad,Bengaluru,HC GOLD,12.1,2026-02-13,,1390.95,In Transit
+SHP01313,Dr Lal PathLabs,Mumbai,Gurugram,NFO,4.54,2026-01-01,2026-01-04,352.34,Delivered
+SHP01314,Suraksha Diagnostics,Pune,Hyderabad,HC GOLD,8.51,2026-05-09,2026-05-10,1015.41,Delivered
+SHP01315,Healthians,Kolkata,Pune,NFO,13.29,2026-05-16,2026-05-20,1286.49,Delayed
+SHP01316,CORE Diagnostics,Chandigarh,Bengaluru,HC SILVER,14.23,2026-05-06,2026-05-11,1405.22,Delayed
+SHP01317,Healthians,Kolkata,Lucknow,NFO,21.72,2026-04-30,2026-05-08,1760.25,Delayed
+SHP01318,Suraksha Diagnostics,Pune,Mumbai,NFO,23.36,2026-01-03,2026-01-05,1883.78,Delivered
+SHP01319,Healthians,Ahmedabad,Bengaluru,NFO,9.54,2026-03-06,2026-03-11,736.61,Delivered
+SHP01320,Oncquest Labs,Bengaluru,Lucknow,NFO,24.9,2026-06-30,2026-07-03,2418.7,Delivered
+SHP01321,Dr Lal PathLabs,Delhi,Pune,HC GOLD,12.51,2026-05-02,,1390.07,In Transit
+SHP01322,Dr Lal PathLabs,Chennai,Delhi,HC SILVER,4.25,2026-02-15,2026-02-17,448.75,Delivered
+SHP01323,CryoViva India,Delhi,Pune,NFO,21.52,2026-03-13,2026-03-21,1983.52,Delayed
+SHP01324,Healthians,Chennai,Lucknow,HC SILVER,4.65,2026-05-31,2026-06-05,501.45,Delayed
+SHP01325,CryoViva India,Kolkata,Hyderabad,NFO,20.71,2026-05-09,2026-05-15,1621.27,Delayed
+SHP01326,Metropolis Healthcare,Hyderabad,Delhi,HC GOLD,17.37,2026-04-15,2026-04-19,2038.11,Delayed
+SHP01327,Tata 1mg,Pune,Chennai,NFO,14.42,2026-06-28,2026-07-04,1130.15,Delayed
+SHP01328,Tata 1mg,Gurugram,Mumbai,NFO,14.98,2026-01-06,,1149.29,In Transit
+SHP01329,Oncquest Labs,Chandigarh,Chennai,NFO,18.24,2026-03-05,,1659.27,In Transit
+SHP01330,Metropolis Healthcare,Mumbai,Noida,NFO,17.79,2026-02-15,2026-02-18,1517.44,Delivered
+SHP01331,Redcliffe Labs,Mumbai,Chennai,NFO,7.73,2026-06-28,2026-07-04,686.4,Delivered
+SHP01332,Pathkind Labs,Chennai,Lucknow,NFO,15.96,2026-02-13,,1419.42,In Transit
+SHP01333,Dr Lal PathLabs,Noida,Ahmedabad,NFO,17.7,2026-03-30,2026-04-02,1718.32,Delivered
+SHP01334,Tata 1mg,Pune,Bengaluru,HC GOLD,5.66,2026-02-25,2026-03-02,699.07,Delivered
+SHP01335,Oncquest Labs,Chandigarh,Noida,NFO,14.88,2026-04-06,2026-04-11,1423.3,Delivered
+SHP01336,Healthians,Chennai,Gurugram,HC SILVER,0.69,2026-04-18,2026-04-22,73.79,Delivered
+SHP01337,Metropolis Healthcare,Noida,Kolkata,NFO,13.9,2026-01-06,,1245.48,In Transit
+SHP01338,Suraksha Diagnostics,Ahmedabad,Chandigarh,HC GOLD,12.1,2026-03-04,2026-03-11,1524.94,Delayed
+SHP01339,Suraksha Diagnostics,Hyderabad,Lucknow,NFO,24.28,2026-03-01,2026-03-06,2256.8,Delivered
+SHP01340,Dr Lal PathLabs,Ahmedabad,Kolkata,NFO,13.05,2026-03-18,2026-03-29,1053.36,Delayed
+SHP01341,CORE Diagnostics,Ahmedabad,Noida,HC GOLD,19.82,2026-01-14,2026-01-15,2224.67,Delivered
+SHP01342,Suraksha Diagnostics,Chennai,Pune,NFO,0.52,2026-02-07,2026-02-09,40.67,Delivered
+SHP01343,Suraksha Diagnostics,Mumbai,Bengaluru,NFO,6.5,2026-06-25,,604.38,In Transit
+SHP01344,CORE Diagnostics,Delhi,Pune,NFO,12.03,2026-06-25,2026-07-02,1153.65,Delayed
+SHP01345,Oncquest Labs,Chandigarh,Kolkata,HC GOLD,19.19,2026-01-25,2026-01-29,2610.95,Delivered
+SHP01346,Metropolis Healthcare,Kolkata,Chennai,HC SILVER,18.39,2026-04-19,2026-04-24,1723.84,Delivered
+SHP01347,CryoViva India,Chandigarh,Ahmedabad,NFO,15.41,2026-03-02,2026-03-05,1448.44,Delivered
+SHP01348,Suraksha Diagnostics,Ahmedabad,Chandigarh,HC SILVER,16.32,2026-02-05,2026-02-11,1564.12,Delivered
+SHP01349,CORE Diagnostics,Chennai,Hyderabad,NFO,7.48,2026-04-10,2026-04-14,724.02,Delivered
+SHP01350,Suraksha Diagnostics,Noida,Mumbai,HC GOLD,20.94,2026-04-30,2026-05-01,2325.22,Delivered
+SHP01351,CORE Diagnostics,Kolkata,Delhi,NFO,14.58,2026-04-09,2026-04-13,1412.78,Delivered
+SHP01352,CryoViva India,Kolkata,Hyderabad,NFO,6.84,2026-06-12,2026-06-18,596.23,Delayed
+SHP01353,Pathkind Labs,Hyderabad,Chennai,HC SILVER,3.24,2026-02-15,2026-02-24,343.99,Delayed
+SHP01354,CryoViva India,Gurugram,Mumbai,NFO,23.39,2026-06-01,2026-06-04,2094.77,Delivered
+SHP01355,CryoViva India,Hyderabad,Kolkata,NFO,1.48,2026-05-06,2026-05-13,134.81,Delivered
+SHP01356,Healthians,Bengaluru,Hyderabad,HC GOLD,19.29,2026-01-07,2026-01-14,2324.67,Delivered
+SHP01357,Metropolis Healthcare,Hyderabad,Chennai,HC GOLD,15.1,2026-04-02,2026-04-08,1743.43,Delayed
+SHP01358,Tata 1mg,Gurugram,Ahmedabad,NFO,4.04,2026-05-07,2026-05-11,348.38,Delivered
+SHP01359,Pathkind Labs,Ahmedabad,Mumbai,HC GOLD,1.5,2026-03-25,2026-03-31,190.7,Delivered
+SHP01360,Pathkind Labs,Gurugram,Hyderabad,HC SILVER,2.43,2026-06-13,2026-06-16,218.38,Delivered
+SHP01361,Tata 1mg,Lucknow,Bengaluru,HC SILVER,11.12,2026-01-30,2026-02-05,1213.52,Delayed
+SHP01362,Pathkind Labs,Ahmedabad,Pune,HC SILVER,6.47,2026-01-13,2026-01-21,586.25,Delayed
+SHP01363,CORE Diagnostics,Kolkata,Bengaluru,NFO,16.95,2026-06-04,2026-06-08,1394.89,Delivered
+SHP01364,CryoViva India,Kolkata,Mumbai,HC GOLD,16.6,2026-03-12,2026-03-15,2278.8,Delivered
+SHP01365,Redcliffe Labs,Chennai,Gurugram,NFO,17.87,2026-02-26,2026-03-03,1643.57,Delayed
+SHP01366,Dr Lal PathLabs,Ahmedabad,Hyderabad,NFO,15.08,2026-05-19,2026-05-23,1157.65,Delivered
+SHP01367,Healthians,Chennai,Kolkata,HC SILVER,4.22,2026-05-08,2026-05-13,428.26,Delayed
+SHP01368,CryoViva India,Bengaluru,Hyderabad,HC GOLD,14.5,2026-01-21,2026-01-29,1602.15,Delayed
+SHP01369,Healthians,Lucknow,Pune,NFO,18.9,2026-04-26,2026-05-03,1512.81,Delivered
+SHP01370,Suraksha Diagnostics,Chennai,Chandigarh,NFO,19.24,2026-03-14,2026-03-24,1876.49,Delayed
+SHP01371,CORE Diagnostics,Kolkata,Ahmedabad,NFO,23.75,2026-02-01,2026-02-03,2104.92,Delivered
+SHP01372,Suraksha Diagnostics,Noida,Mumbai,HC GOLD,9.12,2026-02-25,2026-03-05,1072.35,Delayed
+SHP01373,Tata 1mg,Chennai,Lucknow,HC GOLD,17.33,2026-06-12,2026-06-21,2148.49,Delayed
+SHP01374,Oncquest Labs,Mumbai,Hyderabad,HC GOLD,7.51,2026-04-26,,851.1,In Transit
+SHP01375,Pathkind Labs,Bengaluru,Delhi,HC SILVER,19.19,2026-06-17,2026-06-21,1815.46,Delayed
+SHP01376,Suraksha Diagnostics,Chandigarh,Kolkata,NFO,16.09,2026-06-08,2026-06-10,1402.99,Delivered
+SHP01377,Dr Lal PathLabs,Gurugram,Chandigarh,HC GOLD,23.66,2026-03-25,2026-04-02,2890.24,Delivered
+SHP01378,CryoViva India,Gurugram,Kolkata,HC GOLD,22.15,2026-06-17,2026-06-27,2965.95,Delayed
+SHP01379,Healthians,Noida,Pune,HC GOLD,6.36,2026-05-01,2026-05-04,857.54,Delivered
+SHP01380,Oncquest Labs,Mumbai,Chandigarh,NFO,17.25,2026-04-24,,1384.46,In Transit
+SHP01381,Tata 1mg,Hyderabad,Ahmedabad,HC SILVER,21.03,2026-02-10,2026-02-12,1832.95,Delivered
+SHP01382,Suraksha Diagnostics,Lucknow,Delhi,HC SILVER,24.89,2026-04-09,,2374.65,In Transit
+SHP01383,Tata 1mg,Bengaluru,Ahmedabad,HC GOLD,15.37,2026-05-17,2026-05-18,1994.73,Delivered
+SHP01384,CryoViva India,Bengaluru,Hyderabad,NFO,18.06,2026-05-11,2026-05-15,1421.36,Delivered
+SHP01385,Tata 1mg,Bengaluru,Chandigarh,HC GOLD,9.48,2026-06-18,2026-06-21,1250.1,Delivered
+SHP01386,Tata 1mg,Mumbai,Chennai,NFO,17.5,2026-04-28,,1429.76,In Transit
+SHP01387,Metropolis Healthcare,Bengaluru,Kolkata,HC GOLD,8.6,2026-04-26,2026-05-03,1082.16,Delayed
+SHP01388,Pathkind Labs,Noida,Mumbai,NFO,5.92,2026-04-05,2026-04-10,491.46,Delivered
+SHP01389,Dr Lal PathLabs,Lucknow,Noida,HC GOLD,12.14,2026-04-23,2026-04-26,1564.27,Delivered
+SHP01390,Metropolis Healthcare,Noida,Chandigarh,HC SILVER,6.8,2026-02-28,,615.58,In Transit
+SHP01391,Dr Lal PathLabs,Bengaluru,Noida,NFO,9.42,2026-05-11,2026-05-16,900.79,Delivered
+SHP01392,CORE Diagnostics,Chennai,Lucknow,HC GOLD,12.78,2026-05-14,2026-05-17,1566.28,Delivered
+SHP01393,Oncquest Labs,Noida,Ahmedabad,NFO,22.48,2026-01-04,2026-01-06,1826.87,Delivered
+SHP01394,Tata 1mg,Bengaluru,Chandigarh,HC GOLD,9.23,2026-04-28,2026-05-05,1229.43,Delayed
+SHP01395,Redcliffe Labs,Pune,Mumbai,NFO,1.3,2026-06-10,2026-06-11,106.95,Delivered
+SHP01396,Tata 1mg,Pune,Ahmedabad,HC SILVER,1.87,2026-05-26,2026-06-03,168.0,Delivered
+SHP01397,Redcliffe Labs,Chandigarh,Mumbai,HC GOLD,11.67,2026-01-11,2026-01-16,1292.34,Delivered
+SHP01398,CORE Diagnostics,Mumbai,Gurugram,HC GOLD,1.99,2026-02-28,2026-03-08,243.41,Delayed
+SHP01399,CryoViva India,Gurugram,Ahmedabad,NFO,16.03,2026-02-20,2026-02-24,1388.45,Delivered
+SHP01400,Dr Lal PathLabs,Gurugram,Ahmedabad,NFO,12.44,2026-05-26,2026-06-01,1179.3,Delayed
+SHP01401,Redcliffe Labs,Gurugram,Pune,HC GOLD,16.06,2026-04-27,2026-04-28,2024.21,Delivered
+SHP01402,CORE Diagnostics,Hyderabad,Lucknow,NFO,12.34,2026-03-14,2026-03-17,1009.31,Delivered
+SHP01403,Pathkind Labs,Bengaluru,Lucknow,HC GOLD,15.84,2026-01-29,2026-02-03,1934.3,Delivered
+SHP01404,Tata 1mg,Noida,Mumbai,HC GOLD,16.99,2026-01-25,2026-01-29,2109.44,Delivered
+SHP01405,Tata 1mg,Noida,Bengaluru,HC GOLD,5.72,2026-05-09,2026-05-12,698.73,Delivered
+SHP01406,Dr Lal PathLabs,Chandigarh,Bengaluru,NFO,16.96,2026-03-24,2026-03-26,1580.65,Delivered
+SHP01407,CORE Diagnostics,Noida,Chandigarh,NFO,13.15,2026-05-02,,1122.48,In Transit
+SHP01408,Redcliffe Labs,Lucknow,Bengaluru,HC SILVER,12.06,2026-03-19,2026-03-22,1239.28,Delivered
+SHP01409,Oncquest Labs,Lucknow,Chennai,NFO,14.3,2026-04-17,,1379.59,In Transit
+SHP01410,Healthians,Delhi,Hyderabad,HC GOLD,3.93,2026-04-27,2026-04-30,448.28,Delivered
+SHP01411,Metropolis Healthcare,Chandigarh,Bengaluru,HC SILVER,1.08,2026-04-20,2026-04-24,111.3,Delivered
+SHP01412,Pathkind Labs,Mumbai,Chandigarh,NFO,7.21,2026-01-20,2026-01-22,625.06,Delivered
+SHP01413,Oncquest Labs,Lucknow,Ahmedabad,HC SILVER,23.69,2026-06-18,2026-06-27,2166.07,Delayed
+SHP01414,Suraksha Diagnostics,Ahmedabad,Chandigarh,NFO,1.87,2026-03-29,2026-04-05,160.46,Delayed
+SHP01415,Oncquest Labs,Bengaluru,Gurugram,NFO,18.87,2026-03-25,,1504.41,In Transit
+SHP01416,Metropolis Healthcare,Noida,Chandigarh,HC GOLD,14.26,2026-04-23,2026-04-25,1866.4,Delivered
+SHP01417,Pathkind Labs,Bengaluru,Ahmedabad,HC SILVER,17.39,2026-02-05,,1811.43,In Transit
+SHP01418,Healthians,Lucknow,Chennai,HC SILVER,11.42,2026-02-24,2026-02-26,1101.39,Delivered
+SHP01419,Metropolis Healthcare,Chennai,Mumbai,NFO,18.82,2026-01-06,2026-01-08,1610.63,Delivered
+SHP01420,Pathkind Labs,Hyderabad,Delhi,NFO,24.75,2026-04-06,2026-04-12,2417.03,Delayed
+SHP01421,Pathkind Labs,Pune,Chennai,NFO,14.58,2026-06-12,2026-06-15,1290.52,Delayed
+SHP01422,Pathkind Labs,Pune,Gurugram,NFO,13.08,2026-01-23,2026-01-28,1276.61,Delivered
+SHP01423,Suraksha Diagnostics,Gurugram,Lucknow,HC SILVER,11.91,2026-02-08,2026-02-14,1114.42,Delivered
+SHP01424,CryoViva India,Pune,Kolkata,NFO,7.7,2026-06-09,2026-06-15,658.94,Delivered
+SHP01425,Dr Lal PathLabs,Bengaluru,Mumbai,HC GOLD,8.5,2026-04-28,,1127.49,In Transit
+SHP01426,CORE Diagnostics,Chennai,Chandigarh,NFO,4.13,2026-03-20,2026-03-25,398.84,Delivered
+SHP01427,Pathkind Labs,Delhi,Mumbai,NFO,2.2,2026-03-22,2026-03-27,177.73,Delayed
+SHP01428,Metropolis Healthcare,Noida,Hyderabad,NFO,23.04,2026-04-01,2026-04-02,2224.93,Delivered
+SHP01429,CryoViva India,Gurugram,Hyderabad,NFO,18.73,2026-02-23,2026-02-27,1591.72,Delivered
+SHP01430,Dr Lal PathLabs,Mumbai,Hyderabad,HC SILVER,2.77,2026-02-14,2026-02-25,244.84,Delayed
+SHP01431,Oncquest Labs,Mumbai,Gurugram,HC GOLD,9.28,2026-03-23,2026-03-28,1224.9,Delivered
+SHP01432,Metropolis Healthcare,Chennai,Pune,HC GOLD,23.65,2026-01-05,2026-01-06,2838.22,Delivered
+SHP01433,Healthians,Gurugram,Kolkata,HC SILVER,21.0,2026-04-22,2026-04-25,1837.62,Delivered
+SHP01434,Oncquest Labs,Chandigarh,Kolkata,NFO,24.12,2026-06-15,2026-06-19,1936.09,Delivered
+SHP01435,Pathkind Labs,Delhi,Mumbai,NFO,17.53,2026-01-10,2026-01-14,1663.77,Delayed
+SHP01436,Healthians,Chandigarh,Bengaluru,HC GOLD,20.67,2026-04-18,2026-04-20,2830.94,Delivered
+SHP01437,CORE Diagnostics,Lucknow,Chandigarh,NFO,23.16,2026-02-11,2026-02-14,2079.49,Delivered
+SHP01438,Healthians,Bengaluru,Chandigarh,NFO,1.13,2026-01-08,2026-01-12,89.91,Delivered
+SHP01439,Pathkind Labs,Kolkata,Delhi,NFO,15.16,2026-05-15,2026-05-19,1448.77,Delivered
+SHP01440,Tata 1mg,Gurugram,Hyderabad,NFO,12.15,2026-04-17,2026-04-25,1138.46,Delivered
+SHP01441,Oncquest Labs,Delhi,Chennai,NFO,22.62,2026-02-02,2026-02-11,1906.16,Delayed
+SHP01442,Tata 1mg,Ahmedabad,Lucknow,NFO,18.84,2026-05-27,2026-05-30,1763.72,Delivered
+SHP01443,Tata 1mg,Noida,Bengaluru,HC GOLD,18.07,2026-03-14,2026-03-21,2051.65,Delivered
+SHP01444,Healthians,Chandigarh,Bengaluru,HC GOLD,11.82,2026-06-01,2026-06-12,1626.78,Delayed
+SHP01445,Healthians,Bengaluru,Noida,NFO,16.7,2026-05-29,2026-06-04,1501.79,Delayed
+SHP01446,CryoViva India,Mumbai,Noida,NFO,1.34,2026-03-02,2026-03-04,118.8,Delivered
+SHP01447,Redcliffe Labs,Hyderabad,Chennai,HC GOLD,20.52,2026-05-28,2026-06-01,2495.15,Delivered
+SHP01448,Oncquest Labs,Bengaluru,Ahmedabad,NFO,7.34,2026-05-12,2026-05-15,590.57,Delivered
+SHP01449,Pathkind Labs,Chennai,Pune,NFO,2.86,2026-03-29,2026-04-05,244.71,Delivered
+SHP01450,CORE Diagnostics,Delhi,Ahmedabad,NFO,24.39,2026-01-29,2026-02-03,1931.29,Delayed
+SHP01451,Oncquest Labs,Chennai,Bengaluru,NFO,24.62,2026-01-22,2026-01-27,2375.87,Delivered
+SHP01452,CORE Diagnostics,Pune,Mumbai,HC SILVER,5.94,2026-01-05,2026-01-11,582.02,Delayed
+SHP01453,Pathkind Labs,Noida,Chandigarh,HC GOLD,20.11,2026-04-03,2026-04-08,2773.48,Delivered
+SHP01454,CORE Diagnostics,Noida,Kolkata,NFO,4.56,2026-06-12,2026-06-17,421.62,Delivered
+SHP01455,Dr Lal PathLabs,Noida,Ahmedabad,NFO,5.45,2026-01-13,2026-01-17,477.35,Delivered
+SHP01456,Oncquest Labs,Kolkata,Pune,NFO,18.18,2026-03-18,2026-03-19,1605.47,Delivered
+SHP01457,Dr Lal PathLabs,Bengaluru,Mumbai,HC GOLD,2.14,2026-04-16,2026-04-18,241.41,Delivered
+SHP01458,CORE Diagnostics,Mumbai,Hyderabad,HC GOLD,10.08,2026-02-19,,1194.6,In Transit
+SHP01459,CORE Diagnostics,Mumbai,Chennai,HC SILVER,3.53,2026-05-30,2026-06-01,358.17,Delivered
+SHP01460,Tata 1mg,Chennai,Delhi,HC GOLD,13.34,2026-06-10,2026-06-17,1560.31,Delivered
+SHP01461,Dr Lal PathLabs,Gurugram,Ahmedabad,NFO,2.22,2026-03-29,2026-04-01,211.87,Delivered
+SHP01462,Oncquest Labs,Gurugram,Lucknow,NFO,4.63,2026-06-27,,382.84,In Transit
+SHP01463,Tata 1mg,Pune,Gurugram,HC SILVER,15.28,2026-06-03,2026-06-06,1547.74,Delivered
+SHP01464,Suraksha Diagnostics,Lucknow,Kolkata,NFO,3.08,2026-03-13,2026-03-16,257.14,Delivered
+SHP01465,Healthians,Chandigarh,Bengaluru,NFO,2.98,2026-05-05,2026-05-12,241.99,Delayed
+SHP01466,Metropolis Healthcare,Kolkata,Lucknow,NFO,19.63,2026-05-05,2026-05-16,1658.46,Delayed
+SHP01467,Suraksha Diagnostics,Pune,Lucknow,NFO,3.14,2026-06-14,2026-06-17,248.05,Delayed
+SHP01468,Dr Lal PathLabs,Mumbai,Kolkata,HC GOLD,22.64,2026-04-18,2026-04-24,2681.01,Delayed
+SHP01469,Dr Lal PathLabs,Hyderabad,Pune,HC SILVER,1.41,2026-04-13,2026-04-19,127.79,Delayed
+SHP01470,Healthians,Noida,Delhi,NFO,23.06,2026-01-08,,2200.68,In Transit
+SHP01471,Healthians,Chennai,Lucknow,NFO,24.16,2026-03-12,,1872.78,In Transit
+SHP01472,Metropolis Healthcare,Hyderabad,Lucknow,HC GOLD,4.43,2026-05-23,2026-06-01,576.88,Delayed
+SHP01473,Oncquest Labs,Chennai,Noida,HC SILVER,8.68,2026-06-07,2026-06-15,807.39,Delayed
+SHP01474,Tata 1mg,Bengaluru,Gurugram,HC GOLD,8.17,2026-05-08,,976.16,In Transit
+SHP01475,Healthians,Bengaluru,Pune,NFO,11.23,2026-04-03,2026-04-05,885.7,Delivered
+SHP01476,Pathkind Labs,Ahmedabad,Bengaluru,HC GOLD,14.23,2026-05-24,2026-05-29,1833.81,Delivered
+SHP01477,Tata 1mg,Mumbai,Gurugram,HC GOLD,22.91,2026-06-19,,2655.29,In Transit
+SHP01478,Pathkind Labs,Lucknow,Chennai,NFO,3.76,2026-04-09,,364.03,In Transit
+SHP01479,Dr Lal PathLabs,Bengaluru,Chandigarh,HC SILVER,8.43,2026-02-27,,728.93,In Transit
+SHP01480,Metropolis Healthcare,Pune,Noida,NFO,6.0,2026-06-27,2026-06-29,515.15,Delivered
+SHP01481,CryoViva India,Mumbai,Noida,NFO,24.13,2026-06-06,,2071.02,In Transit
+SHP01482,Dr Lal PathLabs,Pune,Ahmedabad,NFO,5.06,2026-05-13,2026-05-18,482.64,Delivered
+SHP01483,Healthians,Kolkata,Bengaluru,HC SILVER,6.96,2026-04-05,2026-04-08,654.1,Delivered
+SHP01484,Healthians,Lucknow,Noida,HC SILVER,24.66,2026-03-05,2026-03-13,2165.02,Delayed
+SHP01485,Pathkind Labs,Pune,Hyderabad,NFO,20.28,2026-06-04,2026-06-10,1860.65,Delayed
+SHP01486,Redcliffe Labs,Chandigarh,Pune,NFO,14.57,2026-01-14,2026-01-23,1268.52,Delayed
+SHP01487,CORE Diagnostics,Kolkata,Gurugram,NFO,11.49,2026-06-16,2026-06-17,1051.44,Delivered
+SHP01488,Healthians,Gurugram,Lucknow,NFO,18.11,2026-05-26,2026-05-31,1660.04,Delayed
+SHP01489,CORE Diagnostics,Hyderabad,Kolkata,HC SILVER,5.77,2026-04-26,2026-05-03,538.63,Delayed
+SHP01490,Suraksha Diagnostics,Ahmedabad,Pune,NFO,13.72,2026-06-24,2026-06-29,1332.64,Delivered
+SHP01491,Dr Lal PathLabs,Delhi,Kolkata,NFO,24.45,2026-06-07,2026-06-13,2249.9,Delayed
+SHP01492,Redcliffe Labs,Lucknow,Mumbai,HC SILVER,19.46,2026-02-15,2026-02-17,1892.6,Delivered
+SHP01493,Tata 1mg,Gurugram,Kolkata,NFO,10.39,2026-06-29,,884.82,In Transit
+SHP01494,CORE Diagnostics,Lucknow,Hyderabad,HC SILVER,4.98,2026-03-21,2026-03-24,529.76,Delivered
+SHP01495,CORE Diagnostics,Hyderabad,Gurugram,NFO,5.41,2026-03-31,2026-04-01,424.67,Delivered
+SHP01496,Dr Lal PathLabs,Bengaluru,Delhi,NFO,14.15,2026-06-24,2026-06-30,1086.26,Delivered
+SHP01497,Metropolis Healthcare,Chennai,Hyderabad,NFO,22.68,2026-05-25,,1768.46,In Transit
+SHP01498,Dr Lal PathLabs,Noida,Bengaluru,NFO,13.61,2026-03-30,,1238.75,In Transit
+SHP01499,Healthians,Noida,Chandigarh,HC GOLD,22.34,2026-06-30,2026-07-05,2958.51,Delayed
+SHP01500,Dr Lal PathLabs,Hyderabad,Delhi,NFO,13.67,2026-01-31,2026-02-06,1098.16,Delivered
